@@ -497,6 +497,9 @@ COMMON_WORDS: set[str] = {
     "de", "den", "d'", "e", "en", "eng", "dat", "wat", "dee", "déi",
     "ech", "du", "hien", "hatt", "si", "mir", "dir", "sech",
     "meng", "deng", "seng", "eist", "är", "hir",
+    # Demonstratives & relatives
+    "dësen", "dës", "dat", "dee", "déi", "wat", "wou", "wéini", "firwat",
+    "dohannen", "hihannen", "heians", "ees",
     # Overlapping with German (valid in Luxembourgish too)
     "war", "hat", "der", "dem", "den", "die", "das",
     "ist", "sind", "wird", "werden", "kann", "noch",
@@ -505,28 +508,122 @@ COMMON_WORDS: set[str] = {
     # Prepositions
     "an", "am", "op", "vum", "mat", "fir", "zu", "bei", "no", "virun",
     "hanner", "iwwer", "ënner", "tëschent", "duerch", "ouni", "bis",
-    # Common nouns
-    "Dag", "Nuecht", "Joer", "Zäit", "Haus", "Kand", "Mënsch", "Fra",
-    "Mann", "Papp", "Mamm", "Schof", "Bouf", "Meedchen",
-    "Aarbecht", "Schoul", "Land", "Stad", "Wee", "Saach",
-    "Lëtzebuerg", "Lëtzebuergesch",
+    "bannent", "baussen", "laanscht", "géint", "wéinst", "zënter",
+    # Conjunctions & adverbs
+    "awer", "well", "noch", "och", "schonn", "schonns", "schéin",
+    "ëmmer", "ni", "héichstens", "vläicht", "geschwënn", "dunn",
+    "éischter", "besonnesch", "natierlech", "allerdéngs",
+    "säit", "ët", "haut", "gëschter", "muer", "erëm",
+    "eppes", "näischt", "méi", "manner", "genuch",
+    "dack", "selten", "dacks", "heians", "meeschtens", "bald",
+    "gär", "net", "jo", "nee", "dann",
+    # Common nouns - people & family
+    "Mann", "Fra", "Kand", "Meedchen", "Bouf", "Papp", "Mamm",
+    "Bomi", "Bop", "Brudder", "Schwëster", "Famill", "Kopp",
+    "Frënd", "Frëndin", "Noper", "Mënsch",
+    "Jong", "Alten", "Jugendlech",
+    # Common nouns - body
+    "Kapp", "A", "Nues", "Mond", "Ouer", "Fanger", "Fouss",
+    "Hand", "Kierper", "Bier", "Réck", "Häerz",
+    # Common nouns - nature & weather
+    "Sonn", "Mound", "Stär", "Reen", "Schnéi", "Wand", "Wollek",
+    "Bierg", "Dall", "Floss", "Séi", "Bësch", "Feld", "Heck",
+    "Baum", "Blieder", "Gras", "Blumm", "Äerd", "Himmel",
+    # Common nouns - time
+    "Dag", "Nuecht", "Mueren", "Owend", "Mëtteg", "Joer", "Mount",
+    "Woch", "Stonn", "Minutt", "Zäit", "Moment",
+    "Ufank", "Enn", "Hallef", "Véierel",
+    # Common nouns - places & buildings
+    "Haus", "Stad", "Duerf", "Strooss", "Plaz", "Kierch", "Schoul",
+    "Spidol", "Gare", "Maart", "Cafe", "Restaurant", "Park",
+    # Common nouns - transport
+    "Auto", "Bus", "Zuch", "Vëlo", "Fliger", "Bréck",
+    # Common nouns - food & drink
+    "Botter", "Kaffi", "Béier", "Wäin", "Brout", "Kas", "Fleesch",
+    "Geméis", "Kartoffel", "Ee", "Zocker", "Salz",
+    "Mëllech", "Waasser", "Téi", "Jus", "Bak", "Kuch",
+    "Iessen", "Mëttegiessen", "Oendiessen", "Frëstéck",
+    # Common nouns - clothing
+    "Kleedung", "Hosen", "Bitz", "Schong", "Hiem", "Pulli",
+    "Mantel", "Hiwwel", "Brëll",
+    # Common nouns - everyday objects
+    "Buch", "Zäitung", "Dier", "Tasch", "Geld",
+    "Schlësselen", "Telefoun", "Computer",
+    # Common nouns - abstract
+    "Liewen", "Léift", "Frëndschaft", "Gléck", "Freed", "Leed",
+    "Gesondheet", "Aarbecht", "Fräizäit", "Kultur", "Politik",
+    "Sprooch", "Land", "Welt", "Gesellschaft", "Geschicht",
+    # Common nouns - Luxembourg specific
+    "Lëtzebuerg", "Lëtzebuergesch", "Grand-Duc", "Gemeng", "Minett",
+    "Éislek", "Guttland", "Musel", "Sauer", "Alzette",
     # Common ë-words (ë is always short, no doubling needed)
     "Mëllech", "ëffentlech", "ëmmer", "Mëttwoch", "Këscht", "Fëscher",
-    "gëtt", "bëtzen", "Zënter", "Gëtt",
-    # Common food/drink
-    "Botter", "Kaffi", "Béier", "Wäin", "Brout",
-    "Kas", "Fleesch", "Geméis", "Kartoffel", "Schwéng",
+    "gëtt", "bëtzen", "Zënter", "Gëtt", "ëm", "ënner", "ët",
+    "Mënsch", "Sëtz", "Päerd", "Bësch",
+    "ëmmerhin", "ërëm",
     # Animals
-    "Kaz", "Hond", "Maus", "Päerd", "Kou", "Schof",
-    "Vull", "Fësch", "Krott", "Hues",
-    # Verbs (past participles)
+    "Kaz", "Hond", "Maus", "Päerd", "Kou", "Schof", "Vull",
+    "Fësch", "Krott", "Hues", "Kanéngchen", "Schnéck",
+    "Spann", "Fléi", "Milleg", "Déier",
+    # Verbs - infinitives
+    "sinn", "hunn", "goen", "kommen", "maachen", "wëllen", "kënnen",
+    "mussen", "gesinn", "huelen", "fannen", "schreiwen", "liesen",
+    "schwätzen", "molen", "faulen", "liewen", "stierwen", "schlofen",
+    "iessen", "drénken", "spillen", "schaffen", "léieren",
+    "léisen", "fueren", "fléien", "schwammen", "lafen", "sëtzen",
+    "stoen", "leien", "ginn", "hëllefen", "soen", "froen", "antwerten",
+    "denken", "wëssen", "héieren", "lauschteren",
+    "loossen", "brengen",
+    # Verbs - present tense
+    "ass", "huet", "gëtt", "geet", "kann", "wëll", "muss", "hunn",
+    "sin", "maacht", "kënnt", "seet",
+    # Verbs - past tense
+    "war", "hat", "gouf", "koum", "goung", "sot",
+    "wousst", "konnt", "wollt", "misst", "duerft",
+    # Verbs - past participles
     "gelieft", "gemaacht", "geschriwwen", "gelies", "gesinn",
     "gefonnt", "geholl", "gelooss", "gefrot", "gesot",
-    "gefaangen", "geschlofen", "gelaf", "gefall",
-    # Common places
+    "gefaangen", "geschlofen", "gelaf", "gefall", "gewies",
+    "giess", "gedronk", "gespillt", "geschafft", "geléiert",
+    "gefiert", "geflunn", "geschwam", "gesëtzt", "gestanen",
+    "geleeën", "gehollef", "gelosst",
+    # Common adjectives
+    "gutt", "schléi", "schéin", "grouss", "kleng", "nei", "al",
+    "wäiss", "schwaarz", "rout", "blo", "gréng", "giel",
+    "gewéinlech", "speziell", "alen", "roued", "laang", "kuerz",
+    "wäit", "no", "déif", "héich", "breet", "schmuel",
+    "kal", "waarm", "fiiss", "naass", "dréche", "waech",
+    "léif", "béis", "schlëmm", "flénk", "lues", "séier",
+    "schwaach", "staark", "rund",
+    "einfach", "schwéier", "liicht",
+    "voll", "eid", "richteg", "falsch", "eescht", "wéineg",
+    "genuch", "vill", "ze",
+    # Numbers
+    "een", "zwee", "dräi", "véier", "fënnef", "sechs", "siwen",
+    "aacht", "néng", "zéng", "fofzéng", "nonzéng", "honnert",
+    "dausend", "millioun", "null", "éis", "béid",
+    # Days
+    "Méindeg", "Dënschdeg", "Mëttwoch", "Donneschdeg", "Freideg",
+    "Samschdeg", "Sonndeg",
+    # Months
+    "Januar", "Februar", "Mäerz", "Abrëll", "Mee", "Juni",
+    "Juli", "August", "September", "Oktober", "November", "Dezember",
+    # Seasons
+    "Fréijoer", "Summer", "Hierscht", "Wanter",
+    # Greetings & common phrases
+    "Moien", "Äddi", "Merci", "Wannechgelift", "Entschëllegt",
+    "keng", "weeder", "nach", "awer", "och", "duerch", "well",
+    "wéi", "dat", "dës", "dësen", "hier", "eis", "är",
+    "genannt", "mam", "vun", "bei", "ëm", "firwat", "wéini",
+    "wou", "hei", "do", "dack", "gär", "net", "jo", "nee",
+    "schonns", "eppes", "näischt", "méi", "manner", "wéineg",
+    "vill", "zesummen", "erëm", "dann",
+    # Common places in Luxembourg
     "Lampertsbierg", "Bouneweg", "Esch", "Diddeleng", "Esch-Sauer",
     "Kleng", "Grouss", "Bierg", "Dall", "Feld", "Bësch",
-    # Scouting / Fiiss specific
+    "Stad", "Duerf", "Kierfecht", "Gare", "Maart",
+    "Märel", "Zitha", "Belen", "Eech", "Rollengergronn",
+    "Weimeschkierch", "Hiehl", "Gasperch", "Howald", "Cloche-d'Or",
     # Scouting / Fiiss specific
     "Scouten", "Explorer", "Rover", "Cheffen", "Scoutstrupp", "Scoutswäerter",
     "Aventur", "Frëndschaft", "Reuniounen", "Summercampen", "Wisefest",
@@ -542,7 +639,7 @@ COMMON_WORDS: set[str] = {
     "Jugendscouting", "Encadréieren", "encadréieren", "reservéiert",
     "bäitrieden", "kontaktéieren", "kontaktéiert",
     "decidéiert", "Volontairen", "Fräiwëlleger", "Volontaire",
-    "ännerstëtzen", "Naturkompetenzen", "Teamwork",
+    "ënnerstëtzen", "Naturkompetenzen", "Teamwork",
     "Komitéen", "Komitee", "identitéit", "Identitéit",
     "Aktivitéiten", "Aktivitéit", "Erausfuerderungen",
     "Fäegkeeten", "Fäegkeet", "Selbstvertrauen", "Prescht",
@@ -555,30 +652,6 @@ COMMON_WORDS: set[str] = {
     "Deglech", "Éischte", "Orientéierung", "onvergässlech",
     "Reenkleedung", "Umellung", "Ganzdaagswanderung", "Reemkleedung",
     "Summercamp", "Lager", "Wisefest", "Fest",
-
-
-    # Common adjectives
-    "gutt", "schléi", "schéin", "grouss", "kleng", "nei", "al",
-    "wäiss", "schwaarz", "rout", "blo", "gréng", "giel",
-    "gewéinlech", "speziell", "kleng", "alen", "roued",
-    # Common verbs
-    "sinn", "hunn", "goen", "kommen", "maachen", "sinn", "wëllen",
-    "schonn", "schonns",
-    "kënnen", "mussen", "daten", "gesinn", "huelen", "fannen",
-    "schreiwen", "liesen", "schwätzen", "molen", "faulen",
-    # Numbers
-    "een", "zwee", "dräi", "véier", "fënnef", "sechs", "siwen",
-    "aacht", "néng", "zéng", "fofzéng", "nonzéng", "honnert",
-    # Days
-    "Méindeg", "Dënschdeg", "Mëttwoch", "Donneschdeg", "Freideg",
-    "Samschdeg", "Sonndeg",
-    # Seasons
-    "Fréijoer", "Summer", "Hierscht", "Wanter",
-    # Greetings & common phrases
-    "Moien", "Äddi", "Merci", "Wannechgelift", "Entschëllegt",
-    "keng", "weeder", "nach", "awer", "och", "duerch", "well",
-    "wéi", "dat", "dës", "dësen", "hier", "eis", "är",
-    "genannt", "mam",
 }
 
 # Common misspellings mapped to corrections
@@ -604,24 +677,48 @@ COMMON_MISSPELLINGS: dict[str, str] = {
     "von": "vun",
     "zur": "zur",
     "zum": "zum",
-    # Vowel doubling errors
-    "Arbecht": "Aarbecht",
-    "Strass": "Strooss",
-    "Fro": "Fro",  # correct - long vowel before single consonant
-    "Frau": "Fra",  # Luxembourgish uses Fra, not Frau
-    "Haus": "Haus",  # correct - diphthong
-    "Buch": "Buch",  # correct - short u + ch cluster
-    # Common confusion
-    "ei Schéin": "e schéint",  # n-rule
-    "ei schéin Dach": "eng schéin Dach",  # n kept before d
-    # ë vs e confusion
-    "Lëtzebuurg": "Lëtzebuerg",
-    "gëttlech": "gëttlech",  # correct
-    "gëtt": "gëtt",  # correct
-    # ee vs e
-    "ebben": "eeben",
-    "extreem": "extreem",  # correct
-    "extrem": "extrem",  # also correct variant
+    # More German→Luxembourgish
+    "heute": "haut",
+    "gestern": "gëschter",
+    "morgen": "muer",
+    "immer": "ëmmer",
+    "nie": "ni",
+    "vielleicht": "vläicht",
+    "weil": "well",
+    "wenn": "wann",
+    "noch": "nach",
+    "schon": "schonn",
+    "hier": "hei",
+    "dort": "do",
+    "wo": "wou",
+    "wie": "wéi",
+    "was": "wat",
+    "wer": "wen",
+    "ich": "ech",
+    "er": "hien",
+    "sie": "si",
+    "wir": "mir",
+    "ihr": "dir",
+    "kein": "keng",
+    "keine": "keng",
+    "nichts": "näischt",
+    "etwas": "eppes",
+    "mehr": "méi",
+    "weniger": "manner",
+    "sehr": "gär",
+    "gut": "gutt",
+    "schlecht": "schléi",
+    "groß": "grouss",
+    "klein": "kleng",
+    "alt": "al",
+    "neu": "nei",
+    "lang": "laang",
+    "kurz": "kuerz",
+    "ja": "jo",
+    "nein": "nee",
+    "bitte": "Wannechgelift",
+    "danke": "Merci",
+    "Entschuldigung": "Entschëllegt",
     # ß (not used in Luxembourgish)
     "Straße": "Strooss",
     "daß": "datt",
@@ -629,4 +726,15 @@ COMMON_MISSPELLINGS: dict[str, str] = {
     "groß": "grouss",
     "außen": "baussen",
     "heißen": "heeschen",
+    # Vowel doubling errors
+    "Arbecht": "Aarbecht",
+    "Strass": "Strooss",
+    "Frau": "Fra",  # Luxembourgish uses Fra, not Frau
+    # Common confusion
+    "ei Schéin": "e schéint",  # n-rule
+    "ei schéin Dach": "eng schéin Dach",  # n kept before d
+    # ë vs e confusion
+    "Lëtzebuurg": "Lëtzebuerg",
+    # ee vs e
+    "ebben": "eeben",
 }
