@@ -665,7 +665,7 @@ COMMON_WORDS: set[str] = {
     "Ënnerstëtzung", "Organisatioun",
     "Virbereedung", "Erwuessener", "Erwuessenerleedungsteam",
     "onofhängeg", "ofhängeg", "Wéchentlech", "wéchentlech",
-    "Gemeinschaftsservice", "Federalsaktivitéiten", "Projeten",
+    "Benevolat", "Benevolat-Projeten", "Federalsaktivitéiten", "Projeten",
     "Jugendscouting", "Encadréieren", "encadréieren", "reservéiert",
     "bäitrieden", "kontaktéieren", "kontaktéiert",
     "decidéiert", "Volontairen", "Volontaire",
@@ -786,4 +786,6 @@ COMMON_MISSPELLINGS: dict[str, str] = {
     "Wanderschong": "Biergschong",  # variant misspelling
     "Branchleader": "Branchechef",  # FNEL term for branch leader
     "Branch-Leeder": "Branchechef",  # not a real term; use Branchechef
+    "Serviceprojeten an der Gemeinschaft": "Benevolat-Projeten",  # not a Luxembourgish phrase
+    "Gemeinschaftsservice": "Benevolat",  # not a real compound; use Benevolat (FNEL term)
 }
