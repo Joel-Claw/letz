@@ -779,4 +779,8 @@ COMMON_MISSPELLINGS: dict[str, str] = {
     "Erwuessenerteam": "Erwuessenerleedungsteam",  # wrong compound
     "Gemeinschaft": "Gemeinschaft",  # Gemeinschaft is the real word (not Gemengschaft)
     "Aventur": "Abenteuer",  # Aventur is not a word; use Abenteuer or Aventure
+    "Spillsin": "Spuet",  # not a word; Spuet = fun/Sinn for sense
+    "Wanderstackschauen": "Wanderschoen",  # hiking boots, not a made-up compound
+    "Wanderschong": "Wanderschoen",  # variant misspelling of hiking boots
+    "Branchleader": "Branch-Leeder",  # FNEL uses Leedung/Leeder, not English Leader
 }
