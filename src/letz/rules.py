@@ -791,7 +791,8 @@ COMMON_MISSPELLINGS: dict[str, str] = {
     "Gemeinschaftsservice": "Benevolat",  # not a real compound; use Benevolat (FNEL term)
     "Matmaacher": "Participant",  # Matmaacher is not the word for participant; use Participant
     "Lageren": "Campen",  # FNEL uses Camp/Campen (French loanword), not Lageren
-    "Iwwerliewensherausfuerderungen": "Survival-Herausfuerderungen",  # ridiculous compound; Bichelchen uses Survival
+    "Erausfuerderung": "Challenge",  # not a Luxembourgish compound; FNEL uses Challenge (English loanword)
+    "Iwwerliewensherausfuerderungen": "Survival-Challengen",  # ridiculous compound; Bichelchen uses Challenge
     "Planifikatioun": "Plangen",  # Bichelchen uses Plangen, not Planifikatioun
     "Animator": "Animateuren",  # Animator is German; Luxembourgish uses Animateuren (French loanword)
     "Formatoun": "Formatioun",  # typo; Formatioun has an 'i'
