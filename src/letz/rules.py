@@ -503,6 +503,22 @@ COMMON_WORDS: set[str] = {
     "Mann", "Papp", "Mamm", "Schof", "Bouf", "Meedchen",
     "Aarbecht", "Schoul", "Land", "Stad", "Wee", "Saach",
     "Lëtzebuerg", "Lëtzebuergesch",
+    # Common ë-words (ë is always short, no doubling needed)
+    "Mëllech", "ëffentlech", "ëmmer", "Mëttwoch", "Këscht", "Fëscher",
+    "gëtt", "bëtzen", "Zënter", "Gëtt",
+    # Common food/drink
+    "Botter", "Kaffi", "Béier", "Wäin", "Brout",
+    "Kas", "Fleesch", "Geméis", "Kartoffel", "Schwéng",
+    # Animals
+    "Kaz", "Hond", "Maus", "Päerd", "Kou", "Schof",
+    "Vull", "Fësch", "Krott", "Hues",
+    # Verbs (past participles)
+    "gelieft", "gemaacht", "geschriwwen", "gelies", "gesinn",
+    "gefonnt", "geholl", "gelooss", "gefrot", "gesot",
+    "gefaangen", "geschlofen", "gelaf", "gefall",
+    # Common places
+    "Lampertsbierg", "Bouneweg", "Esch", "Diddeleng", "Esch-Sauer",
+    "Kleng", "Grouss", "Bierg", "Dall", "Feld", "Bësch",
     # Common adjectives
     "gutt", "schléi", "schéin", "grouss", "kleng", "nei", "al",
     "wäiss", "schwaarz", "rout", "blo", "gréng", "giel",

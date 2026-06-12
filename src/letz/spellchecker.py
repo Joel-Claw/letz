@@ -378,7 +378,7 @@ class Spellchecker:
         if lower.endswith("echt"):
             structural_notes.append("ends in -echt (adjective suffix)")
         if lower.endswith("lech"):
-            structural_notes.append("ends in -lech (adverb suffix, like German -lich)")
+            structural_notes.append("ends in -lech (adverb suffix, like German -lich, but THIS is Luxembourgish)")
 
         if structural_notes and not german_patterns:
             notes.append(f"Word structure: {'; '.join(structural_notes)}")
