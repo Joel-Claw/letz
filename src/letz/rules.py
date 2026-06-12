@@ -521,7 +521,7 @@ COMMON_WORDS: set[str] = {
     "Mann", "Fra", "Kand", "Meedchen", "Bouf", "Papp", "Mamm",
     "Bomi", "Bop", "Brudder", "Schwëster", "Famill", "Kopp",
     "Frënd", "Frëndin", "Noper", "Mënsch",
-    "Jong", "Alten", "Jugendlech",
+    "Jong", "Alten", "Jugendlecher", "Jugendlech",
     # Common nouns - body
     "Kapp", "A", "Nues", "Mond", "Ouer", "Fanger", "Fouss",
     "Hand", "Kierper", "Bier", "Réck", "Häerz",
@@ -775,6 +775,7 @@ COMMON_MISSPELLINGS: dict[str, str] = {
     "Badger": "Badgen",  # Badge singular=Badge, plural=Badgen (French loanword)
     "Sécherheit": "Sécherheet",  # -heit → -heet in Luxembourgish, BUT in scouting context use Selbstvertrauen
     "aktivitten": "Aktivitéiten",  # missing accent and wrong plural suffix
+    "Jonk": "Jugendlecher",  # Jonk=young(adj), Jugendlecher=youth(people, noun) - logical error
     "Erwuessenerteam": "Erwuessenerleedungsteam",  # wrong compound
     "Gemeinschaft": "Gemeinschaft",  # Gemeinschaft is the real word (not Gemengschaft)
 }
