@@ -624,35 +624,66 @@ COMMON_WORDS: set[str] = {
     "Stad", "Duerf", "Kierfecht", "Gare", "Maart",
     "Märel", "Zitha", "Belen", "Eech", "Rollengergronn",
     "Weimeschkierch", "Hiehl", "Gasperch", "Howald", "Cloche-d'Or",
-    # Scouting / Fiiss specific
-    "Scouten", "Explorer", "Rover", "Cheffen", "Scoutstrupp", "Scoutswäerter",
-    "Aventur", "Frëndschaft", "Reuniounen", "Summercampen", "Wisefest",
+    # Scouting / Fiiss specific — FNEL terminology (Scoutsbichelchen 2022)
+    "Scouten", "Scout", "Explorer", "Rover", "Tembo",  # age branches
+    "Wëllefcher", "Wëllefchen", "Beaver",  # youngest branches
+    "Cheffen", "Cheff", "Chef", "Truppechef", "Kommissär",  # leaders
+    "Scoutstrupp", "Scoutswäerter", "Scoutsgesetz", "Scoutsgrouss",
+    "Scoutsverspriechen", "Scoutismus", "Scoutsmouvement",
+    "Scoutsbranche", "Scoutscarrière", "Scoutswee",
+    "Scoutsbridder", "Scoutefrënn", "Scoutschalet", "Scoutscentren",
+    "Scoutsprogramm", "Scoutsaktivitéit", "Scoutserfarung",
+    "Aventur", "Frëndschaft", "Reuniounen", "Reunioun",  # activities
+    "Summercampen", "Summercamp", "Wisefest", "Federalscamp",
     "Wandering", "Randonnée", "Randonnées", "Expeditiounen",
-    "perséinlech", "Entwécklung", "Gemeinschaft", "Communautéit", "Biergerschaft",
+    "Camp", "Campen", "Sortie", "Weekend",
+    "Jamboree", "PowWow", "Explo",  # events
+    "Patrull", "Patrullen", "Patrullensystem", "Patrullekreesch",
+    "Patrullennumm", "Patrulleklasseur", "Patrullefändel", "Patrulleblog",
+    "Carré", "Montée", "Veillée",  # rituals
+    "Totem", "Foulard", "Insigne", "Uniform", "Fändel", "Kordel",
+    "Badge", "Badgen", "Woodbadge", "Woodbadger",  # badges
+    "Branche", "Branchen", "Altersbranche", "Altersbranchen",
+    "Trupp", "Truppen", "Equipe", "Grupp",  # groups
+    "FNEL", "WOSM", "AGGL", "AABSL", "SIL", "LGS",  # organisations
+    "Federatioun", "Federatiounen", "Mouvement", "Verband",
+    "Zesummeschloss", "Permanent", "Formatioun", "Formatiounen",
+    "Presenzlëschten", "Rapporten", "Progressioun", "Progressiounstableau",
+    # Values and concepts
+    "Verspriechen", "Gesetz", "Devise", "Verflichtung",
+    "Gemeinschaft", "Communautéit", "Bridderlechkeet", "Bridderbond",
+    "Eenegkeet", "Zesummenhalt", "Zesummeliewen",
+    "Manéierlechkeet", "Diskriminéierung", "Iwwerzeegungen",
+    "loyal", "zouverlässeg", "éierlech", "fair", "manéierlech",
+    "respektéiert", "Heemescht", "Matmënschen",
+    "Laïzitéit", "laizistescht", "Benevolat", "Fräiwëlleger",
+    "Ofzeechen", "Auszeechnung", "Auszeechnungen",
+    # Skills and activities
+    "perséinlech", "Entwécklung", "Biergerschaft",
     "Aweiung", "Leedung", "echtlech", "méiglech",
     "Erfarung", "Erfarungen", "Verantwortung", "Verantwortungen",
-    "Ënnerstëtzung", "Formatioun", "Formatiounen", "Organisatioun",
-    "Virbereedung", "Erwuessener", "Erwuessenerleedung",
+    "Ënnerstëtzung", "Organisatioun",
+    "Virbereedung", "Erwuessener", "Erwuessenerleedungsteam",
     "onofhängeg", "ofhängeg", "Wéchentlech", "wéchentlech",
     "Gemeinschaftsservice", "Federalsaktivitéiten", "Projeten",
-    "Scoutserfahrung", "Scoutserfarung", "Scoutstufen",
-    "Badge", "Badgen", "Branche", "Branchen",  # French loanwords in scouting
     "Jugendscouting", "Encadréieren", "encadréieren", "reservéiert",
     "bäitrieden", "kontaktéieren", "kontaktéiert",
-    "decidéiert", "Volontairen", "Fräiwëlleger", "Volontaire",
+    "decidéiert", "Volontairen", "Volontaire",
     "ënnerstëtzen", "Naturkompetenzen", "Teamwork",
     "Komitéen", "Komitee", "identitéit", "Identitéit",
     "Aktivitéiten", "Aktivitéit", "Erausfuerderungen",
     "Fäegkeeten", "Fäegkeet", "Selbstvertrauen", "Prescht",
-    "Wisefest", "järlecht", "Campen", "Camp",
+    "järlecht", "Orientatioun", "Orientéierung",
+    "Nuetsspill", "Nuetsspiller", "Homescouting",
+    "Deglech", "Éischte", "onvergässlech",
+    "Reenkleedung", "Umellung", "Ganzdaagswanderung", "Reemkleedung",
+    "Lager", "Fest",
+    # Charge roles (from Scoutsbichelchen)
+    "Charge", "Chargen", "Secrétaire", "Tresorier",
+    "CP", "SP", "CT", "ACT",  # common abbreviations
     # German loanwords used in Luxembourgish
     "Zeitung", "Verfügung", "Grënnung", "Fusioun", "Konstruktioun",
     "Konditioun", "Professioun", "Sëtz", "Chalet", "Terrain",
-    "Foulard", "Uniform", "Federatioun", "Federatiounen",
-    # Camp/scouting terms
-    "Deglech", "Éischte", "Orientéierung", "onvergässlech",
-    "Reenkleedung", "Umellung", "Ganzdaagswanderung", "Reemkleedung",
-    "Summercamp", "Lager", "Wisefest", "Fest",
 }
 
 # Common misspellings mapped to corrections
@@ -741,4 +772,9 @@ COMMON_MISSPELLINGS: dict[str, str] = {
     # False Luxembourgish (German-influenced spellings that don't exist)
     "Gemengenschaft": "Gemeinschaft",  # not Gemeng+schaft, Gemeinschaft is the real word
     "Eiseecher": "eenen aneren",  # "each other" is eenen aneren, not a word
+    "Badger": "Badgen",  # Badge singular=Badge, plural=Badgen (French loanword)
+    "Sécherheit": "Sécherheet",  # -heit → -heet in Luxembourgish, BUT in scouting context use Selbstvertrauen
+    "aktivitten": "Aktivitéiten",  # missing accent and wrong plural suffix
+    "Erwuessenerteam": "Erwuessenerleedungsteam",  # wrong compound
+    "Gemeinschaft": "Gemeinschaft",  # Gemeinschaft is the real word (not Gemengschaft)
 }
