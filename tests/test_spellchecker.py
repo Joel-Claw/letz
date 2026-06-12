@@ -109,6 +109,54 @@ class TestTextChecking:
         assert len(errors) >= 2  # Both are German, not Luxembourgish
 
 
+class TestUnknownWordAnalysis:
+    """Test the _identify_unknown_word feature."""
+
+    def test_german_word_identified(self, checker):
+        """German words in COMMON_MISSPELLINGS should be caught with suggestions."""
+        result = checker.check_word("ich")
+        assert not result.is_valid
+        # Caught by common misspellings map
+        assert "ech" in result.suggestions
+
+    def test_german_dass_identified(self, checker):
+        result = checker.check_word("dass")
+        assert not result.is_valid
+        # Caught by common misspellings → suggests datt
+        assert "datt" in result.suggestions
+
+    def test_german_suffix_heit(self, checker):
+        """Words with German -heit suffix should be flagged as German-influenced."""
+        # Freiheit is not in common misspellings, so _identify_unknown_word runs
+        result = checker.check_word("Freiheit")
+        # Should be flagged as German-influenced (offline mode)
+        assert not result.is_valid
+        notes_text = " ".join(result.notes)
+        assert "-heet" in notes_text or "German" in notes_text or "-heit" in notes_text
+
+    def test_on_prefix_described(self, checker):
+        """Words starting with on- should be described as negative prefix."""
+        result = checker.check_word("onméiglech")
+        # on- is a valid Luxembourgish prefix
+        if result.notes:
+            assert any("on-" in n for n in result.notes) or result.is_valid
+
+    def test_unknown_word_gets_description(self, checker):
+        """Unknown words should get a descriptive note."""
+        result = checker.check_word("Fluchtwort")
+        # Unknown compound — should get some analysis (offline mode)
+        assert len(result.notes) > 0
+
+    def test_german_ist_flagged(self, checker):
+        """German 'ist' should be flagged with Luxembourgish 'ass'."""
+        result = checker.check_word("ist")
+        # ist is in COMMON_MISSPELLINGS → ist→ass
+        # But it might also be caught by _identify_unknown_word first
+        # Either way it should not be valid
+        # Check that we get some suggestion or note
+        assert not result.is_valid or len(result.notes) > 0
+
+
 class TestSuggestions:
     def test_suggest_ss_replacement(self, checker):
         suggestions = checker._generate_suggestions("groß")

@@ -3,6 +3,11 @@
 The spellchecker combines rule-based checking (orthography rules from the
 official 2024 CPLL/ZLS specification) with dictionary lookup (LOD API)
 to detect and suggest corrections for spelling errors.
+
+When a word is not found in either the rules or the dictionary, the
+spellchecker can suggest whether it might be a German word misused in
+Luxembourgish context, or describe what the word likely means based on
+orthographic patterns.
 """
 
 from __future__ import annotations
@@ -281,6 +286,109 @@ class Spellchecker:
         except Exception:
             return None
 
+    # Common German words that are NOT Luxembourgish
+    GERMAN_ONLY_WORDS: set[str] = {
+        # Pronouns
+        "ich", "mich", "dich", "sich", "wir", "euch", "ihnen", "ihr",
+        # Articles
+        "der", "die", "das", "den", "dem", "des", "ein", "eine", "einem", "einer", "eines",
+        # Conjunctions
+        "dass", "oder", "wenn", "als", "doch", "noch", "aber", "sondern",
+        # Prepositions
+        "von", "zur", "zum", "bei", "nach", "seit", "außer",
+        # Common nouns (German-only spellings)
+        "Straße", "Schule", "Arbeit", "Hausfrau", "Krankenhaus",
+        "Rechtschreibung", "Fremdwort",
+        # Verbs (German forms)
+        "ist", "sind", "war", "waren", "hat", "haben", "wird", "werden",
+        "kann", "können", "muss", "müssen", "soll", "sollen",
+    }
+
+    # German → Luxembourgish mapping for common confusions
+    GERMAN_TO_LUX: dict[str, str] = {
+        "ich": "ech", "mich": "mech", "dich": "dech", "sich": "sech",
+        "dass": "datt", "ist": "ass", "Straße": "Strooss",
+        "Schule": "Schoul", "Arbeit": "Aarbecht",
+        "Hausfrau": "Hausfra", "Fremdwort": "Friemwuert",
+    }
+
+    def _identify_unknown_word(self, word: str) -> list[str]:
+        """Analyze an unknown word and suggest what it might be.
+
+        When a word isn't found in the dictionary or rules, this method:
+        1. Checks if it's a German word misused in Luxembourgish context
+        2. Identifies orthographic patterns that suggest what it might mean
+        3. Describes the likely meaning based on word structure
+
+        Args:
+            word: Unknown word to analyze
+
+        Returns:
+            List of descriptive notes about the word
+        """
+        notes = []
+        lower = word.lower()
+
+        # Check if this is a known German word
+        if lower in {w.lower() for w in self.GERMAN_ONLY_WORDS}:
+            german_match = next(
+                (w for w in self.GERMAN_ONLY_WORDS if w.lower() == lower),
+                lower
+            )
+            lux_equivalent = self.GERMAN_TO_LUX.get(german_match, None)
+            if lux_equivalent:
+                notes.append(f"German word '{german_match}' — Luxembourgish equivalent: {lux_equivalent}")
+            else:
+                notes.append(f"German word '{german_match}' — not valid in Luxembourgish")
+            return notes
+
+        # Check for German patterns
+        german_patterns = []
+        if "ß" in word:
+            german_patterns.append("contains ß (not used in Luxembourgish; use ss)")
+        if "sch" in lower and lower.endswith("e") and len(word) > 5:
+            german_patterns.append("ends in -e like German noun; Luxembourgish often drops final -e")
+        if lower.endswith("ung") and len(word) > 5:
+            german_patterns.append("-ung suffix is German; Luxembourgish equivalent often -ung or -ong, but may differ")
+        if lower.endswith("heit") or lower.endswith("keit"):
+            german_patterns.append("-heit/-keit is German; Luxembourgish uses -heet")
+        if lower.endswith("ung") and "ah" in lower:
+            # German Ahnung → Luxembourgish Anung (no silent h)
+            german_patterns.append("silent h pattern (German); Luxembourgish doesn't use h for vowel length")
+        if re.search(r'[AEIOUÄÖÜ]h[a-z]', word) and lower not in {"hoen", "huewen"}:
+            # Check if h might be a German vowel-length marker
+            # In Luxembourgish, h is only written when pronounced
+            pass  # Complex check, skip for now
+
+        if german_patterns:
+            notes.append(f"Possibly German-influenced: {'; '.join(german_patterns)}")
+
+        # Describe what the word likely means based on structure
+        structural_notes = []
+        if lower.startswith("on"):
+            structural_notes.append("starts with on- (Luxembourgish negative prefix, like German un-)")
+        if lower.endswith("heet"):
+            structural_notes.append("ends in -heet (abstract noun, like German -heit)")
+        if lower.endswith("keet"):
+            structural_notes.append("ends in -keet (abstract noun, like German -keit)")
+        if lower.endswith("ung"):
+            structural_notes.append("ends in -ung (noun suffix)")
+        if lower.endswith("in"):
+            structural_notes.append("ends in -in (could be feminine noun or n-rule variant)")
+        if lower.endswith("echt"):
+            structural_notes.append("ends in -echt (adjective suffix)")
+        if lower.endswith("lech"):
+            structural_notes.append("ends in -lech (adverb suffix, like German -lich)")
+
+        if structural_notes and not german_patterns:
+            notes.append(f"Word structure: {'; '.join(structural_notes)}")
+
+        # If we can't identify anything, note that
+        if not notes:
+            notes.append(f"Word not recognized — may be a valid Luxembourgish word not in our dictionary, a foreign/loan word, or a misspelling")
+
+        return notes
+
     def check_word(self, word: str) -> SpellCheckResult:
         """Check a single word for spelling errors.
 
@@ -328,13 +436,41 @@ class Spellchecker:
         elif in_dictionary is True:
             is_valid = True
         elif in_dictionary is False:
+            # Word not found — analyze what it might be
+            unknown_notes = self._identify_unknown_word(word)
             if self.strict:
                 is_valid = False
                 suggestions = self._generate_suggestions(word)
+                notes.extend(unknown_notes)
             else:
-                # Not in common words or dictionary, but might be valid
+                # Not in common words or dictionary, flag with analysis
                 notes.append("Word not found in dictionary")
-        # If LOD unavailable and not in common words, give benefit of doubt
+                notes.extend(unknown_notes)
+                # If analysis found it's likely German, mark as invalid
+                german_notes = [n for n in unknown_notes if "German" in n]
+                if german_notes:
+                    is_valid = False
+                    # Add German→Luxembourgish suggestion if available
+                    lux_equiv = self.GERMAN_TO_LUX.get(lower) or self.GERMAN_TO_LUX.get(word)
+                    if lux_equiv:
+                        suggestions.insert(0, lux_equiv)
+        elif in_dictionary is None and not in_common:
+            # LOD unavailable and not in common words — still analyze
+            unknown_notes = self._identify_unknown_word(word)
+            german_notes = [n for n in unknown_notes if "German" in n]
+            if german_notes:
+                # Looks German — flag as invalid
+                is_valid = False
+                notes.extend(unknown_notes)
+                suggestions = self._generate_suggestions(word)
+                # Add German→Luxembourgish suggestions if available
+                lux_equiv = self.GERMAN_TO_LUX.get(lower) or self.GERMAN_TO_LUX.get(word)
+                if lux_equiv and lux_equiv not in suggestions:
+                    suggestions.insert(0, lux_equiv)
+            else:
+                # Unknown but not clearly German — give benefit of doubt
+                # but note the analysis
+                notes.extend(unknown_notes)
 
         return SpellCheckResult(
             word=word,
