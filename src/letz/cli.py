@@ -1,4 +1,7 @@
-"""letz CLI — Command-line interface for Luxembourgish language tools."""
+"""lëtz CLI — Command-line interface for Luxembourgish language tools.
+
+Both `letz` and `lëtz` work as commands.
+"""
 
 from __future__ import annotations
 
@@ -44,11 +47,14 @@ def _display_check_result(result):
 
 
 @click.group()
-@click.version_option(version="0.1.0", prog_name="letz")
+@click.version_option(version="0.1.0", prog_name="lëtz/letz")
 def main():
-    """🇱🇺 letz — Luxembourgish language tools.
+    """🇱🇺 lëtz / letz — Luxembourgish language tools.
+
+    Most LLMs can't spell Luxembourgish. lëtz gives them the rules they need.
 
     Spellchecker, normalizer, and LLM context generator for Lëtzebuergesch.
+    Both `letz` and `lëtz` work as commands.
     """
     pass
 

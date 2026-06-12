@@ -1,4 +1,7 @@
-"""letz — Luxembourgish spellchecker, normalizer, and LLM context generator."""
+"""lëtz / letz — Luxembourgish spellchecker, normalizer, and LLM context generator.
+
+Most LLMs can't spell Luxembourgish. lëtz gives them the rules they need.
+"""
 
 from letz.spellchecker import Spellchecker
 from letz.normalizer import Normalizer

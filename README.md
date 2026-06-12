@@ -1,12 +1,14 @@
-# letz 🇱🇺
+# lëtz 🇱🇺
 
-**Most LLMs can't spell Luxembourgish. letz gives them the rules they need.**
+**Most LLMs can't spell Luxembourgish. lëtz gives them the rules they need.**
 
 Luxembourgish (Lëtzebuergesch) is a small language with ~400K native speakers. Most LLMs have barely any Luxembourgish in their training data, and when they try to write it, they make systematic spelling mistakes — mixing in German conventions, misapplying vowel length rules, ignoring the n-rule, and more. Retraining models on Luxembourgish isn't practical; there simply isn't enough data.
 
-**`letz` takes a different approach**: instead of hoping LLMs will learn Luxembourgish from training data, it *injects* the rules and dictionary context they need. It packages the official 2024 Luxembourgish orthography rules (from CPLL/ZLS) and LOD dictionary lookups into structured prompts that any LLM can use — even ones that have never seen Luxembourgish before.
+**`lëtz` takes a different approach**: instead of hoping LLMs will learn Luxembourgish from training data, it *injects* the rules and dictionary context they need. It packages the official 2024 Luxembourgish orthography rules (from CPLL/ZLS) and LOD dictionary lookups into structured prompts that any LLM can use — even ones that have never seen Luxembourgish before.
 
 This is an experiment, not a guarantee. But it's a fundamentally different strategy: rather than "train the model on more data," it's "give the model the reference material at inference time."
+
+> **Note:** Both `letz` and `lëtz` work as commands. The package name is `letz` (Python/PEP 503 doesn't allow ë), but the project is called **lëtz** — the proper Luxembourgish spelling.
 
 ## What it does
 
@@ -21,11 +23,15 @@ This is an experiment, not a guarantee. But it's a fundamentally different strat
 pip install letz
 ```
 
+Both `letz` and `lëtz` work as commands after installation.
+
 ## CLI Usage
 
 ```bash
 # Check text for spelling issues
 letz check "D'Lëtzebuerger Sprooch ass schéin"
+# or
+lëtz check "D'Lëtzebuerger Sprooch ass schéin"
 
 # Normalize variant spellings
 letz normalize "Feebruar"

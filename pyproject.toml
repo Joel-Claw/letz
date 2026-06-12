@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "letz"
 version = "0.1.0"
-description = "Luxembourgish spellchecker, normalizer, and LLM context generator"
+description = "lëtz — Luxembourgish spellchecker, normalizer, and LLM context generator. Most LLMs can't spell Luxembourgish. lëtz gives them the rules they need."
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.11"

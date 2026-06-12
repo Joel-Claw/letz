@@ -1,0 +1,4 @@
+#!/bin/bash
+# lëtz alias wrapper — both `letz` and `lëtz` work as commands
+# This script is installed as `lëtz` to invoke the same CLI as `letz`
+exec letz "$@"
