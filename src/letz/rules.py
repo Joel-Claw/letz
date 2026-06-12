@@ -796,4 +796,5 @@ COMMON_MISSPELLINGS: dict[str, str] = {
     "Planifikatioun": "Plangen",  # Bichelchen uses Plangen, not Planifikatioun
     "Animator": "Animateuren",  # Animator is German; Luxembourgish uses Animateuren (French loanword)
     "Formatoun": "Formatioun",  # typo; Formatioun has an 'i'
+    "Sektioun": "Branche",  # In FNEL scouting context use Branche, not Sektioun
 }
