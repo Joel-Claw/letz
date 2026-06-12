@@ -627,7 +627,7 @@ COMMON_WORDS: set[str] = {
     # Scouting / Fiiss specific — FNEL terminology (Scoutsbichelchen 2022)
     "Scouten", "Scout", "Explorer", "Rover", "Tembo",  # age branches
     "Wëllefcher", "Wëllefchen", "Beaver",  # youngest branches
-    "Cheffen", "Cheff", "Chef", "Truppechef", "Branchechef", "Kommissär",  # leaders
+    "Cheffen", "Cheff", "Chef", "Truppechef", "Branchechef", "Kommissär", "Participant", "Participanten", "Member", "Memberen",  # roles
     "Scoutstrupp", "Scoutswäerter", "Scoutsgesetz", "Scoutsgrouss",
     "Scoutsverspriechen", "Scoutismus", "Scoutsmouvement",
     "Scoutsbranche", "Scoutscarrière", "Scoutswee",
@@ -788,4 +788,5 @@ COMMON_MISSPELLINGS: dict[str, str] = {
     "Branch-Leeder": "Branchechef",  # not a real term; use Branchechef
     "Serviceprojeten an der Gemeinschaft": "Benevolat-Projeten",  # not a Luxembourgish phrase
     "Gemeinschaftsservice": "Benevolat",  # not a real compound; use Benevolat (FNEL term)
+    "Matmaacher": "Participant",  # Matmaacher is not the word for participant; use Participant
 }
