@@ -635,7 +635,8 @@ COMMON_WORDS: set[str] = {
     "Virbereedung", "Erwuessener", "Erwuessenerleedung",
     "onofhängeg", "ofhängeg", "Wéchentlech", "wéchentlech",
     "Gemeinschaftsservice", "Federalsaktivitéiten", "Projeten",
-    "Scoutserfahrung", "Scoutserfarung", "Scoutstufen", "Badger",
+    "Scoutserfahrung", "Scoutserfarung", "Scoutstufen",
+    "Badge", "Badgen", "Branche", "Branchen",  # French loanwords in scouting
     "Jugendscouting", "Encadréieren", "encadréieren", "reservéiert",
     "bäitrieden", "kontaktéieren", "kontaktéiert",
     "decidéiert", "Volontairen", "Fräiwëlleger", "Volontaire",
