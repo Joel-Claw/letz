@@ -544,7 +544,7 @@ COMMON_WORDS: set[str] = {
     "Mëllech", "Waasser", "Téi", "Jus", "Bak", "Kuch",
     "Iessen", "Mëttegiessen", "Oendiessen", "Frëstéck",
     # Common nouns - clothing
-    "Kleedung", "Hosen", "Bitz", "Schong", "Hiem", "Pulli",
+    "Kleedung", "Hosen", "Bitz", "Schong", "Biergschong", "Hiem", "Pulli",
     "Mantel", "Hiwwel", "Brëll",
     # Common nouns - everyday objects
     "Buch", "Zäitung", "Dier", "Tasch", "Geld",
@@ -781,7 +781,8 @@ COMMON_MISSPELLINGS: dict[str, str] = {
     "Aventur": "Abenteuer",  # Aventur is not a word; use Abenteuer or Aventure
     "Spillsin": "Spass",  # not a word; Spass = fun (German loanword used in Luxembourgish)
     "Spuet": "Spuet",  # WARNING: Spuet = shovel, NOT fun! Don't use for 'sense of fun'
-    "Wanderstackschauen": "Wanderschoen",  # hiking boots, not a made-up compound
-    "Wanderschong": "Wanderschoen",  # variant misspelling of hiking boots
+    "Wanderstackschauen": "Biergschong",  # Biergschong = hiking boots (from Scoutsbichelchen)
+    "Wanderschoen": "Biergschong",  # Wanderschoen is German/Dutch, not Luxembourgish
+    "Wanderschong": "Biergschong",  # variant misspelling
     "Branchleader": "Branch-Leeder",  # FNEL uses Leedung/Leeder, not English Leader
 }
