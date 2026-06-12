@@ -627,7 +627,7 @@ COMMON_WORDS: set[str] = {
     # Scouting / Fiiss specific — FNEL terminology (Scoutsbichelchen 2022)
     "Scouten", "Scout", "Explorer", "Rover", "Tembo",  # age branches
     "Wëllefcher", "Wëllefchen", "Beaver",  # youngest branches
-    "Cheffen", "Cheff", "Chef", "Truppechef", "Branchechef", "Kommissär", "Participant", "Participanten", "Member", "Memberen",  # roles
+    "Cheffen", "Cheff", "Chef", "Truppechef", "Branchechef", "Kommissär", "Animateuren", "Animateur", "Participant", "Participanten", "Member", "Memberen",  # roles
     "Scoutstrupp", "Scoutswäerter", "Scoutsgesetz", "Scoutsgrouss",
     "Scoutsverspriechen", "Scoutismus", "Scoutsmouvement",
     "Scoutsbranche", "Scoutscarrière", "Scoutswee",
@@ -793,4 +793,6 @@ COMMON_MISSPELLINGS: dict[str, str] = {
     "Lageren": "Campen",  # FNEL uses Camp/Campen (French loanword), not Lageren
     "Iwwerliewensherausfuerderungen": "Survival-Herausfuerderungen",  # ridiculous compound; Bichelchen uses Survival
     "Planifikatioun": "Plangen",  # Bichelchen uses Plangen, not Planifikatioun
+    "Animator": "Animateuren",  # Animator is German; Luxembourgish uses Animateuren (French loanword)
+    "Formatoun": "Formatioun",  # typo; Formatioun has an 'i'
 }
