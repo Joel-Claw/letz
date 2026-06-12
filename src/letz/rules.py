@@ -671,7 +671,7 @@ COMMON_WORDS: set[str] = {
     "decidéiert", "Volontairen", "Volontaire",
     "ënnerstëtzen", "Naturkompetenzen", "Teamwork",
     "Komitéen", "Komitee", "identitéit", "Identitéit",
-    "Aktivitéiten", "Aktivitéit", "Erausfuerderungen",
+    "Aktivitéiten", "Aktivitéit", "Erausfuerderung", "Erausfuerderungen",
     "Fäegkeeten", "Fäegkeet", "Selbstvertrauen", "Prescht",
     "järlecht", "Orientatioun", "Orientéierung",
     "Nuetsspill", "Nuetsspiller", "Homescouting",
@@ -791,8 +791,8 @@ COMMON_MISSPELLINGS: dict[str, str] = {
     "Gemeinschaftsservice": "Benevolat",  # not a real compound; use Benevolat (FNEL term)
     "Matmaacher": "Participant",  # Matmaacher is not the word for participant; use Participant
     "Lageren": "Campen",  # FNEL uses Camp/Campen (French loanword), not Lageren
-    "Erausfuerderung": "Challenge",  # not a Luxembourgish compound; FNEL uses Challenge (English loanword)
-    "Iwwerliewensherausfuerderungen": "Survival-Challengen",  # ridiculous compound; Bichelchen uses Challenge
+    "Erausfuerderung": "Erausfuerderung",  # VALID per LOD! Don't flag this. Means 'challenge/Herausforderung'
+    "Iwwerliewensherausfuerderungen": "Survival-Erausfuerderungen",  # use proper compound, not 30-letter monster
     "Planifikatioun": "Plangen",  # Bichelchen uses Plangen, not Planifikatioun
     "Animator": "Animateuren",  # Animator is German; Luxembourgish uses Animateuren (French loanword)
     "Formatoun": "Formatioun",  # typo; Formatioun has an 'i'
