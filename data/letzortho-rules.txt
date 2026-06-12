@@ -1,0 +1,5637 @@
+﻿
+
+D’Lëtzebuerger
+Orthografie
+
+﻿
+
+D’Lëtzebuerger Orthografie
+Redaktioun: Conseil fir d’Lëtzebuerger Sprooch (CPLL) an
+Zenter fir d’Lëtzebuerger Sprooch (ZLS)
+© Ministère fir Educatioun, Kanner a Jugend, Lëtzebuerg 2019
+Editeur: SCRIPT an ZLS
+Layout: Bakform
+Dréckerei: EXEPRO, 6. Oplo, Lëtzebuerg 2024
+ISBN 978-99959-1-163-8
+
+﻿
+
+3
+
+E completéiert Reegelwierk
+fir d’Lëtzebuerger Sprooch
+
+Hei sinn se: déi aktualiséiert Reegele vun der Lëtzebuerger Orthografie. An zéng Kapitele leeën se d’Schreifweis vun der Lëtzebuerger Sprooch fest – an enger einfacher a
+verständlecher Sprooch, well se sollen hëllefen, wann ee richteg Lëtzebuergesch wëllt
+schreiwen. Hiren Usproch ass et, op vill méi Froen eng Äntwert ze liwweren, wéi dat
+bis elo de Fall war.
+Dat completéiert Reegelwierk baséiert op enger Synthees vun de Rechtschreiwungen
+aus de Joren 1975 an 1999: Et gouf esou mann wéi méiglech, awer esou vill wéi néideg ugepasst. Méi wéi zwee Joer laang gouf intensiv un där Ëmsetzung geschafft, mam
+Zil, der Dynamik vun der Sprooch gerecht ze ginn an hir Entwécklungs­perspektiven ze
+ginn, gläichzäiteg awer och hir Originnen ze berücksichtegen an den ënnerschiddlechen Aflëss vu bausse Rechnung ze droen. Op där enger Säit geet et also drëm, en
+typescht lëtzebuergescht Schrëftbild, dat seng eege Reegelen huet, ze etabléieren,
+op där anerer Säit kann de Verweis op den Ursprong vun engem Wuert aus dem Däitschen, dem Franséischen oder dem Engleschen, awer och aus dem Laténgeschen
+oder dem Algriicheschen eng wäertvoll Schreifhëllef duerstellen.
+Dës Orthografie bréngt Kloerheet, wat d’Verschrëftlechung vum laangen e als ee
+ugeet, se eliminéiert den däitschen Deenungs-h méi konsequent an se erlaabt eng
+Rëtsch Variante­schreiwunge jee no Aussprooch, Ursprong oder Verlëtzebuergeschungsgrad vum Wuert (Problem/Probleem, Pedagog/Pädagog, Ekipp/Equipe). Och
+bei der n-Reegel­ besteet eng gewësse Flexibilitéit, wann ee besonnesche Wäert op
+en Numm wëllt leeën oder de Schluss-n vun engem Wuert aus grafesche Grënn wëllt
+stoe loossen. De Pluriels-s bei eenzelen englesche Wierder kritt eng offiziell Basis
+(ee Fan, zwee Fannen/Fans). E ganzt Kapitel befaasst sech mat der Integratioun vu
+Friemwierder an eis Sprooch an eng éischte Kéier offiziell gereegelt ginn d’Grouss- a
+Klengschreiwung, d’Getrennt- an Zesummeschreiwung an d’Interpunktioun.
+Eng Sprooch, déi lieft, déi verännert sech och. Fir eng Sprooch an engem Land, dat
+sech bewosst och zu der Méisproochegkeet bekennt, gëllt dat ganz besonnesch. Dat
+bedeit, datt ëmmer nees Schreifweise vun eenzele Wierder mussen op de Leescht
+
+4
+
+﻿
+
+geholl ginn an datt d’Ëmsetze vun de Reegele stänneg muss hannerfrot ginn. Mat där
+Missioun gouf den Zenter fir d’Lëtzebuerger Sprooch (ZLS) beoptraagt. An Ofsprooch
+mam Conseil fir d’Lëtzebuerger Sprooch (CPLL) assuréiert den ZLS de Suivi vun
+der Lëtzebuerger Orthografie an dokumentéiert déi aktuell Schreifweisen am Lëtzebuerger Dictionnaire (LD), deem seng aktuell Form de Lëtzebuerger Online Dictionnaire (LOD) ass. A reegel­méissegen Ofstänn informéiert den ZLS op sengem Internetsite (www.zls.lu) a per Newsletter iwwer eventuell ­Upassunge vun der Orthografie a
+publizéiert och déi nei Wierder a Schreifweisen, déi an de Lëtzebuerger Dictionnaire
+op­geholl ginn.
+D’Entwécklung vun der Lëtzebuerger Sprooch ass ferm amgaangen, als Schrëftsprooch
+erlieft se esouguer grad en Héichpunkt. D’Geschicht vun der Lëtzebuerger Sprooch
+gëtt op de leschte Säite vun dësem Reegelwierk skizzéiert. De Wonsch an de Wëllen an der Gesellschaft, fir korrekt Lëtzebuergesch ze schreiwen, sinn an der Lescht
+staark gewuess. D’Auteure vun der completéierter an aktualiséierter Orthografie hoffen, datt d’Reegelwierk deem Besoin nokënnt an datt de Lieser Äntwerten op all seng
+Froen a puncto Schreifweis fënnt.
+En häerzleche Merci geet un all déi Persounen an Institutiounen, déi d’Ausschaffe
+vun de Reegelen aktiv ënnerstëtzt hunn.
+Lëtzebuerg, am November 2019 an am September 2022
+Zenter fir d’Lëtzebuerger Sprooch
+
+﻿
+
+Den Iwwerbléck
+
+5
+
+6
+
+﻿
+
+D’Schreifweis vun der Lëtzebuerger Sprooch
+
+9
+
+1.
+
+D’Vokaler a, i, o an u
+
+10
+
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+
+D’Quantitéitsreegel
+Déi laang geschwate Vokaler a, i, o an u
+Déi kuerz geschwate Vokaler a, i, o an u
+Zesummefaassung vun de Basisreegele fir d’Vokaler a, i, o an u
+Zesummegesate Wierder
+Aner Wuertbildungen
+
+10
+10
+12
+13
+13
+14
+
+2.
+
+De Vokal e
+
+17
+
+2.1
+2.2
+2.3
+2.4
+
+De laangen e: ee
+De kuerzen e
+Den net geschwaten e an den Apostroph
+Zesummefaassung vun de Basisreegele fir de Vokal e
+
+17
+19
+21
+23
+
+3.
+
+D’Diphthongen
+
+24
+
+3.1
+3.2
+
+D’Diphthongen am Lëtzebuergeschen
+D’r-Reegel: u, i, o an ä virum r
+
+24
+25
+
+4.
+
+D’Konsonanten
+
+28
+
+4.1
+4.2
+4.3
+4.4
+4.5
+
+Eenzel oder duebel geschriwwene Konsonant
+De Laut um Enn vum Wuert
+Verschidde Konsonante mat spezielle Reegelen
+E Verbindungs-s, -en oder -n
+Den t um Enn vu Prepositiounen
+
+28
+31
+33
+41
+42
+
+5.
+
+D’Verben
+
+43
+
+5.1
+5.2
+5.3
+
+De Stammprinzip
+D’Quantitéitsreegel vun de Vokaler
+De Konsonant um Enn vum Verb
+
+43
+44
+44
+
+6.
+
+D’n-Reegel
+
+47
+
+6.1
+6.2
+6.3
+6.4
+
+Allgemeng Reegel
+Fakultativen n
+Den n bei Nimm vu Persounen oder Marken
+Den n bei geografeschen Nimm
+
+47
+50
+51
+51
+
+7.
+
+D’Friemwierder
+
+52i
+
+7.1
+7.2
+7.3
+7.4
+7.5
+
+Allgemeng Reegelen
+Franséisch Wierder
+Englesch Wierder
+Griichesch a laténgesch Wierder
+Zesummegesate Friemwierder aus verschiddene Sproochen
+
+52
+52
+58
+61
+62
+
+﻿
+
+7
+
+8.
+
+D’Grouss- a Klengschreiwung
+
+63
+
+8.1
+8.2
+8.3
+8.4
+8.5
+8.6
+8.7
+
+Substantiven a Substantivéierungen
+Fest Verbindunge mat Substantiven
+D’Dageszäiten an d’Wochendeeg
+Eenzel Buschtawen a Buschtawegruppen
+Ofkierzungen
+D’Zuelen an d’Zueladjektiven
+D’Nimm an d’Titelen
+
+63
+65
+66
+67
+67
+69
+70
+
+9.
+
+D’Getrennt- an Zesummeschreiwung
+
+73
+
+9.1
+9.2
+9.3
+9.4
+9.5
+9.6
+
+D’Substantiven
+De Brochdeel vun enger Mooss
+D’Adjektiven
+D’Verben
+Adverben, Konjunktiounen, Prepositiounen a Pronomen
+Verbindunge mat eenzele Buschtawen, Zuelen, Ofkierzungen,
+Opzielungen
+
+73
+74
+74
+76
+78
+79
+
+10.
+
+D’Interpunktioun
+
+81
+
+10.1
+10.2
+10.3
+10.4
+10.5
+
+Iwwerbléck
+Markéierung vum Enn vum Saz
+Markéierung vu Sazdeeler
+D’Zeeche fir d’direkt Ried
+Weider Zeechen
+
+81
+81
+83
+92
+93
+
+D’Buschtawen an d’Lauter
+
+95
+
+I.
+
+Wéi eng Buschtawe sti fir wéi eng Lauter?
+
+96
+
+II.
+
+Iwwerbléck vun de Konsonanten am Lëtzebuergeschen
+
+99
+
+II.1
+II.2
+
+Obstruenten
+Sonoranten
+
+99
+100
+
+III.
+
+Iwwerbléck vun de Vokaler am Lëtzebuergeschen
+
+101
+
+III.1
+III.2
+
+Monophthongen
+Diphthongen
+
+101
+102
+
+Dat geschriwwent Lëtzebuergescht vum Ufank bis haut
+
+103
+
+﻿
+
+﻿
+
+D’Schreifweis vun der
+Lëtzebuerger Sprooch
+
+D’Lëtzebuerger Orthografie reegelt offiziell d’Schreifweis vun der
+Lëtzebuerger Sprooch fir d’Beräicher, fir déi de Lëtzebuerger Staat
+zoustänneg ass (Administratiounen, Schoulen). Doduerch dréit se zum
+Vereenheetleche vun der Schreifweis bäi an hëlleft all deenen, déi sech
+un der offizieller Orthografie wëllen orientéieren.
+Déi heite Reegele leeën d’Schreifweis vun alen an neie Wierder fest a
+klären och d’Integratioun vu Wierder aus anere Sproochen. Natierlech
+ass et méiglech, eng friem Originalschreifweis bäizebehalen an e Wuert
+als Zitatwuert ze benotzen.
+D’Schreifweise vun Nimm kënne vun den offizielle Reegelen ofwäichen.
+
+9
+
+10
+
+D’Vokaler a, i, o an u
+
+1
+
+1. D’Vokaler a, i, o an u
+1.1
+
+D’Quantitéitsreegel
+D’Vokaler am Lëtzebuergesche kënne kuerz oder laang sinn:
+kuerz: Buch, krank, Mond, Schinn
+laang: Biischt, Fro, Fuuss, Ham
+Ob d’Aussprooch vum eenzele Vokal a, i, o, u laang oder kuerz ass, gesäit
+een un der Zuel vu Konsonanten, déi hannendrustinn. En duebele Vokal gëtt
+ëmmer laang ausgeschwat.
+Bei de Vokaler a, i, o an u gëllen am Prinzip dës Haaptreegelen
+(Quantitéitsreegel):
+V E laange Vokal an enger betounter Silb viru méi Konsonante gëtt duebel
+geschriwwen:
+ootmen, Staang
+V E laange Vokal um Enn vum Wuert oder virun engem eenzege Konsonant
+gëtt eenzel geschriwwen:
+blo, Fra, kal, Otem
+delikate Fësch, mee: delikaatste Fësch
+V E kuerze Vokal gëtt ëmmer eenzel geschriwwen:
+Album, blann, Lastik, Schong
+
+1.2
+
+Déi laang geschwate Vokaler a, i, o an u
+
+1.2.1
+
+E betounte Vokal virun engem Konsonant
+D’Vokaler a, i, o an u ginn a betounte Silbe virun engem eenzege Konsonant
+laang ausgeschwat.
+Dat heescht: E laange Vokal gëtt virun engem eenzege Konsonant just eemol
+geschriwwen:
+Af, al, aner, Biz, Dag, du otems, falen, Libeslidd, molen, schif, tuten
+
+D’Vokaler a, i, o an u
+
+11
+
+Bei Boot, Moos, Staat (an och staatlech, Staatsbeamten, verstaatlechen
+asw.) bleift de verduebelte Vokal; als Niewevariant kann och Bot, Mos, Stat
+geholl ginn.
+Bemierkung: En eenzege Vokal virum x gëtt kuerz geschwat; virum g als
+Reiflaut (also net geschwat ewéi bei Gamma oder Guy), virum mëllen s
+a virum j gëtt en dacks kuerz geschwat (cf. 4.3.2.2, 4.3.3.2, 4.3.4.2,
+4.3.5.3):
+Box, faxen, Spigel, Vugel, Dosen, Musel, Knujel, vijenzeg
+
+1.2.2 D’Vokaler a, i, o an u um Enn vum Wuert
+Déi laang ausgeschwate Vokaler a, i, o an u um Enn vum Wuert ginn eenzel
+geschriwwen:
+A, Fra, Mo, ni, Su
+Ausnam: Bei Zoo steet de verduebelte Vokal.
+
+1.2.3 E betounte laange Vokal viru méi Konsonanten
+Steet de Vokal an enger betounter Silb a gëtt e virun zwee oder méi Konsonante laang ausgeschwat, da muss e verduebelt ginn:
+Aarbecht, laang, liichten, Luucht, riicht, Sprooch
+ootmen (mee: Otem, du otems), du mools, hie moolt (mee: ech molen),
+du tuuts (mee: ech tuten, hien tut), du ziils, hien ziilt (mee: ech zilen)
+Bemierkungen:
+V De stommen h gëtt am Lëtzebuergeschen net benotzt, fir d’Längt vun
+engem Vokal ze markéieren:
+Ausnam (dt. Ausnahme)
+Et gëtt am LD fir verschidde Wierder dat däitscht Schrëftbild als Variant
+(cf. 4.3.1):
+Haaptvariant: Fürerschäin, Niewevariant: Führerschäin
+V Den ie gëtt et am Lëtzebuergesche just als Diphthong (cf. 3.1):
+bieden, Giedel, hien, liesen, Schief (Pluriel vu Schaf)
+Den ie gëtt net als laangen i geschwat ewéi am Däitschen:
+hatt liest (dt. sie liest), hien zielt (dt. er zählt), mee: hien ziilt (dt. er
+zielt)
+Den däitschen ier bleift, den ie ass do en Diphthong (cf. 3.2.1):
+Nieren, schmieren, Regierung
+Den ie als laangen i bleift bei Friemwierder just an der Endung stoen:
+Epicerie, Regie, Poesie
+
+1
+
+12
+
+1
+
+D’Vokaler a, i, o an u
+
+V D’Vokaler ä, ü an ö ginn no de selwechte Reegele verduebelt ewéi a, o an u:
+berüümt; üben – geüübt; lämen – geläämt; blöd – blöödst; Fön,
+fönen – du fööns; seriö – am seriöösten
+Wann de laangen ä virun engem r plus en anere Konsonant steet, da gëtt
+en net verduebelt, mee et kënnt en e hannert den ä (cf. 3.2.3):
+Äerd, äert Häerz, Päerd, dir wäert
+Fir de kuerzen ä: cf. 2.2.1
+
+1.3
+
+Déi kuerz geschwate Vokaler a, i, o an u
+
+1.3.1
+
+Reegel
+Ginn d’Vokaler a, i, o an u (oder ä an ü) kuerz ausgeschwat, da ginn se
+eemol geschriwwen, also net verduebelt.
+Nom betounte kuerze Vokal muss méi wéi ee Konsonant stoen:
+V Entweeder ass de Konsonant verduebelt:
+änneren, Ball, Bidden, gutt, Hummer, iwwer, Kapp, kromm,
+Resümmee
+V Oder et steet e Grupp vu verschiddene Konsonanten hannert dem kuerz
+geschwate Vokal:
+Dünger, fuschen, Hirsch, Hong, Kand, Krich, Land, Paschtouer,
+picken, Planz, Stand, Zant
+Bemierkungen:
+V Virun engem eenzele Konsonant gëtt de betounte Vokal laang
+geschwat. Wann de betounte Vokal kuerz ass, musse méi Konsonanten
+hannendrustoen:
+e Bal (fir ze danzen), mee: e Ball (fir ze spillen)
+üben (laange Vokal), mee: Dünger (kuerze Vokal)
+V Onbetounte Vokaler virun engem eenzele Konsonant kënne kuerz
+geschwat sinn (cf. 4.1.2):
+Anorak, banal, Galerie, harmonéieren, Kanal, Kanoun
+Album, Datum, Kaktus, Lastik, Léierin
+V Fir dee kuerzen ä: cf. 2.2.1
+Ausnamen:
+V Fir d’Netverdueblung vum Konsonant an der betounter Silb bei Wierder
+ewéi Appetit, Limonad, Minett: cf. 4.1.1.1
+V Den x, de g als Reiflaut, de j an de mëllen s kënnen net verduebelt ginn
+(cf. 4.3.2.2, 4.3.3.2, 4.3.4.2, 4.3.5.3).
+
+D’Vokaler a, i, o an u
+
+13
+
+V Bei verschiddene kuerzen an heefeg benotzte Funktiounswierder steet
+nom kuerze Vokal just ee Konsonant:
+am, an, bis, (do)dran (mee: dodranner), drop, drun, eran, erop, him,
+(do)hin (mee: dohinner), mam, mat, ob, op, um, un, vum, vun, zum
+Dat ass net esou, wann den eenzele Konsonant no engem kuerz
+geschwate Vokal géif eng Verwiesslung méiglech maachen:
+datt – dat, hatt – hat
+
+1.4
+
+Zesummefaassung vun de Basisreegele fir
+d’Vokaler a, i, o an u
+
+Laange Vokal
+
+Kuerze Vokal
+
+1.5
+
+Nol
+tuten
+
+1 Vokal + 1 Konsonant
+
+-
+
+extra
+Fra
+
+1 Vokal um Enn
+
+-
+
+Strooss
+
+2 Vokaler + 2 Konsonanten
+
+a betounter Silb
+
+Kapp
+Nuddel
+
+1 Vokal + 2 Konsonanten
+
+a betounter Silb
+
+Lastik
+Léierin
+
+1 Vokal + 1 Konsonant
+
+an onbetounter Silb
+
+Zesummegesate Wierder
+Bei zesummegesate Wierder gëtt fir d’Quantitéitsreegel vun de Vokaler am
+Prinzip all Wuert eenzel gekuckt:
+Alstad, Bamschoul, kalbliddeg, Lafschong, Mokrämp
+Dat ass och esou, wa just een Deel vum Wuert en eegestännegt Wuert ass.
+Hei muss d’Quantitéitsreegel fir déi eenzel Wuertdeeler agehale ginn:
+Futtball, Hammbier, Sonndeg, stallhalen, Wittfra, Blödsinn, Tatsaach
+Och an anere Wierder ginn d’Wuertdeeler eenzel gekuckt:
+Zan|spang, Zan|pasta, Zwi|spalt, zwi|lichteg, Lib|haber, Lib|schaft,
+Man|mal
+Bei Mol|zecht gëtt et och d’Variant Moolzecht.
+Bemierkung: De Fouen-s gëtt eenzel gekuckt an huet keen Afloss op
+d’Quantitéitsreegel:
+Kathedralstuerm, Schidsriichter, Schofspelz
+Ausnam: Bei den zesummegesaten Zuelwierder fofzéng, nonzéng gëtt net
+verduebelt.
+
+1
+
+14
+
+1
+
+D’Vokaler a, i, o an u
+
+1.6
+
+Aner Wuertbildungen
+
+1.6.1
+
+Suffixen a Prefixen
+E Suffix oder e Prefix gëtt gekuckt ewéi en onofhängegen Deel vun engem
+zesummegesate Wuert:
+Mod – Modchen: Den o ass laang. E muss net verduebelt ginn, well just
+den eenzele Konsonant d consideréiert gëtt, den ch vum Suffix net.
+Af – Äffchen: Den f muss verduebelt ginn, well de Vokal kuerz ass.
+Hei eng Lëscht mat deene wichtegste Suffixen:
+-chen:	Märchen, Ham – Hämmchen, Trap – Träppchen,
+Tut – Titchen
+-bar:
+strofbar
+-haft:
+narhaft
+-lech:	änlech, nämlech, üblech, wotlech
+berufflech, friddlech, männlech, ongemittlech, zimmlech
+-lecht:
+nämmlecht
+-lek:
+Trap – Träpplek
+-ling:
+Libling, Schädling
+-los:
+wallos
+-nes /-nis: Erlabnes (oder: Erlabnis)
+-sam:
+rotsam
+-schaft: Grofschaft, Komerodschaft
+-weis:
+sträppweis
+De Vokal an de Prefixen do-, no-, of- a vir- gëtt laang geschwat an net
+verduebelt:
+dobleiwen, nobréngen, nostoen, ofginn, ofmaachen, virdrun, virgoen,
+virmaachen
+Och de laang geschwate Prefix ur- bleift onverännert (cf. 3.2.1):
+Ursaach, ursprénglech, Urteel, verurteelen
+Bei de Prefixen a(n)-, in-, on-, op-, u(n)- ass de Vokal kuerz, de Konsonant
+gëtt awer net verduebelt:
+amaachen, anootmen, inkompetent, onméiglech, opmaachen, ugoen,
+undoen
+Ausnam: Bei den Zuelwierder gëtt de Konsonant net verduebelt, wann d’Endung -zeg drukënnt:
+zwanzeg, fofzeg, nonzeg
+
+D’Vokaler a, i, o an u
+
+15
+
+1.6.2 Den ugehaangenen -s
+Den -s, dee bei enger Substantivéierung mam Zirkumfix Ge…s, enger adverbialer Wuertbildung oder enger (rarer) Genitivbildung ugehaange gëtt, féiert
+zu enger Verdueblung vum laang geschwate Vokal:
+Geaafs, Gemools, Getuuts
+keemools, villmools
+daagsiwwer, enges Daags
+Dat ass net esou beim Fouen-s:
+Akafstut, Kathedralstuerm
+
+1.6.3 Verdueblung am Suffix
+Wann e Suffix duerch eng Endung e Konsonant hanne bäikritt, da gëtt de
+laange Vokal am Suffix verduebelt, och wann en net betount ass.
+Hei ginn déi laang Vokaler viru méi Konsonante verduebelt:
+-al: fatal – fataalt, national – nationaalt
+-am: infam – infaamt
+-an: profan – profaant, spontan – spontaant
+-än: souverän – souveräänt
+-ar: elementar – elementaart, polar – polaart
+-är: elitär – elitäert, humanitär – humanitäert (cf. 3.2.3)
+-at: adäquat – adäquaatst, delikat – delikaatst
+-bar: brauchbar – brauchbaart, éierbar – éierbaart
+-fon: germanofon – germanofoont, frankofon – frankofoont
+-id: hybrid – hybriidst, morbid – morbiidst
+-im: intim – intiimt
+-in: feminin – feminiint, maskulin – maskuliint
+-is: prezis – preziist
+-it: explizit – expliziitst (kuerz geschwat: explizitt – explizittst)
+-iv: definitiv – definitiivt, positiv – positiivt
+-log: analog – analoogt
+-los: gehierlos – gehierloost, hoffnungslos – hoffnungsloost
+-nom: autonom – autonoomt
+-ön: obszön – obszöönt
+-os: rigoros – rigoroost
+-ös: adipös – adipööst
+-phon: germanophon – germanophoont, frankophon – frankophoont
+
+1
+
+16
+
+1
+
+D’Vokaler a, i, o an u
+
+-sam: gemeinsam – gemeinsaamt, opmierksam – opmierksaamt
+-ut: akut – akuutst
+Bemierkungen:
+V Dës Verdueblung gëllt och fir Verbbildungen, an deenen dës Suffixe
+virkommen:
+vereinbaren – vereinbaart, verharmlosen – verharmloost
+V Et gëtt och Suffixen, déi kuerz ausgeschwat ginn. An der Grondform bleift
+de Suffix och bei kuerzem Vokal onverännert. Nom kuerze Vokal gëtt de
+Konsonant just da verduebelt, wann eng nei Silb derbäikënnt (cf. 4.1).
+debil, en debilt Laachen, en debillen Typ
+fragil, e fragilt Wiesen, e fragillen Typ
+publik, e publikt Evenement, e publicken Optrëtt
+V Bei eenzelen Adjektive kann d’Endung kuerz oder laang ausgeschwat
+ginn a gëtt – ausser an der Grondform – deementspriechend
+geschriwwen:
+kuerz: feminin, e feminint Optrieden, e femininnen Typ
+laang: feminin, e feminiint Optrieden, e femininen Typ
+
+De Vokal e
+
+17
+
+2
+
+2. De Vokal e
+Fir de Vokal e zielen aner Reegele wéi fir d’Vokaler a, i, o an u.
+Et gëtt verschidde Schreifweise vum Vokal e:
+V ee [e:]: Den ee ass ëmmer laang. E steet an enger betounter Silb oder an
+enger onbetounter Endsilb.
+V e: Den e kann a betounten oder an onbetounte Silbe stoen. A betounte
+Silbe gläicht en engem kuerzen ä [æ]; an onbetounte Silbe kann en
+engem kuerzen ö [ə], engem laangen e [e:] oder engem kuerzen ä [æ]
+gläichen.
+V é [e]: Den é ass ëmmer kuerz a betount a steet just virun ch, chs, ck, ng,
+nk an x.
+V ë [ə]: Den ë ass ëmmer kuerz a betount a gläicht engem kuerzen ö.
+Bemierkung: A geléinte franséische Wierder gëtt et nach weider Schreifweisen: é, è, ê (cf. 7.2.2)
+
+2.1
+
+De laangen e: ee
+De laange Vokal e gëtt am Lëtzebuergeschen ee geschriwwen, wann e
+­be­tount ass oder a bestëmmten Endsilbe steet (dat gëtt am LD festgehalen).
+V de betounten ee:
+eeneg, Reegel, weeder nach
+Ee, een, deen, Fleesch, jee, Reen, Wee
+Wann den ee net méi an der betounter Silb steet, da gëtt en net méi
+verduebelt:
+Kolleeg, Kolleegin, mee: kollegial
+konkreet, mee: konkretiséieren
+V den ee a verschiddenen onbetounten Endsilben:
+angeneem, Bëbee, Feierlechkeet, Fräiheet, Schéinheet
+Dësen onbetounten ee bleift am Pluriel a bei anere Flexiounsendunge stoen:
+en angeneemen Owend, Feierlechkeeten, Fräiheeten, Schéinheeten
+
+18
+
+De Vokal e
+
+Ausnamen:
+V Lännernimm ginn an hirer Grondform mat engem einfachen e
+geschriwwen, och wann dëse laang ass:
+
+2
+
+Chile, Nepal, Norwegen, Schweden
+Bei Ofleedungen (Adjektivbildungen oder Awunnerbezeechnungen) gëtt
+de laangen e an der betounter Silb verduebelt:
+Chileen, Chinees, Italieener, nepaleesesch, schweedesch
+V Friemwierder mat de Wuertdeeler wéi beta-, de-, demo(-), dezi-, ego(-),
+epi-, geo-, hetero(-), mega(-), meta-, meteo(-), metro(-), neo-, (-)ped(-),
+peri-, pre-, re-, retro(-), steno(-), stereo(-), tele-, theo-, xeno- kréie just een e:
+Demograf, Deziliter, orthopedesch
+V Bei verschiddene Friemwierder gëtt de laangen e net verduebelt:
+Substantiver op -um an op -us (an an Zesummesetzungen, an deenen
+se stinn):
+Evangelium (Evangelien, mee: evangeelesch), Klerus (mee:
+Kleeriker), Plenum, Tetanus
+Cheemesch Elementer: Helium, Neon, Selen
+Bemierkungen:
+V Den LD hält fest, ob d’Wuert just mat zwee e oder och mat engem e
+geschriwwe gëtt.
+Haaptvariant: eeben, extreem, Geen, heterogeen, Treema, Veen
+Niewevariant: eben, extrem, Gen, heterogen, Trema, Ven
+V Bei dëse véier Substantiver (an och bei hiren Zesummesetzungen an
+Ofleedungen) gëtt et eng Haaptvariant mat e an eng Niewevariant mat ee:
+Haaptvariant: Alphabet (alphabetesch), Februar, Medien
+(Medienhaiser), Meter (symmetresch, Kilometer)
+Niewevariant: Alphabeet (alphabeetesch), Feebruar, Meedien
+(Meedienhaiser), Meeter (symmeetresch, Kilomeeter)
+V Beim Wuert Proble(e)m kann déi betounte Silb änneren. Wa vir
+betount gëtt, ass d’Schreifweis Problem. Wann hanne betount gëtt, ass
+d’Schreifweis Probleem.
+V Den Accent aigu gëtt just bei franséische Wierder an der Endsilb
+geschriwwen an och bei aus méi Wierder zesummegesaten Ausdréck
+(cf. 7.2.2, 7.2.5):
+Congé, Musée, Assemblée générale
+Bei verschiddene Wierder gëtt den LD och oder esouguer exklusiv eng
+Lëtzebuerger Schreifweis mat ee un (cf. 7.1):
+Kannapee (awer och Canapé), Keess (mee net Caisse), Keessjee
+(awer och Caissier), Pawee (awer och Pavé)
+
+De Vokal e
+
+19
+
+2.2 De kuerzen e
+2.2.1 e oder ä
+Dee Laut, dee wéi e kuerzen ä kléngt, gëtt am Prinzip e geschriwwen:
+Blech, Dreck, Fleck, keng, kennen, Persoun
+Ass e Wuert awer ofgeleet vun engem lëtzebuergesche Wuert mat a, da
+schreift een en ä:
+Schwämm (vu schwammen), Träpplek (vun Trap), Schäffchen (vu Schaf)
+Och Wierder, déi am Däitschen oder Franséische mat a, ä, o oder ö
+­ge­schriw­we ginn, kréien en ä am Lëtzebuergeschen.
+Fräsch (dt. Frosch), Häll (dt. Hölle), Käschten (dt. Kosten, Kastanien),
+Kräsi (fr. crassier), Schäffen (dt. Schöffe), tässelen (fr. tas), träntelen
+(dt. trödeln, fr. traîner)
+
+2.2.2 De kuerzen é
+Dee kuerze betounte Laut [e] gëtt é geschriwwe virun ch, chs, ck, ng, nk, x:
+hie brécht, dréchen, knéchelen, du méchs, sécher, Spréch, hie stécht,
+wéchentlech, Béchs, héchstens, déck, Geschéck, dräizéng, kéng, zéng,
+blénken, féx
+An onbetounte Silbe gëtt keen Accent op den e gesat:
+Diddeleng, Dippech, Éislek, Éisleker, Heemecht, heemlech, Musek,
+Museker, zwanzeg
+Ausnam: Bei de Personal-, Reflexiv- a Possessivpronome steet keen Accent:
+ech, mech, dech, sech
+meng, deng, seng an och: mengersäits, sengetweegen
+Bemierkungen:
+V Bei enger Rei Wierder, déi sech gläichen, markéiert den Accent aigu um
+e eng ënnerschiddlech Aussprooch:
+flécken, Flecken; kéng, keng; kléngt, klengt; Réng, reng;
+Stécker, Stecker; strécken, strecken; zécken, zecken
+V Mir schreiwen am Lëtzebuergeschen de franséischen é just an der
+Endung vu Wierder, déi mer aus dem Franséischen iwwerhuelen, a bei
+zesummegesate Wierder an Ausdréck aus dem Franséischen (cf. 7.2.2,
+7.2.5):
+Comité, Congé, Musée, Assemblée générale, Chargé de cours,
+Mathésproff
+
+2
+
+20
+
+De Vokal e
+
+2.2.3 De kuerzen ë
+
+2
+
+Dee Laut gläicht an der Aussprooch engem kuerzen ö a gëtt an der betounter Silb ë (e mat Treema) geschriwwen.
+Bëbee, Bevëlkerung, ëffentlech, ëm (dt. um), ënnen, fënnef, gëttlech,
+Mënsch, mëschen, nërdlech, Stëbs, Wëllef
+An onbetounte Silbe gëtt keen Treema op den e gesat (cf. 2.3.2):
+Aen, Apel, Bouwen, droen, elo, emol, eraus, héieren, kachen,
+Pressessioun, Suen
+Ausnam: A verschiddene kuerze Funktiounswierder kënnt keen Treema:
+V Artikelen: dem, den, der, mee: dës, dësen
+V Pronomen: de, em (dt. ihm), en, er, es, et, mer, se
+V Negatioun: net
+V Partikel: ze (ausser wann zwee e-en hannendrustinn: cf. 2.2.4)
+V Prefixen: be-, ge- (ausser wann zwee e-en hannendrustinn: cf. 2.2.4)
+Bemierkung: Vill Leit schwätzen den é ewéi en ë an den ch ewéi en sch, a
+maache keen oder kaum en Ënnerscheed tëscht der Aussprooch vu mécht a
+vu Mëscht. Dofir ass et nëtzlech, sech ze mierken:
+V virun ch steet ni en ë (an och net virun chs, ck, ng, nk oder x):
+du bréchs, dréchen, du méchs, hie mécht, sécher, Spréch, Stréch
+V virun sch steet ni en é:
+Brëscht, Dësch, Fëscher, Këscht, mëschen, rëschten, Sëschter
+
+2.2.4 Den ëee an den eeë
+Wann den onbetounten e op en ee stéisst, da gëtt ë geschriwwen:
+entdeeën, freeën, Geleeënheet, Jeeër, leeën, Steeën, streeën
+gëeegent, gëeekelt, gëeelzt, unzëeegnen
+Bemierkungen:
+V Wa méi wéi dräi e-en openeentreffen, kann an Zesummesetzunge mat
+eegestännege Wierder e Bindestréch gesat ginn, fir datt et besser ze
+liesen ass:
+eng Ee-Eegenschaft oder eng Eeeegenschaft, e Stree-Eemer oder e
+Streeeemer
+Mee: zweeeeëg Zwillingen
+V Wann zwee e-en oder en e an en i, o, u openeentreffen a getrennt
+geschwat ginn, gëtt keen Treema geschriwwen:
+ageengt, ugeeckt, beurteelt, geiergert, geiert, geimpft, geotemt
+
+De Vokal e
+
+21
+
+2.2.5 Den Treema um e am Pluriel
+Ass eng Verwiesslung vum Pluriel mam Singulier méiglech, well den n vum
+Pluriel duerch d’n-Reegel (cf. 6) ewechfält, da gëtt de leschten e duerch en
+Treema markéiert:
+Batterie – Batterië sammelen, Biografie – Biografië schreiwen, Chance –
+Chancëgläichheet, Kopie – Kopië maachen, Rallye – Rallyë fueren
+
+2.3 Den net geschwaten e an den Apostroph
+2.3.1 Den net geschwaten e am Wuert
+An der geschwater Sprooch gëtt den e an onbetounte Silben dacks net ausgeschwat. E gëtt awer geschriwwen:
+Allerhellegen, Artikelen, eekeleg, grujeleg, héieren, interessant,
+Timberen, zeréck
+Wann ee wëllt déi geschwate Sprooch erëmginn, da gëtt deen e einfach
+ausgelooss an net duerch en Apostroph ersat.
+Bei enger Rei Wierder gëtt et an der geschriwwener Sprooch déi zwou
+­Méiglechkeeten, déi am LD festgehale sinn:
+äifereg an och äifreg
+gouereg an och goureg
+iwweregens an och iwwregens (cf. 4.1.1.2)
+trauereg an och traureg
+wakereg an och waakreg
+Wouerecht an och Wourecht
+Bemierkung: Bei engem laange Vokal muss verduebelt ginn, wann duerch
+d’Ewechloosse vum e zwee Konsonanten hannereneestinn: waakreg (cf. 1.1).
+Ausnamen:
+V ze (cf. 2.3.3)
+V Virun dem Suffix -ung gëtt den -el dacks duerch en einfachen -l ersat
+(dat steet dann am LD):
+entwéckelen – Entwécklung, handelen – Handlung, auskuppelen –
+Kupplung, versammelen – Versammlung, verwiesselen – Verwiesslung
+
+2
+
+22
+
+De Vokal e
+
+2.3.2 Den net geschwaten initialen e
+
+2
+
+Bei ville kuerze Funktiounswierder gëtt den initialen e dacks net geschwat a
+kann am Schrëftlechen ewechgelooss ginn. E gëtt net duerch en Apostroph
+ersat:
+Haaptvariant: elo, eran, eraus, eréischt, erëm, esou, ewech, ewéi, ewell
+Niewevariant: lo, ran, raus, réischt, rëm, sou, wech, wéi, well
+Ausnam: et (cf. 2.3.3)
+
+2.3.3 Den Apostroph
+Den Apostroph gëtt fir déi heiten Zwecker am Lëtzebuergesche gebraucht
+(cf. 10.5.1):
+V De weiblechen Artikel déi an de sächlechen Artikel dat ginn an hirer
+kuerzer, schwaacher Form virum Substantiv mat d plus en Apostroph
+geschriwwen. Dat selwecht gëllt fir den Artikel déi am Pluriel:
+d’Aarbecht, d’Fra
+d’Haus, d’Kand
+d’Fraen, d’Männer
+V Beim Wuert ze bleift den e am Wuert prinzipiell stoen:
+Et ass vill ze entdecken.
+Hie brauch net ze iwwerleeën.
+Dat ass, fir sech ze iergeren.
+Ausnam: z’iessen
+V An net offiziellen, informellen Texter ka bei de Wierder et an ze den e
+ewechgelooss ginn. An deem Fall gëtt den e duerch en Apostroph ersat:
+’t ass waarm. ’t geet eis gutt. ’t ass vill z’entdecken.
+V Wann den ze an engem Verb drasteet, gëtt en ëmmer ausgeschriwwen:
+Hatt huet sech net genéiert, dat iwwerall erëmzeerzielen.
+De Plastik vun der Pizza ass net fir matzeiessen.
+
+De Vokal e
+
+23
+
+2.4 Zesummefaassung vun de Basisreegele
+fir de Vokal e
+2
+ee
+
+Deel
+[e:]
+Freed
+
+e
+
+[e:]
+
+Laangen e
+
+Et gëtt eng Rei
+Ausnamen: Helium
+
+a betounter Silb
+
+kollegial
+Emotioun
+
+an onbetounter Silb
+
+e + ä [æ]
+
+besser
+Bäcker
+
+ä steet bei Ofleedunge vun a, ä, o, ö
+
+-
+
+ë
+
+[ə]
+
+Bësch
+mëll
+
+ë steet ni virun ch,
+chs, ck, ng, nk, x
+
+a betounter Silb
+
+e
+
+[ə]
+
+allem
+Mantel
+
+-
+
+an onbetounter Silb
+
+ë
+
+[ə]
+
+gëeelzt
+leeën
+
+virun oder hanner ee
+
+an onbetounter Silb
+
+é
+
+[e]
+
+drénken
+Gléck
+
+é steet just virun ch,
+chs, ck, ng, nk, x
+
+a betounter Silb
+
+e
+
+[e]
+
+Musek
+Wunneng
+
+Kuerzen e
+
+an onbetounter Silb
+
+24
+
+3
+
+D’Diphthongen
+
+3. D’Diphthongen
+3.1
+
+D’Diphthongen am Lëtzebuergeschen
+Am Lëtzebuergesche gëtt et dës Diphthongen:
+V au steet fir phoneetesch [ɑʊ] oder [æːʊ]:
+au [ɑʊ]: Bauer, haut, jaus, maulen
+au [æːʊ]: Braut, dauschen, Haut, lauter
+V ei [ɑɪ]: Feier, nei, reimen
+V ai [ɑɪ]: Raiber, Saier
+De phoneeteschen Diphthong [ɑɪ] gëtt entweeder mat ei oder ai
+geschriwwen; ai steet als Ëmlaut vum au:
+Daum – Daimchen, bauen – Gebai, haut – haiteg, Haut – Haitchen,
+Laus – Lais, Maul – Mailercher, Maus – Mais, sauer – Saier
+Den ai steet och bei Pai fir dat franséischt paye.
+An all den anere Wierder steet ei fir phoneetesch [ɑɪ].
+V äi [æːɪ]: Äis, bäissen, däitlech, fläisseg, mäin, näischnotzeg
+Bemierkung: Den äi kann och als Ëmlaut vum au stoen:
+Fauscht – Fäischt, dauschen – Gedäischs
+V éi [ɜɪ]: béis, Kéier, léinen
+V ou [əʊ]: Bouf, lounen, wouer
+V ie [iə]: bieden, Biesem, lieweg
+V ue [uə]: Buedem, bueden, lues
+Bemierkungen:
+V D’Diphthonge sinn ëmmer laang, dofir kann duerno keng
+Konsonanteverdueblung kommen, och keen ck oder tz (cf. 4.3.4.7):
+Bauz, Biesem, eraus, hie géif, Kaul, Mous, Poul, ech souz
+Just de stëmmlosen, schaarfen s [s] gëtt dacks mat ss verduebelt, fir e
+vum stëmmhaften, mëllen s [z] ze ënnerscheeden (cf. 4.3.4.2, 4.3.4.4):
+bäissen, dobaussen
+
+D’Diphthongen
+
+25
+
+V Wann eng Endung mat Vokal ewéi -er oder -en un e Wuert drugehaange
+gëtt, dat mat engem Vokal ophält, dann entsteet keen Diphthong. An
+deem Fall ginn d’Vokaler getrennt ausgeschwat (Hiatus):
+Aen, e bloen Hutt, doen, knaen, Plien, Prabbelien, Statuen, Suen
+V eu [ɔɪ] an äu [ɔɪ] bleiwen a Friemwierder stoen:
+Eefeu, euphoresch, Euro, Europa, Euthanasie, Heuchler, neutral,
+Rheuma
+äusserlech, enttäuscht
+An enger Rei Friemwierder steet oi fir den Diphthong [ɔɪ]:
+Boiler, Koi, Konvoi, spoileren
+Bei de Wierder Moien, moies ass de Laut [ɔj] keen Diphthong, well e
+sech op zwou Silbe verdeelt.
+V eu, ou, oi, ie an ai kënne bei Wierder, déi aus dem Franséischen oder
+aus dem Englesche kommen, anescht ausgeschwat ginn:
+Neveu, Pneu, Coup, Blackout, Foire, Trottoir, Epicerie, Regie, Baisse
+
+3.2 D’r-Reegel: u, i, o an ä virum r
+3.2.1 i an u virum r
+Wann den i oder den u virum r laang geschwat ass, da kënnt en e derbäi an
+deen ier oder uer gëtt als Diphthong geschwat. Den r héiert een dacks net
+beim Schwätzen, mee e gëtt geschriwwen:
+Bierg, Bierger, duerch, Fierschter, fuerderen, fuerschen, Hierscht,
+Kierch, Muert, natierlech, Tuerm, Wiert, Wuert, Wierder (dt. Wörter),
+mee: Wieder (dt. Wetter)
+giereg, Nieren, Regierung, Schmier, schmieren, Zier
+Buer, bueren, fueren, Gehier, Geschier, hie fiert hin an hier, huerelen,
+Spuer, spueren, hie spuert, Stier, Tuer (dt. Turm), Zwier
+Bier (dt. Birne, Beere, Bär), Dier (dt. Tür), dier (dt. dürr), Mier (dt. Meer,
+Stute)
+hier (dt. her), ier (dt. irr, ehe, bevor), ieren (dt. irren, etwa), en huet sech
+geiert, ierféieren, Iertum
+dat ass obskuer, puere Whiskey, puert Waasser, e Puer Schong, hien ass
+stuer
+Kuer, Kueren
+
+3
+
+26
+
+D’Diphthongen
+
+Ausnamen:
+V d’Pronomen: dir, Dir, mir, hir (dt. ihr, ihre), mee: hiert Haus
+V vir (dt. vor, vorn), fir (dt. für), zur, Ir – Iren – iresch (aus Irland)
+V de Prefix ur-:
+ural, Urenkelin, Urgrousspapp, Urmënsch, Ursaach, Urteel
+
+3
+
+V Friemwierder op -ir ewéi Saphir, Souvenir, Vampir
+V Méisilbeg Substantive mat der Endsilb -ur an hir Flektéierungen an
+Ofleedungen:
+Akupunktur, Apparatur, Architektur, Blessur, Figur, Kultur, Natur,
+Prozedur, Purpur, Skulptur, Struktur, Tastatur, Temperatur, Tortur,
+Zensur
+kulturell, strukturéieren, Temperaturen, zensuréieren
+Mee bei enger Substantivéierung mat Ge…s kënnt en e tëscht dem u an
+dem rs:
+dat Geapparatuers, Geprozeduers
+Bemierkung:
+V Wann den i oder u virum r kuerz ass, kënnt keen e dertëscht:
+Hirsch, Kirsch, Wirschtchen, Wurscht an och puristesch
+Wirtschaft (Ekonomie), mee: Wiertschaft (Bistro)
+V Wann et net kloer ass, ob en r nom ie oder ue kënnt, kuckt een dat
+däitscht Parallelwuert:
+Fierschter (dt. Förster); Wiechter (dt. Wächter)
+fierwen (dt. färben); hiewen (dt. heben)
+Hierscht (dt. Herbst); Hiecht (dt. Hecht)
+Kuerbel (dt. Kurbel); Nuebel (dt. Nabel)
+Muert (dt. Möhre); Mued (dt. Made)
+Wierder (dt. Wörter); Wieder (dt. Wetter)
+
+D’Diphthongen
+
+27
+
+3.2.2 o virum r
+Den o virum r gëtt dacks mat engem e als Hiatus geschwat, deen och
+geschriwwe gëtt. Deen e verschwënnt, wann an anere Forme vum Wuert
+d’Aussprooch ännert an den r an eng nei Silb iwwerholl gëtt:
+boer, Hoer, Joer, Joerhonnert, kloer, moer, Neijoerschdag
+boert Geld, kloert Waasser, moert Fleesch
+horeg, Joren, jorelaang, mat borem Geld, mat klorem Kapp, mat morem
+Speck
+Mee: Gefor, Por (dt. Pfarrei, Pore)
+chloren – gechloort, opboren – opgeboort
+
+3.2.3 ä virum r
+De laangen ä virun r plus e Konsonant hannendru gëtt äe geschriwwen:
+Äerd, äert Häerz, Päerd, dir wäert
+Steet den r als eenzege Konsonant hannert dem ä, da kënnt keen e bei den ä:
+äre Bouf, däreg, gären, Här, käreg, Märercher, Märel, Stär
+Bemierkung: Well d’Suffixen eenzel gekuckt ginn, kënnt keen e virum r:
+Märchen, järlech (cf. 1.6.1)
+
+3
+
+28
+
+D’Konsonanten
+
+4. D’Konsonanten
+4
+
+4.1
+
+Eenzel oder duebel geschriwwene Konsonant
+
+4.1.1
+
+Nom kuerze betounte Vokal
+
+4.1.1.1 Méi ewéi ee Konsonant
+Nom kuerze betounte Vokal muss méi ewéi ee Konsonant stoen (cf. 1.23.1).
+Fändel, Komma, mellen
+Fritt, Gefill, Gittar, midd, Mull, zolidd
+De Buschtaf k gëtt mat ck verduebelt an de Buschtaf z mat tz (cf. 4.3.5.1,
+4.3.4.7).
+Ausnamen:
+V An enger Rei vu Funktiounswierder steet de Konsonant nom kuerze Vokal
+eenzel:
+am, an, bis, (do)dran, drop, (vir)drun, eran, erop, (do)hin, mam, mat,
+net, ob, op, um, un, vum, vun, zum
+V Bei enger Rei Wierder, deenen hiert Schrëftbild aus anere Sprooche
+bekannt ass, gëtt de Konsonant hannert dem kuerze betounte Vokal an
+der Grondform net verduebelt. Dës Wierder ginn am LD festgehalen:
+Appetit, Bus, Echec, Fabrik (och: Fabrick), Hit, Job, Katholik, Klinik
+(och: Klinick), Kritik, Limonad, Liter, Lok, Medezin, Minett, Modell,
+parallel, Politik, sec, Synonym, Tarif, Titel
+Wann déi lescht Silb kuerz a betount ass an eng nei Silb derbäikënnt
+(duerch e Pluriel oder eng Erweiderung), da gëtt de Konsonant
+verduebelt:
+Bussen (och: Busser), Echecken, Fabricken, Katholickin, Klinicken,
+Medezinner, mat parallelle Linnen, Rubricken, e secken Toun,
+Synonymmen, Tariffer
+Wierder wéi Kritikerin oder Politiker sinn hei net betraff, well de Vokal
+virun der Erweiderung net betount ass.
+
+D’Konsonanten
+
+29
+
+Bei Adjektivbildunge mat -esch gëtt de Konsonant net verduebelt:
+Medezin, Medezinner, mee: medezinesch
+Typ, Typpen, mee: typesch
+an och: analytesch, kritesch
+mee: finnesch (wéinst Finnland), spëttesch (wéinst Spott)
+V Bei Wierder aus dem Franséischen, bei deenen duerch eng Lëtzebuerger
+Schreifweis de stommen e um Enn ewechfält, muss de leschte
+Konsonant verduebelt ginn, wann de leschte Vokal kuerz ass an d’Silb
+betount gëtt (cf. 7.2.3):
+Agraff, Etapp, Finall, Limitt, Originn, Vitaminn
+Déi franséisch Schreifweisen, déi als Niewevariant a Fro kommen, stinn
+am LD.
+Bei Verben op -néieren a bei Adjektiven op -(i)onell gëtt een n geschriwwen,
+egal wéi et am Däitschen oder am Franséischen ass:
+abandonéieren, abonéieren, affinéieren, betonéieren, braconéieren,
+deconéieren, depanéieren, deponéieren, detonéieren, dominéieren,
+goudronéieren, ëmdisponéieren, faszinéieren, harmonéieren,
+imponéieren, impressionéieren, intonéieren, komponéieren, ordonéieren,
+passionéieren, perquisitionéieren, plafonéieren, positionéieren,
+rationéieren, revisionéieren, soupçonéieren
+hormonell, konstitutionell, operationell, oppositionell, optionell,
+professionell, rationell, sensationell, traditionell
+Bemierkung: D’Schreifweis mat engem n kann och op Ofleedunge vun dëse
+Verben iwwerdroe ginn, dann allerdéngs als Niewevariant. D’Form mat zwee
+n bleift d’Haaptvariant (wann d’Wuert och am Franséischen zwee n kritt).
+Haaptvariant: Abonnement, Fonctionnaire, impressionnant, raisonnabel
+Niewevariant: Abonement, Fonctionaire, impressionant, raisonabel
+Bei verschiddene Wierder huet een d’Wiel tëscht zwou Schreifweisen,
+woubäi déi eng sech um Däitschen an déi aner sech um Franséischen
+orientéiert:
+Domän oder Domaine, Kartusch oder Cartouche
+Bei anere Wierder verréit d’Aussprooch, aus wéi enger Sprooch se kommen.
+D’Schreifweis ass deementspriechend déi däitsch oder déi franséisch (den n
+bei Verben op -néieren oder Adjektiven op -(i)onell gëtt net verduebelt):
+funktionéieren oder fonctionéieren, komplettéieren oder completéieren,
+koordinéieren oder coordonéieren
+frankofon oder francophone: e francophonne (kuerzen o) Mënsch oder e
+frankofone (laangen o) Mënsch (fir d’Schreiwung vu -fon/-phon: cf. 7.4)
+
+4
+
+30
+
+D’Konsonanten
+
+Bemierkung: De g ka just verduebelt ginn, wann e geschwat ass wéi bei
+Gamma oder Guy, soss – als Reiflaut – net. Och de j, de mëllen s an den x
+kënnen net verduebelt ginn (cf. 4.3.2.1, 4.3.3.2, 4.3.4.2, 4.3.5.3).
+
+4.1.1.2 Den drëtte Konsonant
+Wa bei Wierder mat duebelem Konsonant duerch eng Ofleedung oder
+Flektéierung een oder méi Konsonanten derbäikommen, da fält deen zweete
+Konsonant doduerch net ewech:
+
+4
+
+dack – dacks, Famill – Familljen, Folleg – Nofollger – déi follgend
+Tatsaachen, hallef – hallwer – Hallwerweis – Hallschent,
+knapp – knapps, mann – op d’mannst, schonn – schonns
+blann Gromperen – blannt Glas, déck – Déckt, dënn – Dënnt,
+klappen – Geklapps, wullen – Gewulls
+schaffen – du schaffs, hie schafft; sëtzen – hie sëtzt
+
+4.1.2 Nom onbetounte Vokal
+Nom onbetounte Vokal steet e Konsonant meeschtens eenzel an net verduebelt, och wann de Vokal kuerz ass:
+Album, Anorak, banal, Datum, Dëmpel, dramatesch, Engel, Figur,
+Galerie, Kamäin, Kamell, kamoud, Kanal, Kanoun, Kiewerlek, Komoud,
+Lastik, Pillem
+Och am Pluriel gëtt de Konsonant do net verduebelt:
+Albumen, Datumer, Dëmpelen, Engelen, Kiewerleken, Lastiker, Pillemen
+Ausnamen:
+V Bei verschiddene Wierder steet dacks och nom onbetounte Vokal en
+duebele Konsonant:
+Bei Wierder op -ett oder -ell: Binnett, Brickett, Bullett, Diskett,
+Forschett, Fotell, Gamell, Jackett, Jartell, Kotlett, Minett, Omlett,
+Plackett, Sockett
+Bei enger Rei Friemwierder: Affaire, Affiche, Allee, Attraktioun,
+effektiv, Effort, Graffiti, Halluzinatioun, immens, impeccabel,
+offensiv, Oppositioun
+V Bei Affekot steet en duebelen f, obschonns déi éischt Silb onbetount
+ass, fir net Af- (dt. Affe) ze liesen.
+V Bei de kuerz geschwaten Endungen -in, -(n)es oder -(n)is, -al , -an, -el
+an -us gëtt am Pluriel verduebelt, och wann d’Silb net betount ass:
+Conditionnel – Conditionnellen, Dosis – Dosissen,
+Gäertnerin – Gäertnerinnen, Geheimnis – Geheimnisser,
+Hiewan – Hiewannen (mat kuerzem a), Hotel – Hoteller oder
+Hotellen, Journal – Journallen, Kaktus – Kaktussen,
+
+D’Konsonanten
+
+31
+
+Kenntnes – Kenntnesser, Léierin – Léierinnen, Pluriel – Pluriellen,
+Schreiwes – Schreiwessen, Trampolin – Trampolinnen oder
+Trampolinner, Tunnel – Tunnellen, Zirkus – Zirkussen
+Och bei Substantiven aus dem Englesche gëtt den eenzele
+Konsonant am lëtzebuergesche Pluriel dacks verduebelt, wann d’Silb
+net betount ass (cf. 7.3.1): Comic – Comicken, Donut – Donutten,
+Laptop – Laptoppen
+
+4.1.3 No Diphthongen
+No Diphthongen (cf. 3.1), déi ëmmer laang sinn, steet kee Konsonant zweemol, mat Ausnam vum ss (cf. 4.3.4.4):
+gelies, rout, Schoul
+blouss, Schouss, Wiessel, wuessen
+
+4.1.4 Uneneegeschriwwe Wierder
+Bei uneneegeschriwwene Wierder gëtt d’Schreifweis vun den eenzele Wierder respektéiert, och wann e Fouen-s dertëschtkënnt (cf. 1.5):
+Molkëscht, Sakduch, Schofspelz
+E Konsonant kann och dräimol hannereneegeschriwwe ginn:
+Brennnessel, Kongressstad, Sauerstofffläsch
+
+4.2 De Laut um Enn vum Wuert
+4.2.1 Allgemeng Reegel
+Um Enn vum Wuert héiert ee meeschtens e schaarfe Konsonant (p, t, k, f ),­
+och wann d’Wuert mat b, d, g, v oder w geschriwwe gëtt (Ennverhäerdung).
+Beim Schreiwe gëtt sech um däitsche Schrëftbild orientéiert. Wann et am
+Däitsche kee Parallelwuert gëtt, da gëtt den haarde Konsonant p, t, k oder f
+geschriwwen. De v bleift ëmmer stoen (cf. 4.3.6.1).
+Beispiller:
+V f, v oder w
+Léiw (dt. Löwe) – de w ewéi am Däitschen.
+léif (dt. lieb) – et ass um Enn vum Wuert net dee selwechte Laut:
+d. h., de schaarfe Konsonant gëtt geschriwwen.
+brav (dt. brav)
+Bouf (dt. Bube), Bréif (dt. Brief), Buschtaf (dt. Buchstabe),
+Déif (dt. Dieb)
+Am Däitsche steet hei e b oder en f.
+
+4
+
+32
+
+D’Konsonanten
+
+V b oder p
+Ribb (dt. Rübe), ob (dt. ob)
+Koup (dt. Haufen), Krop (dt. Haken), Rëpp (dt. Rippe), op (dt. auf)
+V g oder k
+analog (dt. analog), Drog (dt. Droge), Dogg (dt. Dogge), Grog
+Bok, Schnok, Tubak (dt. Tabak)
+
+4
+
+V d oder t
+Doud (dt. Tod), Lidd (dt. Lied), midd (dt. müde), Rad (dt. Rad), Ridd
+(dt. Rüde), Schmadd, Schmëdd (dt. Schmied, Schmiede), zolidd (dt.
+solide), Freed (dt. Freude), mee hie freet (cf. 5.2)
+en hybrid Gefier (dt. hybrid), e morbid Theema (dt. morbide)
+dat (dt. das), dout (dt. tot), et (dt. es), Muert (dt. Möhre),
+Rat (dt. Ratte)
+Dës Reegele gëllen och, wa méi Konsonanten um Enn beieneestinn:
+Lëps (dt. Lippe), Stëbs (dt. Staub)
+Bemierkung: D’Endung vun engem Participe présent bleift ëmmer -end:
+dat entscheedend Argument, lafend Käschten, e spannend Enn,
+dat andauernd Gesouers, deen enttäuschendste Moment
+Ausnamen:
+V Stad (dt. Stadt), Stied (dt. Städte), mee: Stater Bussen, stättesch
+Bussen
+Rued (dt. Roodt), mee Rueter Leit
+V Bei Verben an dovunner ofgeleete Wierder gëlle speziell Reegelen (cf. 5.2):
+hien ass gelant, e Gesanten, e weltgewanten Typ
+
+4.2.2 Wiessel vum Konsonant
+Wann de Konsonant beim Schwätzen an der Verlängerung vum Wuert
+ännert, dann ännert och de geschriwwene Konsonant:
+Blutt, awer bluddeg
+Bréif, awer Bréiwer
+domat, awer domadder
+dout, awer doudeg
+Drauf, awer Drauwen
+drop, awer dorobber
+gutt, awer gudden
+léif, awer léiwen
+Schmadd, awer Schmatten
+
+D’Konsonanten
+
+33
+
+Schmëdd, awer Schmëtten
+ech schreiwen, awer du schreifs
+zolidd, awer zolitten
+
+4.3 Verschidde Konsonante mat spezielle Reegelen
+4.3.1 Den h
+De Konsonant h gëtt nëmme geschriwwen, wann en och geschwat gëtt:
+doheem, geheien, hannen, hatt, haut, hien, hiewen, Hoer, houschten,
+Hues
+Mee: Drot, Gefor, goen, Méi, no, Rei, Réi, Weier, a sou!, o mei!
+A verschiddenen international gebräichleche Wierder oder Fachausdréck an
+och bei Nimm bleift den h stoen (fir den rh, th, ph cf. 7.4):
+Diphthong, Mittelohrentzündung, Rhythmus, Theater, Theema, Ohn,
+Rhäin
+Den h gëtt am Lëtzebuergeschen net benotzt, fir d’Längt vun engem Vokal
+ze markéieren:
+Anung, berüümt, Bün, Erfarung, Faart, fäeg, Feeler, Fernsee, Fön,
+Hellseeër, Leem, Seen, Tru, Walen, wärend
+D’Variant mam däitschen h ass méiglech bei Wierder, déi ouni h iwwer dem
+Liesen net gutt erkannt ginn (dat steet dann am LD):
+Fernseh, Hellseher
+
+4.3.2 De g an den ch
+4.3.2.1 g als [g]
+Am Ufank vum Wuert gëtt de g meeschtens wéi bei Gamma oder Guy
+geschwat, also [g]:
+Gäns, Gebläers, Geescht, Geess, gedronk, Geld, giel, Glace, Gourmet
+De franséische gu bleift stoen:
+Guichet, Guide, Guidon
+Wann de g an der Mëtt vum Wuert wéi bei Gamma geschwat ass, da gëtt de
+g nom kuerze betounte Vokal verduebelt:
+Bagger, Buggi, Doggen, joggen, schmuggelen
+
+4
+
+34
+
+D’Konsonanten
+
+Bemierkung: De g oder gg kann um Enn vum Wuert och als k geschwat ginn
+(Ennverhäerdung):
+Dogg, Grog
+Drog, Fig
+
+4.3.2.2 g als Reiflaut
+Wann de g als Reiflaut geschwat ass ([ʑ], [ʒ], [x], [ɣ]), da gëtt en net verdue­
+belt, och net nom kuerze betounte Vokal:
+De Vokal ass kuerz:
+
+4
+
+Bigel, Spigel, Vigel
+Kugel, ondugen, verlugen, Vugel
+De Vokal ass laang:
+eegen, Fliger; exigent, Logen; Dag, Verlag; Jugend, Lager
+Bei verschiddene Wierder, déi meeschtens aus dem Franséische kommen,
+gëtt de g am Ufank vum Wuert als Reiflaut gelies:
+Gigot, Gilet, Giraff
+Bemierkung: Bei verschiddene Wierder mat g um Enn vum Wuert oder am
+Wuert, kann de g als [k]/[g] oder als Reiflaut [x]/[ɣ] geschwat ginn:
+analog, Astrolog, Katalog, Jugend, jugendlech
+
+4.3.2.3 g oder ch
+Bei de Reiflauter gëtt nom däitsche Schrëftbild gekuckt, no engem laange
+betounte Vokal oder Diphthong:
+Bierg (dt. Berg), Buerg (dt. Burg), Dag (dt. Tag), Deeg (dt. Teig, Tage),
+Gaalgen (dt. Galgen), Juegd (dt. Jagd), Rüg (dt. Rüge), Suerg (dt.
+Sorge), uerg (dt. arg)
+aacht (dt. acht), brooch (dt. brach), Daach (dt. Dach), duerch (dt.
+durch), geduecht (dt. gedacht), Hiecht (dt. Hecht), Nuecht (dt. Nacht),
+Perch oder Pierch (dt. Pferch), Späicher (dt. Speicher), stiechen (dt.
+stechen), Strauch (dt. Strauch)
+Ausnamen:
+V A betounten Endsilbe steet no engem kuerze Vokal ch:
+Ausfluch (dt. Ausflug), ewech (dt. weg), Fluch (dt. Flug oder Fluch),
+genuch (dt. genug), Krich (dt. Krieg), Zich (dt. Züge)
+V Als Niewevariant kënne Flug/Flig (dt. Flug/Flüge) an Zesummesetzunge
+mat (-)flug(-) (Réckflug, Flugticket) och mat g geschriwwe ginn. Beim
+Wuert Flughafen ass d’Schreifweis mam g Haaptvariant. D’Wuert
+Fluchhafen ass Niewevariant.
+V Mir schreiwen: daachen, dat daacht näischt (dt. taugen, es taugt nichts)
+
+D’Konsonanten
+
+35
+
+Bei de Substantive kommen déi béid Endungen -eg an -ech vir (fir den -sch:
+cf. 4.3.3.1):
+-eg: Esseg, Hunneg, Mëtteg, Péiterséileg, Tierteg, Ueleg
+-ech: Kielech, Läilech oder Lëlldech, Mëllech, Minnech, Paangech,
+Schaarschtech, Schiertech, Schnappech, Teppech
+Wann en t hannendrusteet, da gëtt -echt geschriwwen:
+Bäiluecht, Gellecht, Gewunnecht, Heemecht, Uelzecht
+Bei den anere Wuertaarte gëtt ënnerscheet tëschent de Suffixen -eg, -zeg a
+-lech:
+bëlleg, dichteg, drësseg, éiweg, ëmpeg, flappeg, gakeg, gelleg, helleg,
+kannereg, ongemälleg, sëlleg, vëlleg
+bannenzeg, dabozeg, gielzeg, hannerzeg, zwanzeg
+aartlech, daierlech, ëffentlech, heemlech (dt. heimlich), kierzlech,
+mëndlech, ländlech
+Bemierkungen:
+V Wann den l zum Grondwuert gehéiert, da steet en -eg hannendrun:
+eemoleg, heemeleg (dt. zutraulich), séileg
+V -egt an -echt bei de Verben: cf. 5.3.1
+V Den -eg an den -ech dierfen net mam -esch verwiesselt ginn. Dacks gëtt
+den Ënnerscheed tëschent engersäits -eg an -ech an anersäits Wierder
+op -esch net kloer geschwat:
+besonnesch, kënschtleresch, lëtzebuergesch
+
+4.3.2.4 Den Diminutiv -chen
+En Diminutiv gëtt mat -chen (oder mat -elchen) geschriwwen:
+bësschen, Dänzchen, Däppchen, Fiisschen, Haischen, Hieschen,
+Kierfchen, Kleeschen, Schäffchen, Schiefchen, Täertchen, Wirschtchen
+bësselchen, Béxelchen, Bichelchen, Bréckelchen, Dëschelchen,
+Dichelchen, Fëschelchen, Kaweechelchen, Kichelchen, Mitzelchen,
+Zéngelchen
+
+4.3.3 Den sch an de j
+4.3.3.1 Den sch
+De Laut sch (phoneetesch [ʃ]) gëtt meeschtens ewéi am Däitsche geschriwwen:
+fëschen, Fläsch, gekrasch, läschen, Schong, Schoul
+Heesprénger, Holzspläiter, Spaass, spillen, sprangen, Stack, steif,
+Stréckel
+
+4
+
+36
+
+D’Konsonanten
+
+D’Endung -esch (dt. -isch oder -ers) steet bei muenchen Adjektiven a bei
+enger Partie vu weibleche Bezeechnungen:
+besonnesch, kënschtleresch, komesch, lëtzebuergesch, literaresch,
+spezifesch, spilleresch
+Bäckesch, Doktesch, Ligenesch, Meeschtesch, Patréinesch
+D’Nopeschland Belsch schreift sech och mat -sch:
+an der Belsch, e belsche Béier
+A franséische Wierder bleift d’Originalschreifweis, wouduerch de Laut sch
+als ch(e) oder ge geschriwwe gëtt:
+
+4
+
+Affiche, Archiven, Chamber, Chauffeur oder Chauffer, Recherche
+Bagage, Message
+Bemierkungen:
+V Ass scht op zwou Silbe verdeelt oder steet en um Enn vum Wuert, da
+gëtt scht an net st geschriwwen:
+baschten, Buschtaf, Moschtert, Paschtouer
+Aascht, Frascht, Loscht, Rescht
+V Um Enn vun engem Wuert gëtt den sp oder st net als sch geschwat, an
+och net, wann déi zwee Buschtawen am Wuert op zwou Silbe verdeelt
+sinn:
+Knosp, pësperen, Poopst, Post
+Fest, Masten, Test
+
+4.3.3.2 De j
+De j, deen a ville Wierder virkënnt, steet fir d’Lauter [j], [ʒ], [ʑ] oder [ʤ].
+Eng Rëtsch Wierder kënne variabel mat [j] oder [ʒ] geschwat ginn, se ginn
+awer ëmmer mat j geschriwwen.
+[ʒ]: Jackett, jalous, jaus, jauwen, jicken, Journal, Jumm, Jupe, Jus, just
+grujeleg, Knujel, Kujenad
+[j] oder [ʒ/ʑ]: Jabel, jatscheleg, Jeeër, jéimeren, jiddereen, joen, Juni,
+juppelen
+[ʤ]: Job, joggen
+De j steet och fir de Laut [ʑ], bei Erweiderunge vun engem Wuert mat ch
+oder sch:
+Piisch, awer Pijen
+en héicht Haus, awer en héije Bierg
+déi viischt Dier, awer hie fiert vijenzeg
+Bemierkungen:
+V n-Reegel: Bei [ʤ] bleift den n virdru stoen, bei [j] an [ʒ] net (cf. 6.1.1):
+den Job, de Jabel, de Journal
+
+D’Konsonanten
+
+37
+
+V Bei Friemwierder kann de Laut [ʒ] och mat g geschriwwe sinn:
+amenagéieren, Energie, Regie, Regierung
+Wierder, déi am Franséischen d’Endung -ier oder -ille(t) hunn an eng lëtzebuergesch Schreifweis kréien, ginn da mat -jee oder -jen geschriwwen:
+Billjee, Familljen, Keessjee, Pompjee, Schantjen
+
+4.3.4 Den s, den ss an den z
+4.3.4.1 s um Ufank vum Wuert
+Um Ufank vum Wuert steet de mëllen, stëmmhaften s als [z] mat s
+geschriwwen:
+Saaft, sécher, séier, Sonn
+De schaarf ausgeschwaten s, als [s], um Ufank vum Wuert fënnt een nëmmen a Friemwierder; en ass mat s oder mat c geschriwwen:
+Sachet, Salon, Service, Souvenir, systematesch
+Ceinture, Centre
+Duerch d’Integratioun vu Wierder kann dorausser en z ginn; et gëtt dann en
+[ts] geschwat:
+Zenter, zerwéieren, Zerwéit, Zerwiss
+
+4.3.4.2 s am Wuert
+Am Wuert gëtt de mëllen s [z] mat engem eenzegen s geschriwwen an de
+schaarfen s [s] ëmmer duebel als ss, onofhängeg dovun, ob de Vokal virdru
+kuerz oder laang ass. Den däitschen ß existéiert am Lëtzebuergeschen net a
+gëtt duerch den ss ersat (cf. 4.3.4.4).
+Geschwate mëllen s [z]:
+kuerze Vokal: Dosen, Dusel, haseleg
+laange Vokal oder Diphthong: Fielsen, glaseg, Iesel, rosen, Tasen
+Geschwate schaarfen s [s]:
+baussen, e bëssen, iessen, Täissel
+
+4.3.4.3 s um Enn vum Wuert
+Um Enn vum Wuert kann no engem laange Vokal oder engem Diphthong
+einfach s fir de schaarfen s stoen:
+Äis, Dous, eng Aart a Weis, Gas, Glas, lies!, Moos oder Mos,
+Speis (fir ze bauen), weis!, Wues (Gras)
+Krees, Präis
+
+4
+
+38
+
+D’Konsonanten
+
+Bemierkungen:
+V Bei Erweiderunge kann doraus e mëllen s ginn:
+Pluriel: Dousen, Gasen, Moosen oder Mooser
+Adjektiv: äiseg, glaseg
+aner Verbform: liesen
+V Bei Krees a Präis an och bei enger Partie Wierder op -(n)es, -(n)is, -us
+kënnt am Pluriel en ss, fir e schaarfen s ze markéieren:
+Kreesser, Präisser
+
+4
+
+Erkenntnesser, Erliefnesser, Erspuernesser, Flantessen, Hännessen,
+Ierbessen, Kabessen, Omessen, Schnurressen
+Dosissen, Geheimnisser, Gläichnisser (oder Gläichnesser), Wallissen
+Bussen, Globussen, Kaktussen
+
+4.3.4.4 ss um Enn vum Wuert
+Um Enn vum Wuert steet no engem laange Vokal oder engem Diphthong en
+ss, wann am Däitschen en ss, ß, chs oder z steet:
+Faass (dt. Fass), Gaass (dt. Gasse), Fouss (dt. Fuß), Keess (dt. Kasse),
+Mooss (dt. Maß), Preiss (dt. Preuße), Taass (dt. Tasse)
+grouss (dt. groß), séiss (dt. süß), wäiss (dt. weiß)
+Fluess (dt. Flachs), Fuuss (dt. Fuchs), Uess (dt. Ochse), Weess (dt.
+Weizen), Wuess (dt. Wachs), wuessen (dt. wachsen)
+Um Enn vum Wuert steet och en ss, wann de Vokal virdru kuerz ass:
+du bass, Kalbass, lass, Schnëss, Wiss
+Am Pluriel steet en s, wann de Laut do mëll geschwat ass:
+eng Keess, awer Keesen
+eng Taass, awer Tasen
+eng Wiss, awer Wisen
+Bemierkung: Wann däitsch Wierder iwwerholl ginn, gëtt den ß duerch ss
+ersat. De Vokal virdrunner gëtt just da verduebelt, wann d’Wuert am Lëtzebuergeschen etabléiert ass. Dat gëtt am LD festgehalen.
+Hien huet Grössenwahn (geléint däitscht Wuert).
+Hien huet Gröössewan (integréiert Schreifweis).
+Dee klengen Hond ass wierklech süüss (integréiert Schreifweis).
+
+4.3.4.5 s oder z no l an n
+No de Konsonanten l an n steet s oder z, awer ni tz.
+Bols, eens, Gäns (Pluriel: Gänsen), Hals (Pluriel: Häls oder Hälser)
+Danz (danzen), Mëlz (ermëlzen), Mënz (Mënzen), Pelz (Pelzer)
+
+D’Konsonanten
+
+39
+
+Wa bei engem Uertsnumm op -ls deen s bei enger Flektéierung schaarf
+geschwat ass, da gëtt e verduebelt:
+Boukels – d’Boukelsser Millen, Fiels – d’Fielsser Schlass,
+Gréiwels – d’Gréiwelsser Barrière, Schëndels – de Schëndelsser Tuerm
+
+4.3.4.6 De schaarfen an de mëllen s a Friemwierder
+A Friemwierder kann och en z oder en x fir de mëllen s geschriwwe ginn, an
+c, ç oder t fir de schaarfen s:
+Gazette, Sixième
+Demokratie, Face, Farce, Garçon
+
+4.3.4.7 Den [ts]-Laut
+Um Ufank vum Wuert gëtt de Laut [ts] am Prinzip mat z geschriwwen:
+Zaang, zapen, zappen, Zeck, Zuch
+No engem kuerze Vokal steet tz:
+matzen, Mutz, pëtzen, platzen, Sätz, sëtzen
+Ausnamen:
+Hospiz, Hospizer, Justiz, Miliz, Milizen, Notiz, Notizen, Noviz, Novizen
+No engem laange Vokal oder no engem Diphthong steet z:
+Gäiz, Kauz, Kaz, Plazen, Reiz, Saz
+Wa Verben an der zweeter Persoun Singulier mat tz oder z ophalen, da kënnt
+keen s drun (cf. 5.1.2):
+du bitz, du botz, du nätz, du schnäiz, du sëtz, du souz, du späiz,
+du spëtz
+A verschiddene Friemwierder bleift déi ursprénglech Schreifweis, och wann
+am Lëtzebuergeschen dacks [ts] geschwat gëtt:
+Patient, Pizza, Ratioun, Razzia, Statioun, Celsius, Cent
+Bemierkung: Bei Wierder op -tioun kann den t wéi en [s] oder en [ts]
+geschwat ginn:
+Animatioun, Informatioun, Variatioun
+
+4.3.4.8 D’Zuelwierder op -zéng an -zeg
+Beispiller fir Zuelwierder:
+dräizéng, véierzéng, fofzéng, siechzéng, siwwenzéng, uechtzéng, nonzéng
+zwanzeg, drësseg, véierzeg, fofzeg, sechzeg (oder: siechzeg), siwwenzeg,
+achtzeg (oder: uechtzeg), nonzeg
+dofir och: zegmol, zeg Kéieren
+
+4
+
+40
+
+D’Konsonanten
+
+4.3.5 De k, de q an den x
+4.3.5.1 De k
+De k steet a Wierder ewéi:
+Akaul, baken, Bok, Kabes, kal
+De k gëtt mat ck verduebelt:
+baken – Bäcker, Sak – Säck
+
+4
+
+Wann tëscht dem Laut [k] an dem Vokal hannendrun en hallwen u geschwat
+ass, gëtt dëse Laut am Lëtzebuergesche mat qu geschriwwen:
+quaken, Quetsch, quëtschen, quokeleg, gequäält, gequaselt
+
+4.3.5.2 De [ks]-Laut
+De [ks]-Laut gëtt verschidde geschriwwen:
+Béchs, Ochs
+diksen, gierksen, quiiksen
+Box, Duxall
+beducksen, mucksen
+
+4.3.5.3 De Vokal virum x
+En eenzele Vokal virum x gëtt kuerz geschwat:
+Box, Faxen, féx
+En duebele Vokal virum x gëtt laang geschwat:
+Aaxestill
+
+4.3.5.4 A Friemwierder
+A Friemwierder kënne verschidde Schreiwunge vum Laut [k] a vum [ks]
+virkommen (cf. 7):
+V als c: Cabaret, Cabinet, Caissier, Classeur, Code, Coup (Pluriel: Ki),
+Crayon, Culot
+V als qu: Quai, Quartier, Quiche, Communiqué, Moustique
+V als cc oder kk: Akkont, Akkordeon, Occasioun, Occupant oder Okkupant,
+acceleréieren, Accent, Accord, Succès
+V als ch: Charakter, Chouer, Chrëschtdag, chronesch
+Bemierkung: An engem kontinuéierleche Prozess ginn ëmmer méi Wierder
+mat enger Lëtzebuerger Schreifweis zougelooss; dat gëtt am LD festgehalen.
+Cadeau gëtt zu Kaddo, Canapé zu Kannapee
+
+D’Konsonanten
+
+41
+
+4.3.6 Den f, de v an de w
+4.3.6.1 Den f an de v
+Den f an de v sti wéi am Däitschen:
+fir (dt. für) – vir (dt. vorne)
+féieren (dt. führen) – véier (dt. vier)
+fiicht (dt. feucht) – viischt (dt. vorderst)
+fillen (dt. fühlen) – vill (dt. viel)
+Gëtt u Wierder, déi mat v ophalen, eng Endung drugehaangen, bleift de v
+stoen:
+aktiv – aktiven – aktiivt, brav – braven, Nerv – Nerven – du nervs – si nerven
+
+4.3.6.2 De ph an den f
+A Friemwierder kann de ph fir den f stoen. D’Schreifweis mat f ass an deene
+meeschte Fäll d’Haaptvariant (cf. 7.4):
+Mikrofon oder Mikrophon, Orthografie oder Orthographie
+
+4.3.6.3 De v bei Friemwierder
+A Friemwierder gëtt de v dacks bäibehalen (cf. 7):
+Avis, Enveloppe, Nouvelle, Revue, vag, Vakanz, Van, Vas, Vëlo, Visa, Vue
+Verschidde Wierder aus dem Franséische kréien an der lëtzebuergescher
+Schreifweis, déi am LD festgehalen ass, e w amplaz vum v:
+Diwwi, Nëwwi, Wallis, Wermischel, Zerwéit, Ziwwi
+
+4.4 E Verbindungs-s, -en oder -n
+A verschiddene Fäll steet en s, en en oder en n eleng am Saz. Si ginn eenzel fir sech geschriwwen an net un e Wuert ugehaangen.
+
+4.4.1 De Verbindungs-s an Niewesätz
+Bei Niewesätz, an deenen de Sujet déi 2. Persoun Singulier ass, steet
+tëscht der Niewesazaleedung an dem Pronomen (du, de, d’) en isoléierten s:
+Hatt freet, ob s de muer kënns.
+Du kriss, wat s de wëlls.
+Et war näischt an der Tut, déi s du mir ginn hues.
+Dat Déier, dat s du gesinn hues …
+So mer, wat fir e Brëll s de kaaft hues.
+
+4
+
+42
+
+D’Konsonanten
+
+Den s gëtt net geschriwwen, wann dat Wuert virdru mat s, ss, x oder z
+ophält:
+So mir, wéi eng Zoossiss de gär hues.
+Bemierkung: Et dierf een de Verbindungs-s net verwiessele mat engem s,
+deen Deel vum Wuert ass:
+Ech hätt gär, datt s de kënns. Ech hätt gär, dass de kënns.
+Do iers de dech, ier s de dech ëmsinn hues.
+
+4.4.2 De Verbindungs-en an Niewesätz
+
+4
+
+Bei Niewesätz, an deenen de Sujet déi 1. oder déi 3. Persoun Pluriel ass,
+ka fakultativ tëscht der Niewesazaleedung an dem Sujet en isoléierten e(n)
+stoen.
+Mir wëssen net, ob en d’Kanner matkommen.
+Et ass wouer, datt e mir elo gläich fortginn.
+So mir, wat e(n) si denken.
+Bemierkung: Dësen e(n), dee meeschtens hanner eesilbegen Niewesaz­
+aleedunge steet, ass e Phenomeen vun der geschwater Sprooch. E gëtt
+geschriwwen, wann een déi geschwate Sprooch wëllt erëmginn.
+
+4.4.3 De Verbindungs-n tëscht Pronomen
+Den n steet dacks no de schwaache Pronomen de oder se a virun dem
+schwaache Pronomen e(n), fir datt déi zwee e-en net uneneekommen:
+Hues de n e gesinn? Amplaz: Hues de hie gesinn?
+Wéi se n e fonnt haten, war et ze spéit.
+Amplaz: Wéi se hie fonnt haten, war et ze spéit.
+
+4.5 Den t um Enn vu Prepositiounen
+Bei bannen, baussen, ënner, hanner, iwwer, niewen, tëschen, uechter,
+­widder gëtt dacks en t ugehaangen:
+bannent dem Haus, baussent der Stad, ënnert dem Dësch, hannert dem
+Bam, iwwert de Wolleken, niewent him, tëschent de Kanner, uechtert
+d’Gewan, widdert dem Schaf
+niewent dir, hannert hir, widdert him, tëschent hinnen
+
+D’Verben
+
+43
+
+5. D’Verben
+5.1
+
+De Stammprinzip
+
+5.1.1
+
+Flexiounsendung
+Am Present ginn déi eenzel Flexiounsendungen un de Stamm ugehaangen,
+woubäi bei onreegelméissege Verben de Vokal am Stamm ännert:
+schaffen – Stamm: schaff-: du schaffs, hie schafft, mir schaffen
+wäschen – Stamm: wäsch-: du wäschs, hie wäscht, mir wäschen
+bäissen – du bäiss
+behalen – hie behält
+bezuelen – hatt bezilt
+falen – si fält
+fannen – hie fënnt
+gëllen – dat gëllt
+liesen – du lies
+D’Quantitéitsreegel gëtt bei de Verbe systematesch applizéiert (cf. 1.1, 5.2):
+halen: du häls, dir haalt
+falen: du fäls, hie fält, dir faalt
+Bemierkungen:
+V De Stammprinzip bleift och am Imparfait, am Partizip an am
+Conditionnel bestoen, ausser wann d’Quantitéit vum Vokal (laang oder
+kuerz, Diphthong) sech verännert (cf. 5.2):
+falen: ech falen, du fäls, mee: ech si gefall
+huelen: ech huelen, du hëls, mee: dir hutt geholl
+kommen: du kënns, ech si komm, mee: du koums, ech kéim
+reiden: du reits, hie reit, mee: ech si geridden
+wëllen: ech wëll, du wëlls, hie wëllt, mee: ech wéilt
+V De Stammprinzip gëllt och bei Verben aus dem Engleschen (cf. 7.3.2):
+aloggen – du loggs an – ageloggt
+
+5
+
+44
+
+D’Verben
+
+chatten – du chatts – gechatt
+jobben – du jobbs – gejobbt
+scannen – du scanns – gescannt
+
+5.1.2 Zweet Persoun Singulier
+Wann déi zweet Persoun am Singulier hanne mat s, ss, x oder z geschriwwe
+gëtt, da kënnt keen extraen s derbäi:
+du bléis, du schweess, du box, du jäiz, du schwätz, du souz
+
+5.2 D’Quantitéitsreegel vun de Vokaler
+5
+
+Och bei de Verbe gëllen d’Prinzippie vun der Quantitéitsreegel vun de Vokaler a vun der Konsonanteverdueblung no kuerzem Vokal:
+ginn: du gëss, dir gitt
+goen: du gees, mir ginn
+léien: gelunn
+päifen: hie päift, du hues gepaff
+sinn: du bass, hien ass, ech war, du waars
+stoen: dir stitt, si stinn
+Bemierkung: Verschidde Verben, déi virun der Infinitivendung -en kee Konsonant hunn, kënnen am Present en zousätzlechen tt hannert dem kuerze
+Vokal kréien:
+fléien: ech fléien, du flitts, dir flitt
+kréien: ech kréien, du kriss, hie kritt
+léien: ech léien, du litts
+zéien: ech zéien, du zitts, hien zitt
+
+5.3 De Konsonant um Enn vum Verb
+5.3.1 g oder ch
+Bei reegelméissege Verben op -egen gëtt de Perfekt mat -egt geschriwwen:
+bedeelegen – bedeelegt, behäerzegen – behäerzegt,
+beleidegen – beleidegt, beschëllegen – beschëllegt,
+bestätegen – bestätegt, erleedegen – erleedegt, follegen – gefollegt,
+gedëllegen – gedëllegt, geneemegen – geneemegt,
+iwwerwältegen – iwwerwältegt, péngegen – gepéngegt,
+priedegen – gepriedegt, vernoléissegen – vernoléissegt
+
+D’Verben
+
+45
+
+Och eng Rei aner Verben op -gen hunn e Perfekt op -gt:
+besuergen – besuergt, beweegen – beweegt, biergen – gebiergt,
+prägen – gepräägt, ureegen – ugereegt, wiergen – g­ ewiergt
+Bei reegelméissege Verben op -chen oder -chten gëtt de Perfekt mat -cht
+geschriwwen:
+blechen – geblecht, buchen – gebucht, hauchen – gehaucht,
+kachen – gekacht, laachen – gelaacht, pechen – gepecht,
+puchen – gepucht, sichen – gesicht
+biichten – gebiicht, fechten – gefecht, flüchten – geflücht,
+pachten – gepacht, schlichten – geschlicht, uechten – geuecht,
+uuchten – geuucht, verflichten – verflicht
+Bei verschiddenen onreegelméissege Verbe gëtt de Perfekt mat -cht oder -ch
+geschriwwen:
+bréngen – bruecht, briechen – gebrach, denken – geduecht,
+erhéijen – erhéicht, erleeën – erluecht, gläichen – geglach,
+héijen – gehéicht, krauchen – gekroch, leeën – geluecht,
+maachen – gemaach, richen – geroch, schläichen – geschlach,
+spriechen – gesprach, stiechen – gestach, sträichen – gestrach
+
+5.3.2 Ennverhäerdung
+Bei de flektéierte Forme ginn um Enn vum Verb déi mëll Konsonanten d a w
+duerch déi haart Konsonanten t an f ersat:
+V d gëtt zu t:
+bestueden: du bestiits, hie bestit, ech si bestuet
+geroden: du geréits, hie geréit, geroden
+lauden: du lauts, gelaut
+lueden: du luets, luet!
+reiden: du reits, hie reit, geridden
+rieden: du riets, hie riet, geriet
+schneiden: du schneits, du hues geschnidden
+trieden: du trëts, hien trëtt, getrueden
+verbidden: du verbitts, du hues verbueden
+mee: sinn: dir sidd (dd amplaz tt) (cf. 4.2.1)
+V w gëtt zu f:
+dreiwen: du dreifs, dreif!
+gruewen: du gruefs (griefs), gegruewen
+schreiwen: du schreifs, schreif!
+stierwen: du stierfs
+
+5
+
+46
+
+D’Verben
+
+Bemierkung: D’Konsonante b an s bleiwen um Enn vum Verb orthografesch
+onverännert.
+erlaben: du erlaabs, hien erlaabt, ech hunn erlaabt
+liesen: du lies, lies!
+robben: du robbs, hie robbt, ech si gerobbt
+üben: du üübs, hien üübt, ech hu geüübt
+weisen: du weis, hie weist, ech hu gewisen
+
+5
+
+D’n-Reegel
+
+47
+
+6. D’n-Reegel
+6.1
+
+Allgemeng Reegel
+Wann e Wuert mat n (oder nn) ophält an dësen net geschwat gëtt, da gëtt
+en och net geschriwwen. Dat ass och bei Deeler vun zesummegesate Wierder esou.
+
+6.1.1
+
+D’n-Reegel
+Den n (oder nn) gëtt prinzipiell net virun de Konsonante geschwat a
+­geschriwwen, ausser virun d, h, n, t an z.
+de_ Ball, de_ Gaart, de_ Reen, geschwë_ goen, da gi_ mer, scho_ fuere_
+mer, geschloe_ ginn, u_maachen
+de 5. Abrëll – den n bei de gëtt net geschriwwen, well 5. mat f ufänkt
+Bemierkungen:
+V Den n (oder nn) gëtt ëmmer virun de Vokaler a virun de Konsonanten
+d, h, n, t an z geschwat a geschriwwen:
+den Aarm, den Dapp, den Eck, den Hond, den Ielebou, den Nol, den
+Ochs, den Tablo, den Uert, den Zuch
+den 1. Abrëll, geschwënn un d’Rei kommen
+den HIV-Patient, den Nato-Fliger
+V Den n (oder nn) gëtt virum y geschwat a geschriwwen, wann en als [i:]
+geschwat gëtt:
+den Yves, den Ysop
+Gëtt den y wéi [j] gelies, gëtt den n (oder nn) ewechgelooss:
+de Yannick, e Yak
+V Virun engem engleschen o oder u ka jee no Aussprooch den n (oder nn)
+ewechfalen:
+e One-Night-Stand, mee: en Online-Formulaire, en Open-Air-Concert
+e User, mee: en Undercover-Agent
+
+6
+
+48
+
+D’n-Reegel
+
+V Den n (oder nn) gëtt virun engleschen oder franséische Wierder geschwat
+a geschriwwen, déi vir mat d oder t geschwat ginn, och wann en anere
+Buschtaf geschriwwe steet:
+en Jeanshiem, en Job, en Chartervol, den James Bond
+en Centime (wann ee vir en z schwätzt), awer e Centime (wann ee vir
+e schaarfen s seet)
+V Den n (oder nn) gëtt geschwat a geschriwwe virun Ofkierzungen,
+Akronymmen an anere Buschtawekombinatiounen, déi vir mat engem
+Vokal oder d oder t geschwat ginn, och wann en anere Buschtaf
+geschriwwe steet:
+den LCTO-Programm, en SNJ-Ausfluch
+den sch (gelies: Ess-Zee-Ha), awer de sch (gelies wéi am Wuert Schof)
+
+6.1.2 Extrafäll
+
+6
+
+6.1.2.1 Prefixen on- an inDen n gëtt bei de Prefixen on- an in- geschwat a geschriwwen, egal wat fir e
+Konsonant hannendrukënnt:
+onbehollef, ongär, ongemälleg, onméiglech, onpraktesch
+inkompetent, Invasioun
+Bemierkung: Bei an-, un- zielt d’n-Reegel:
+androen, akafen, undoen, ukucken
+
+6.1.2.2 Substantiven an Adjektiven
+Bei all de Substantiven an Adjektiven, ausser deenen op -en, -een oder
+-äin, gëtt den n geschriwwen a geschwat, egal wat fir ee Konsonant
+hannendrukënnt:
+blann sinn, d’Hänn wäschen, de Gewënn kréien, de Kënn wäschen,
+eng dënn Biischt, eng ronn Saach, Frënn gesinn, op der Genn Stoppches
+spillen, um Enn vun der Geschicht
+an der Pressessioun goen, de Loun kasséieren, d’Konstruktioun war ze
+schwaach, eng Reunioun preparéieren
+eng feminin Manéier, eng spontan Ried, immun ginn, maskulin sinn
+d’Léierin weist eppes, eng modern Geschicht, eng Tréin kräischen,
+intern kucken
+Bemierkung: Bei Substantiven, déi vu Verben ofgeleet sinn, ass
+d’Ewechloosse vum n fakultativ:
+bei Bewosstsi bleiwen, nom Ausgesi jugéieren
+bei Bewosstsinn bleiwen, nom Ausgesinn jugéieren
+
+D’n-Reegel
+
+49
+
+Ausnam: fein, schéin, zwéin verléieren den n mat der n-Reegel:
+dat si fei Leit, eng schéi Geschicht, zwéi Männer
+Bei de Substantiven an Adjektiven op -en zielt d’n-Reegel:
+e Meedche gesinn, muer de Moie kommen
+Bei de Substantiven op -äin ass d’Ewechloosse vum n fakultativ:
+de Wäi gëtt geschwë gedronk, e Schwäi schluechten, Latäi léieren
+de Wäin gëtt geschwë gedronk, e Schwäin schluechten, Latäin léieren
+Ausnam: Bei verschiddenen Zesummesetzunge gëtt et just d’Form ouni n:
+schwäiwëll, Wäifläsch, Wäiglas, Wäibau
+Bei den eesilbege Substantiven op -een ass d’Ewechloosse vum n fakultativ:
+d’Bee wéi hunn oder d’Been wéi hunn
+duerch de Ree lafen oder duerch de Reen lafen
+e Stee geheien oder e Steen geheien
+d’Schlësselbee briechen oder d’Schlësselbeen briechen
+Ausnamen:
+V Bei verschiddenen Zesummesetzunge gëtt et just d’Form ouni n:
+Reemantel, Steekaul, Steekoup, Steemetzer
+V Bei verschiddenen eesilbege Wierder op -een bleift den n ëmmer stoen:
+an eng Veen stiechen, engem eng Zeen maachen, en neie Geen
+fannen, mat de Ween fueren
+
+6.1.2.3 Zesummegesate Wierder
+D’n-Reegel gëllt och an den zesummegesate Wierder:
+Afennoss, Bierebam, Drëppeglas, Kréiena, Zoppeläffel, Zoppenteller
+Bemierkung: Virum Suffix -schaft bleift den n stoen:
+Eegenschaft, Machenschaft, Wëssenschaft
+
+6.1.2.4 Viru Sazzeechen
+Viru Sazzeeche bleift den n ëmmer stoen. Dat ass och esou, wann den n net
+geschwat gëtt:
+Mir wollte froen, wéini et ufänkt.
+Hie wollt net matgoen, ma dunn huet e sech et anescht iwwerluecht.
+Kucken, wéi et virugeet. Lafen, bis et net méi geet.
+Et goufen – graff gesinn – just véier Studiefächer.
+Ech verkafen en (kaum benotzten) Computer.
+Zu de Sazzeeche gehéieren:
+Punkt, Komma, Stréchpunkt (Semikolon), Doppelpunkt, Froenzeechen,
+Ausruffzeechen, Klameren, Gedankestréch
+
+6
+
+50
+
+D’n-Reegel
+
+Och virum schife Stréch bleift den n stoen:
+Kolleeginnen/Kolleegen
+
+6.1.2.5 Bindestréch
+Virum Bindestréch applizéiert sech d’n-Reegel mam Wuert, dat
+hannendrusteet.
+Dat Vun-der-Hand-an-de-Mond-Liewe geet mer net.
+d’Käschten-Notze-Berechnung, en Dräi-Komponente-Pech,
+e Kapp-u-Kapp-Rennen, en Zwee-Phase-Modell
+Orangen- an Äppeljus, Orangë- plus Äppelgebeess
+Orangen-, ma keen Hammbiersgebeess
+
+6.1.2.6 Gänseféisercher a grafesch Ervirhiewungen
+Viru Wierder, déi grafesch ervirgehuewe sinn (duerch Kursivschrëft oder eng
+faarweg Markéierung asw.) oder tëscht Gänseféisercher stinn, applizéiert
+sech d’n-Reegel:
+
+6
+
+Et nennt een hien de „Kropemann“.
+Dunn huet hie „Good morning!“ gesot.
+Dat do war e grousse Feeler!
+Bei grafesch ervirgehuewene Wierder a bei Wierder tëscht Gänseféisercher
+bleift den n stoen, wann de Sënn et verlaangt.
+D’Verb „béien“ kritt e ge- am Partizip, d’Verb „däerfen“ kritt dat net.
+D’Wierder „bléien“ a „fléien“ maachen e schéine Reim.
+Mir mussen dat MATENEEN maachen.
+
+6.2 Fakultativen n
+6.2.1 Viru si, se, säin, seng, sech, sou
+Virun de Pronome si, se, säin, seng, sech a viru sou ass den n fakultativ:
+hu si oder hunn si, vu senger Plaz oder vun senger Plaz
+
+6.2.2 Bei bestëmmten Textzorten
+Op Plakater oder Affichen, an de soziale Medien, Titelen oder Gedichter
+kann den n stoe bleiwen, wann d’Wuert soll ervirgehuewe ginn:
+Wëssen Kënnen Wëllen
+Eis #Eemaischen war dëst Joer e vollen Erfolleg!
+do ass all Kand a Këndchen
+beim Fuesechsliddche frou
+
+D’n-Reegel
+
+51
+
+6.3 Den n bei Nimm vu Persounen oder Marken
+Um Enn vun engem Vir-, Familljen- oder Markennumm, oder engem Deel
+dervun, bleift den n stoen:
+D’Madamm Rinnen kënnt méi spéit. De Ruben muss éischter goen.
+Bahlsenkichelcher, Ralph-Lauren-Kleeder
+Ass den Numm flektéiert, z. B. am Pluriel, bleift den n net stoen, wann
+d’n-Reegel gräift:
+D’Jange kréien e Bistro. Bei Schmitte gëtt geschafft. Et ass de Schmitte
+Guy, de Schmitten hire Guy.
+d’Hemessemillen, also: Hemessen hir Millen, der Famill Hemes hir Millen
+Bemierkung: Et schreift ee Röntgenstralen, wann een den Numm vum Fuerscher wëllt ervirhiewen, soss Rëntgestralen.
+Ech muss an d’Rëntge goen.
+Ech muss mech rëntge loossen.
+
+6.4 Den n bei geografeschen Nimm
+Bei geografeschen Nimm, déi mat -en (geschwat [ən]) ophalen, gräift
+d’n-Reegel:
+an Asie wunnen, sech an Asien auskennen
+an Italie fueren, an Italien areesen
+um Schwaarze Mier, am Indeschen Ozean
+Spuenierees, Pyrenäenduerf
+an d’Alpe goen, d’Ardennen entdecken
+Bemierkungen:
+V Bei Nimm vun Uertschaften a Stied kann den n och stoe bleiwen:
+zu Lëntge brennt et oder: zu Lëntgen brennt et
+zu Néngse schéngt d’Sonn oder: zu Néngsen schéngt d’Sonn
+op Münche fueren oder: op München fueren
+V Bei Nimm, wou den -en net [ən] ausgeschwat gëtt, bleift den n hanne
+stoen: zu Caen schlofen, op Rouen fueren, zu Wien raschten
+V Wa virum n an der Endung keen e steet, bleift den n erhalen:
+London war ëmmer d’Haaptstad vun England.
+Zu Berlin lieft et sech gutt.
+V Bei Griichenland oder Griicheland gëtt et déi zwou Méiglechkeeten.
+
+6
+
+52
+
+D’Friemwierder
+
+7. D’Friemwierder
+7.1
+
+Allgemeng Reegelen
+Friemwierder si Wierder, déi net komplett un eis Sprooch ugepasst sinn. Dat
+gëtt däitlech duerch e friemt Element, z. B. en Accent an der Schreifweis
+ewéi bei Boîte oder en nasale Laut an der Aussprooch ewéi bei Timber.
+Am Prinzip gëtt de Friemwierder hir Schreifweis bäibehalen. Substantiven
+aus frieme Sprooche ginn awer groussgeschriwwen:
+Abus, Accent, Accident, Accord, Concours, Courage, Dictionnaire,
+Ministère, Trottoir, Jeep, Lobby, Party, Weekend
+Bemierkung: Friem Substantive ginn an net substantiveschen Ausdréck
+klenggeschriwwen:
+
+7
+
+d’accord (sinn), par défaut, par rapport, by the way, on the road
+Dat ass bottom-up. Mee: eng Bottom-up-Approche
+De Pluriel vu Friemwierder gëtt meeschtens mat de lëtzebuergesche
+Pluriels­endungen -(e)n oder -er gebilt:
+Accidenter, Concoursen, Jeepen, Partyen, Trottoiren
+Lautlech integréiert Friemwierder kënne komplett an déi lëtzebuergesch
+Schreifweis iwwerholl ginn; déi stinn dann am LD.
+Büfdeck (oder: Bifdeck), Diwwi, Fissi, Jelli, Koseng, Monnonk,
+Schantjen, Tëlee, Vëlo, Wallis, zerwéieren, Ziwwi
+
+7.2
+
+Franséisch Wierder
+
+7.2.1
+
+Prinzip
+Fir d’Friemwierder aus dem Franséische gëtt et e puer Méiglechkeeten:
+V Se sinn onverännert:
+Accès, Boîte, Entrée, Foire
+V Se hunn eng lëtzebuergesch Endung:
+Deputéierten, Ensembel, Timber
+
+D’Friemwierder
+
+53
+
+V Et gëtt eng Haaptvariant no de lëtzebuergesche Reegelen, mee do
+dernieft gëtt et eng franséisch Niewevariant:
+Haaptvariant: Damm, effikass, Ekipp, Mull, Retusch
+Niewevariant: Dame, efficace, Equipe, Moule, Retouche
+Et ass muenchmol d’Aussprooch, déi sech um Franséischen oder um
+Däitschen orientéiert, déi d’Schreifweis festleet:
+Capacitéit oder Kapazitéit, coordonéiert oder koordinéiert,
+fonctionéieren oder funktionéieren
+V Just déi lëtzebuergesch Schreifweis gëtt gebraucht:
+Diwwi, Forschett, Fotell, Keess, Klautjen, Wallis, Wermischel
+Ob just déi franséisch oder just déi lëtzebuergesch oder déi zwou Schreifweisen akzeptéiert sinn, kann net duerch eng Grondreegel gekläert ginn a
+gëtt dofir am LD festgehalen.
+
+7.2.2 Diakritesch Zeechen
+Fir Wierder aus dem Franséische gëtt déi franséisch Schreifweis mat
+dem Accent grave an dem Accent circonflexe bäibehalen. Dat gëllt och fir
+Zesumme­setzunge mat franséische Wierder. De franséischen Accent aigu
+gëtt just an der Endsilb geschriwwen an och bei Substantiven, déi aus méi
+Wierder zesummegesat sinn (cf. 7.2.5):
+Barrière, Bréifboîte, Sonnecrème, Salle à manger
+Decisioun, Defilé, Epicerie, resuméieren, Reunioun
+Employé, Musée, Conseil d’État, Directeur général, Saumon fumé
+
+7.2.3 De stommen e um Enn vu franséische Wierder
+E stommen e um Enn vu franséische Wierder gëtt geschriwwen, wann e
+Substantiv mat der Endung -ie, -ue oder -ée ophält.
+Poesie, Regie, Avenue, Lycée, Renommée
+E stommen e um Enn vu franséische Wierder gëtt och geschriwwen, wann e
+Wuert ewéi am Franséischen ausgeschwat an ouni de stommen e iwwer dem
+Liesen net méi erkannt gëtt:
+Avantage, Baisse, beige, Chaîne, Chance, Depannage, Documentaire,
+Facture, Fiduciaire, Force, Garage, Laboratoire, large, Libraire,
+Mayonnaise, Necessaire, Plainte, Punaise, Remise, Ressource,
+Revanche, Serveuse, Service, Suite, Tâche, vierge, Vocabulaire
+Soss gëtt déi lëtzebuergesch Schreifweis ouni e geholl:
+Bott, Gripp, Initiativ, Majorett, Mall, Mirabell, Napp, Oliv, Operett,
+Passerell, Phas, Pist, Pyramid, Tax, Tirett, Vitess, Zon
+
+7
+
+54
+
+D’Friemwierder
+
+Wann e kuerze betounte Vokal an der Endung virun engem Konsonant
+steet, da gëtt fir déi lëtzebuergesch Schreifweis dee Konsonant verduebelt
+(cf. 4.1.1.1):
+Agraff, Damm, Etapp, Finall, Limitt, Mandarinn, Marinn, Originn, Paraff,
+Primm, Sardinn, Vitaminn
+Bemierkung: Déi franséisch Schreifweis ka bei verschiddene Wierder als
+Niewevariant geholl ginn (dat steet dann am LD).
+Barriär, Domän, Fassad, Vestiär, Veterinär
+Barrière, Domaine, Façade, Vestiaire, Veterinaire
+Wann am Pluriel den n wéinst der n-Reegel ewechfält an esou dee Pluriel
+ouni n gläich ass mat der franséischer Variant vum Singulier, da muss en
+Treema op den e kommen.
+Barrièrë réckelen, Façadë renovéieren, d’Pertë festhalen,
+Poubellë réckelen
+Mee: Boîtte verkafen, Mandarinne kafen, Punaisse benotzen
+
+7.2.4 De Pluriel an aner Flektéierunge vu franséische Wierder
+7.2.4.1 D’Plurielsendung -en oder -er
+
+7
+
+Déi lëtzebuergesch Plurielsendungen -en oder -er ginn un dat franséischt
+Wuert am Singulier drugehaangen, fir e Pluriel auszedrécken. De Pluriel bei
+Wierder, déi mat engem stommen e ophalen, gëtt mat engem -n hannen um
+Wuert markéiert.
+Accidenter, Approchen, Bijouen, Coursen, Oliven, Orangen, Trottoiren
+
+7.2.4.2 Verdueblung vun de Schlusskonsonanten
+Bei Substantive mat kuerzem betountem Vokal ginn am Pluriel d’Schlusskonsonante verduebelt.
+Amicale – Amicallen, Coupe – Couppen, Doute – Doutten,
+Equipe – Equippen, Flic – Flicken, Toile – Toillen
+Bourse – Bourssen, Course – Courssen
+Bemierkungen:
+V Bei verschiddene Wierder gëtt de Schlusskonsonant am Pluriel net
+verduebelt, well en sech net dofir eegent oder well e schonn am
+Singulier verduebelt ass:
+eng Glace, zwou Glacen
+eng Moyenne, zwou Moyennen
+
+D’Friemwierder
+
+55
+
+V D’Schreifweis kann sech no der Aussprooch riichten: Wann den t
+beim Wuert Fait geschwat gëtt, muss den t am Pluriel verduebelt ginn
+(Faitten). Gëtt den t net geschwat, ass de Pluriel Faiten.
+V Et gëtt hei e puer Wierder, déi sech änlech sinn:
+Cours – Coursen (an der Schoul), Cour – Couren (um Haff a bei
+Geriicht), Course – Courssen (am Sport)
+eng Kuer – e puer Kueren (zu Munneref am Bad)
+
+7.2.4.3 Eng typesch Lëtzebuerger Form
+Verschidde Wierder kréien eng typesch Lëtzebuerger Form fir de Pluriel oder
+aner ofgeleete Formen:
+ee Coup, zwee Ki
+déi Faarf ass bordeaux, mat senge bordoosse Schong
+een Tour um Vëlo, zwee Tier, mee: den Auto kënnt op Touren
+
+7.2.4.4 Den Treema um e am Pluriel
+V Bei Wierder op -é kënnt am Pluriel en -en drun. Wann den n duerch d’nReegel ewechfält, kënnt en ë nom é:
+Vill Caféen hunn owes op; déi meescht Caféë sinn Hellegowend zou.
+Citéen hu meeschtens keen Zentrum; am ganze Land gi Citéë gebaut.
+Ech leeën d’Corrigéen derbäi; hien huet d’Corrigéë gekuckt.
+Ech halen op meng Congéen. Meng lescht Congéë ware flott.
+Mir hu vill Chargéen am Lycée. D’Chargéë kommen all erëm.
+V Bei Wierder op -ée kënnt am Pluriel en -ën drun:
+Chargée – Chargéeën, Lycée – Lycéeën, Musée – Muséeën
+Chargéeë sichen, Lycéeë bauen, Muséeë besichen
+V Den Treema gëtt just dann op de leschten e gesat, wann eng Verwiesslung
+vum Pluriel mam Singulier méiglech ass. Dat ass dann de Fall, wann
+duerch d’n-Reegel den n vum Pluriel ewechfält (cf. 2.2.5):
+d’Ficelle schneiden, d’Ficellë schneiden
+d’Poubelle réckelen, d’Poubellë réckelen
+V En -ë(n) kënnt do, wou eng Verwiesslung mat engem anere Wuert
+méiglech ass:
+ee Cours – zwee Coursen, zwee Coursë beleeën
+eng Course – zwou Courssen, zwou Coursse gewannen
+ee Cousin – zwee Cousinen, zwee Cousinë besiche goen
+eng Cousine – zwou Cousineën, zwou Cousineë besiche goen
+een Devis – zwee Devisen, vill Devisë schreiwen
+eng Devise – zwou Deviseën, vill Deviseë kafen
+
+7
+
+56
+
+D’Friemwierder
+
+en Enseignant – zwee Enseignanten, zwee Enseignantë kommen
+eng Enseignante – zwou Enseignanteën, zwou Enseignanteë kommen
+
+7.2.4.5 Bei Adjektive mat stommem e
+Bei Adjektiven, déi wéi am Franséische geschriwwe ginn an déi e stommen
+e hunn, muss deen e mat Treema geschriwwe ginn, wann e geschwat gëtt a
+wann d'n-Reegel sech applizéiert:
+beige: e beigë Pullover, e beiget Hiem
+large: e largë Korrekter, e larget Verbesseren
+louche: e louchë Quartier, e louchet Haus
+orange: en orangë Mantel, en oranget Stéck Stoff
+vierge: e viergë Casier, e vierget Virliewen
+
+7.2.5 Zesummegesate Wierder aus dem Franséischen
+Bei franséische Substantive mat méi Wierder gëtt just dat éischt Wuert
+groussgeschriwwen, de Bindestréch an den Accent aigu ginn ewéi am
+Franséische gesat:
+
+7
+
+Assemblée générale, Assistante sociale, Avant-première,
+Chargé de cours, Chef-d’oeuvre, Dernier cri, Eau de toilette,
+Grande surface, Maître d’hôtel, Métier à risque, Nouvelle cuisine
+Bei Expressiounen, déi aus lëtzebuergeschen a franséische Wierder
+zesummegesat sinn, komme Bindestrécher; en eventuelle Fouen-s gëtt
+drugehaangen:
+Boeuf-bourguignons-Zooss, Chauffe-plats-Kabel, Passe-vites-Sift,
+Quiche-lorraines-Stéckelcher, Vol-au-vents-Deeg
+Ausnamen: Bei Grand-Duc, Grand-Duché a Grande-Duchesse gëtt och den D
+groussgeschriwwen.
+Am Pluriel gëtt den c um Enn vu Grand-Duc net zu ck verduebelt:
+d’Grand-Ducen alleguer, all d’Grand-Duce vu Lëtzebuerg
+
+7.2.6 De Pluriel vun zesummegesate Substantiven aus dem
+Franséischen
+Fir de Pluriel vun Expressiounen, déi aus méi franséische Wierder bestinn:
+V gëtt nëmmen dat éischt Wuert groussgeschriwwen (an déi Wierder ewéi
+État, déi och am Franséische groussgeschriwwe ginn),
+V ginn déi eenzel Wierder duerch Bindestrécher verbonnen,
+V ginn d’Wierder am franséische Singulier geschriwwen,
+
+D’Friemwierder
+
+57
+
+V kritt dat lescht Wuert eng lëtzebuergesch Plurielsendung:
+Avant-garde – Avant-garden, Avant-première – Avant-premièren,
+Bain-marie – Bain-marien, Cache-pot – Cache-poten,
+Carte blanche – Carte-blanchen, Carte d’identité – Carte-d’identitéen,
+Chargé de cours – Chargé-de-coursen, Chef-d’oeuvre – Chef-d’oeuvren,
+Coup d’État – Coup-d’Étaten, Dernier cri – Dernier-crien,
+Eau de toilette – Eau-de-toiletten, Eau-de-vie – Eau-de-vien,
+Faux pas – Faux-pasen, Faux-filet – Faux-fileten,
+Grande surface – Grande-surfacen, Haute couture – Haute-couturen,
+Ménage à trois – Ménage-à-troisen, Point de vue – Point-de-vuen,
+Sans-abri – Sans-abrien, Tête-à-tête – Tête-à-têten,
+Trait d’union – Trait-d’unionen, Va-et-vient – Va-et-vienten
+V gëtt de Schlusskonsonant no engem kuerze betounte Vokal verduebelt:
+Agent public – Agent-publicken
+Assemblée générale – Assemblée-générallen
+Assistante sociale – Assistante-sociallen
+Atelier collectif – Atelier-collectiffen
+Femme fatale – Femme-fatallen
+Maître d’hôtel – Maître-d’hôtellen
+Procès-verbal – Procès-verballen
+Wann am Pluriel duerch d’n-Reegel den n hannen ewechfält an d’Form
+(ofgesi vum Bindestréch) wéi de Singulier ausgesäit, gëtt en Treema op de
+leschten e gesat (cf. 2.2.5):
+Avant-gardë gesinn, Carte-blanchë schreiwen, Chaise-longuë kafen,
+Point-de-vuë bewäerten, Tête-à-têtë beobachten
+Steet am franséische Singulier eng Plurielsendung um leschte Wuert, da
+fält déi am Lëtzebuergeschen am Pluriel ewech:
+e Repas sur roues kréien, Repas-sur-rouen ubidden, Repas-sur-rouë féieren
+Bemierkung: Wann een explizitt wëllt dee franséische Pluriel benotzen, gëtt
+déi franséisch Schreifweis geholl (dat éischt Wuert gëtt groussgeschriwwen):
+vill Délits de grande vitesse, zwee Règlements grand-ducaux (ouni
+weider lëtzebuergesch Plurielsendung an ouni Bindestrécher)
+
+7
+
+58
+
+D’Friemwierder
+
+7.3
+
+Englesch Wierder
+
+7.3.1
+
+Prinzip
+Vill englesch Wierder ginn an hirer Originalschreifweis iwwerholl; d’Substantive ginn awer groussgeschriwwen:
+busy, Computer, cool, online, Pool, Smiley, tricky
+De lëtzebuergesche Pluriel -en oder -er gëtt drugehaangen:
+Container – Containeren, Weekend – Weekender
+No engem kuerze Vokal gëtt de Konsonant um Enn verduebelt, wann d’Silb
+betount ass:
+Fan – Fannen, Hit – Hitten, Job – Jobben, Shop – ­­Shoppen,
+Slip – Slippen
+Club huet nieft Clubben e spezielle Pluriel: Clibb
+Wann d’Silb net betount ass, gëtt den eenzele Konsonant am lëtze­
+buergesche Pluriel dacks verduebelt (cf. 4.1.2):
+Comic – Comicken, Donut – Donutten, Laptop – Laptoppen
+Bemierkungen:
+
+7
+
+V Alternativ kann och de Pluriel aus dem Englesche geholl ginn:
+vill Comics, vill Fans, vill Hits, vill Jobs
+V Wann eng Verwiesslung vum Pluriel mam Singulier méiglech ass, well
+den n vum Pluriel duerch d’n-Reegel ewechfält, da gëtt am Pluriel en
+Treema op de leschten e gesat (cf. 2.2.5):
+Fakë fannen, Likë kréien, Milkshakë maachen, Spikë kafen
+
+7.3.2 Déi englesch Verben
+Bei Verben aus dem Englesche gi verschidde Fäll ënnerscheet.
+V Bei Verben ouni stommen e an der englescher Grondform gëtt de Participe
+passé hanne mat -t gebilt (och wann d’Verb mat engem d oder t am
+engleschen Infinitiv ophält):
+coachen (engl. to coach) – gecoacht
+downloaden (engl. to download) – gedownloat (och: du downloats,
+hien downloat)
+hosten (engl. to host) – gehost
+printen (engl. to print) – geprint
+rocken (engl. to rock) – gerockt
+triggeren (engl. to trigger) – getriggert
+zoomen (engl. to zoom) – gezoomt
+
+D’Friemwierder
+
+59
+
+Ausnam:
+D’Verb adden behält an all senge Formen dd:
+adden (engl. to add) – du adds, hien add, ech hu geadd
+V Bei Verben op -yen wéi applyen, denyen, replyen gëtt de Participe passé
+mat -yt oder mat -ied geschriwwen. An all deenen anere Forme gëtt den
+y bäibehalen:
+replyen (engl. to reply) – replyt / replied, mee: du replys, hie replyt
+V Bei Verbe mat stommem e an der englescher Grondform gëtt de
+Participe passé mat -et oder mat -ed geschriwwen. Dësen e gëtt net
+geschwat.
+badgen (engl. to badge) – gebadget / gebadged
+faken (engl. to fake) – gefaket / gefaked
+liken (engl. to like) – geliket / geliked
+skypen (engl. to skype) – geskypet / geskyped
+Bei dëse Verbe gëtt och an deenen anere Verbformen de stommen e aus
+der englescher Grondform bäibehalen:
+faken – dir faket
+liken – du likes
+timen – hien timet
+V Bei Verbe mat stommem e hannert dem d oder t am engleschen Infinitiv
+bleift de stommen e am Participe passé hannen eleng stoen. De
+Konsonant um Enn bleift onverännert:
+hiden (engl. to hide) – gehide
+upgraden (engl. to upgrade) – geupgrade
+muten (engl. to mute) – gemute
+skaten (engl. to skate) – geskate
+updaten (engl. to update) – geupdate
+Bei dëse Verbe gëtt och an deenen anere Verbformen den e aus der
+englescher Grondform bäibehalen:
+hiden (engl. to hide) – du hides
+muten (engl. to mute) – du mutes
+skaten (engl. to skate) – hie skate
+V Bemierkung: Wa bei Verbe mat stommem e an der englescher Grondform
+a bei Verbe mat stommem e hannert dem d oder t am engleschen
+Infinitiv den n vun enger en-Endung ewechfält, gëtt den e mat engem
+Treema markéiert, well en dann net méi stomm ass:
+Beim Badgë gouf et e Problem.
+Si fakë bestëmmt.
+Ech hidë mol déi Kolonn.
+Likë mer dat?
+Skatë mer hei erof?
+
+7
+
+60
+
+D’Friemwierder
+
+V Wa Verben an der englescher Grondform hanne mat -el geschwat ginn,
+ginn se am Lëtzebuergeschen -el geschriwwen, och wann déi englesch
+Grondform op -le ass. Dës Verbe ginn nom lëtzebuergesche Modell
+flektéiert:
+cancelen (engl. to cancel) – gecancelt
+googelen (engl. to google) – du googels
+handelen (engl. to handle) – du handels
+puzzelen (engl. to puzzle) – hatt puzzelt
+upcycelen (engl. to upcycle) – upgecycelt
+
+7.3.3 Zesummegesaten englesch Wierder
+Substantiven, déi aus englesche Wierder bestinn, och a Kombinatioune mat
+lëtzebuergesche Wierder, ginn zesummegeschriwwen (ouni Bindestréch):
+Bestseller, Bigband, Blackout, Countdown, Designerkleed, Fitnesszenter,
+Headset, Jackpot, Knowhow, Smalltalk, Stuntman, Taskforce
+Pluriel: Bigbanden oder Bigbands, Smalltalken oder Smalltalks
+Bemierkung: Wann d’Wuert am Englesche mat engem Bindestréch
+­geschriwwe gëtt, da kann d’Form mam Bindestréch als Niewevariant geholl
+ginn:
+
+7
+
+Startup (Pl. Startuppen oder Startups) oder: Start-up (Pl. Start-uppen
+oder Start-ups)
+Ausnamen:
+V Ass bei Wuertgruppen aus englesche Wierder deen éischten Deel en
+onbetount Adjektiv, gëtt auserneegeschriwwen:
+High Society, Public Relations
+V Bei Nimm ginn déi eenzel Wuertdeeler auserneegeschriwwen:
+Los Angeles, New York, mee: New-York-Marathon
+V Bei méi laangen Zesummesetzungen däerf mat Bindestréch geschriwwe
+ginn, woubäi dann déi substantivesch Elementer groussgeschriwwe ginn:
+Desktoppublishing oder Desktop-Publishing,
+Desktoppublishing-Programm oder Desktop-Publishing-Programm,
+Low-Budget-Film, Nordic-Walking-Bengelen, Park-and-ride,
+Plug-and-play-Funktioun, Prepaid-Kaart, Software-Entwécklung,
+Trial-and-Error-Method, Weekendhaischen oder Weekend-Haischen
+V Deen éischte Buschtaf vun engem zesummegesate Substantiv gëtt och
+da groussgeschriwwen, wann den éischten Deel kee Substantiv ass:
+e One-Night-Stand, seng Online-Presenz, mee: si sinn online
+
+D’Friemwierder
+
+7.4
+
+61
+
+Griichesch a laténgesch Wierder
+Bei Wierder mat (-)pre-/(-)prä- oder (-)ped(-)/(-)päd(-) gëllt d’Form mam e
+als Haaptvariant (den e gëtt net verduebelt, cf. 2.1). D’Schreifweis mat ä
+ass just dann erlaabt, wann et en däitscht Parallelwuert mat ä gëtt:
+Enzyklopedie / Enzyklopädie, Logoped(in) / Logopäd(in),
+orthopedesch / orthopädesch, pedagogesch / pädagogesch,
+Pedophilie / Pädophilie, pregnant / prägnant, Preparat / Präparat,
+Prepositioun / Präpositioun, present / präsent,
+President(in) / Präsident(in), preventiv / präventiv,
+Prezedenzfall / Präzedenzfall, preziséieren / präziséieren,
+representativ / repräsentativ
+Bemierkung: Wierder ouni Variant mat ä:
+Expeditioun (dt. Expedition), torpedéieren (dt. torpedieren)
+Bei de Wierder aus dem Griichesche ginn th, ch oder rh am Prinzip
+bäibehalen.
+apathesch, Athleet, Biathlon, Bibliothéik, Chouer, Chrëschtdag,
+Diskothéik, Hypothéik, Orthopedie, Panther, pathologesch, Pathos,
+Python, Rhapsodie, Rhesusaf, Rhesusfaktor, Rhetorik, Rheuma,
+Rhythmus, Sympathie, Theater, Thees, Theema, Théik, Theologie,
+thermesch, Thermometer, Thermosfläsch
+Beim ph aus dem Griichesche gëtt et dräi Fäll:
+V de ph gëtt bäibehalen:
+Atmosphär, Klaustrophobie, Metapher, Philosophie, Physik
+V bei Wierder mat (-)graf(-)/(-)graph(-) oder -fon/-phon gëtt et déi zwou
+Schreifweisen. D’Form mam f gëllt als Haaptvariant:
+Biografie / Biographie, Choreografie / Choreographie,
+geografesch / geographesch, germanofon / germanophon,
+Mikrofon / Mikrophon, Orthografie / Orthographie
+bei Wierder, déi mat fon-/phon- ufänken, gëtt et och déi zwou
+Schreifweisen. D’Form mam ph gëllt als Haaptvariant:
+Phoneetik / Foneetik, phonologesch / fonologesch
+Bemierkung: Wann d’Wuert wéi am Franséische gelies gëtt, bleift de ph
+an der franséischer Schreifweis stoen: francophone, e Graphique.
+V Et gëtt just eng Form mat f:
+Delfin, Fantasie, Foto
+Bemierkung: Déi laang geschwate Vokaler a, i, o, u gi virum ph oder th ni
+verduebelt: Stroph (dt. Strophe), apathesch
+
+7
+
+62
+
+7.5
+
+D’Friemwierder
+
+Zesummegesate Friemwierder aus
+verschiddene Sproochen
+Fir zesummegesate Substantiven, déi aus anere Sprooche wéi zum Beispill
+aus dem Laténgeschen oder aus dem Italieenesche kommen, gëtt just dat
+éischt Wuert groussgeschriwwen:
+säin Alter ego, eng Conditio sine qua non, e Curriculum vitae (mee: en
+CV ), en Deus ex machina, eng Dolce vita, eng Terra incognita
+Wann e lëtzebuergescht Substantiv dra virkënnt, da gëtt dat och grouss­
+geschriwwen an et gi Bindestrécher gesat:
+eng De-facto-Bezéiung
+Am Pluriel gi Bindestrécher gesat an nom kuerze betounte Vokal gëtt de
+Schlusskonsonant verduebelt:
+seng Alter-egoen, vill Conditio-sine-qua-nonnen, Curriculum-vitaeë froen,
+De-facto-Bezéiungen
+Bemierkungen:
+V Eegennimm ginn iwwerholl, mat Kleng- a Groussschreiwung, och an
+Zesummesetzungen:
+
+7
+
+Den Haag, Las Palmas, Leonardo da Vinci,
+all d’Leonardo-da-Vinci-Wierker
+V Bei zesummegesate Begrëffer aus deene Sproochen, déi kee Substantiv
+sinn, gëtt klenggeschriwwen:
+Dat war de facto déi falsch Decisioun.
+Si goufen in flagranti erwëscht.
+
+D’Grouss- a Klengschreiwung
+
+63
+
+8. D’Grouss- a
+Klengschreiwung
+Substantiven, Nimm an de Sazufank gi groussgeschriwwen.
+
+8.1
+
+Substantiven a Substantivéierungen
+
+8.1.1
+
+D’Substantiven
+Substantive gi groussgeschriwwen:
+Blëtz, Buch, Büro, Fläiss, Geschicht, Haus, Himmel, Kaffi, Paangech,
+Philosophie, Romantik, Taass
+Bläistëft, Geschichtsbuch, Héichhaus, Kaffistaass, Schéiferhond,
+Schnellzuch
+
+8.1.2 Den Infinitiv als Substantiv
+Gëtt en Infinitiv als Substantiv gebraucht, schreift een e grouss:
+D’Schreiwen ass him ëmmer liichtgefall. D’Ofrappe war an
+Nullkommanäischt geschitt. Iwwert dem Lafen ass e gefall. Ech kréien
+dech un d’Schaffen. Beim Plënneren ass him eppes op de Fouss gefall.
+Hien huet ugefaange mam Schaffen.
+Bemierkung: Hanner mat gëtt d’Verb klenggeschriwwen, wa mat duerch ze
+kann ersat ginn.
+Hien huet ugefaange mat schaffen. (Hien huet ugefaangen ze schaffen.)
+Substantivéiert Infinitivgruppen aus zwee Elementer ginn zesummen- a
+groussgeschriwwen:
+Beim Autofuere soll een net telefonéieren.
+Ech hu wierklech keng Anung vum Broutbaken.
+
+8
+
+64
+
+D’Grouss- a Klengschreiwung
+
+8.1.3 D’Adjektiv an de Partizip als Substantiv
+Aus engem Adjektiv kann e Substantiv gemaach ginn:
+e bloe Rack – dat Blot am Hannergrond, e gudde Patt – dat Gutt dodrun,
+eng gekachten Ham – eppes selwer Gekachtes
+Ales an Neies, dat kann och zesummepassen.
+eppes op Lëtzebuergesch soen
+dat Lescht, wat ze maachen ass; zu gudder Lescht; ech hunn hien an
+der Lescht dacks gesinn
+Mee: fir d’éischt; ech hunn hien d’lescht/deslescht gesinn; et ass fir
+d’lescht
+dat Ganzt, am grousse Ganzen
+eppes am Gudde reegelen, am Gudde léisen
+am Weesentlechen, am Allgemengen
+vu Klengem un, zanter Laangem, bei Wäitem, bis op Weideres, ouni
+Weideres, vu Wäitem
+vun Noem a vu Wäitem, mee: vun no a vu wäit
+Adjektiven a Partizipe ginn hannert wéineg, vill, näischt oder eppes
+groussgeschriwwen:
+eppes Geléintes, eppes Gemooltes, eppes Verbranntes
+Eppes Neits (oder: eppes Neies) ass ëmmer spannend.
+
+8
+
+De Professer hat wéineg Guddes iwwer seng Studenten ze soen.
+Et ass näischt Wichteges gesot ginn.
+Si mat enger Koppel vun Adjektive Leit gemengt, gëtt groussgeschriwwen:
+Jonk an Al hu matgemaach; dat betrëfft Aarm a Räich
+Och Superlativen a Komparative kënne substantivéiert ginn:
+Mir waren op dat Schlëmmst gefaasst. Dat Einfachst ass, wa mir hie
+gewäerde loossen. Et wier fir hien dat Bescht, wann en d’Schoul géif
+wiesselen. Hien ass Besseres gewinnt. Et sinn ëmmer déi méi Schéin,
+déi gewielt ginn.
+Superlativkonstruktioune mat am gi klenggeschriwwen:
+Et wier am beschten, wann dir all matkéimt. Si ginn am léifste bei de
+Pit an d’Anne iessen. Hir Feiere sinn ëmmer am flottsten.
+Fest Ausdréck mat Prepositioun an (onflektéiertem) Adjektiv gi
+klenggeschriwwen:
+duerch déck an dënn, iwwer kuerz oder laang, vu kleng op, vu privat ze
+verkafen
+
+D’Grouss- a Klengschreiwung
+
+65
+
+8.1.4 Aner Substantivéierungen
+Och Adverben, Prepositiounen, Pronomen a Konjunktioune kënne substantivéiert ginn (se kréien da meeschtens en Artikel):
+Hien huet mir den Du ugebueden (hie sot, mir sollten eis duzen).
+An dëser Saach gëtt et keen Entweeder-oder. Net de Wat ass hei
+wichteg, ma de Firwat. Mir soen Iech am Viraus Bescheed.
+D’Pronomen all, alles, allem, aner, anescht an aner Pronomen, déi fir e
+Substantiv stinn, gi klenggeschriwwen:
+Dat weess awer elo wierklech jiddereen. Si hunn et all gewosst. Dat war
+alles vill ze schwéier. Déi meescht hunn et gepackt. Virun allem …
+(deen) aneren, (déi) aner, dat ass net senges, ech hu mäint gesot
+Ënner anerem hu mer och iwwer déi nei Strukturen diskutéiert.
+
+8.1.5 D’Zesummesetzunge mat Bindestréch
+Gi Wierder mat Bindestrécher gekoppelt (cf. 9.1.1) an als Substantiv
+benotzt, schreift een dat éischt Wuert an och d’Substantive grouss:
+e Burnout-Syndrom, keen Entweeder-oder, den Helleg-Geescht-Tunnel,
+eng Mozart-Symphonie
+Ausnam: zesummegesate Wierder aus dem Franséischen an aus anere
+Sproochen (cf. 7.2.5 a 7.5).
+
+8.2 Fest Verbindunge mat Substantiven
+A Wendunge mat engem Verb oder enger Prepositioun bleift d'Substantiv am
+Prinzip grouss:
+a Bezuch op, zu Bierg stoen, zu Enn goen, am Fong, a Fro stellen,
+zu Gonschte vun, op Grond vun (oder: opgrond vun), vun Haus aus,
+mat Hëllef vun (oder: mathëllef vun), a Kaf huelen, zu Laaschte vun,
+zu Land, zur Nout, Schold hunn
+Recht ginn, Recht hunn, Recht kréien, Onrecht hunn
+Uecht ginn, Uecht doen, do gutt Uecht!, sech an Uecht huelen,
+eppes ausser Uecht loossen
+Steet allerdéngs an esou Wendungen d’Verb sinn, hu mer et net méi mat
+engem Substantiv ze doen. Duerfir gëtt klenggeschriwwen:
+si si schold drun, ech sinn es leed(s)
+ech si faillite, well ech Faillite gemaach hunn
+
+8
+
+66
+
+D’Grouss- a Klengschreiwung
+
+D’Adverbe rieds (am Sënn vu rieden), wëlles an opweises ginn ëmmer
+klenggeschriwwen:
+rieds goen, rieds hunn, rieds sinn
+wëlles hunn, wëlles sinn
+net vill opweises hunn
+D’Ausdréck Merci, Äddi, Moien, Jo an Nee gi groussgeschriwwen, wann et
+kloer e Substantiv ass:
+Schreif hinnen en décke Merci.
+Hues du dann elo mat Jo gestëmmt oder bass de beim Nee bliwwen?
+Et gi grouss- oder klenggeschriwwen:
+Äddi/äddi soen, Merci/merci soen, Jo/jo soen, villmools Merci/merci,
+so hinne Moien/moien
+Mir soen Iech villmools Merci/merci fir Äre léiwen Don!
+Ech muss direkt nees goen, dofir Moien/moien an Äddi/äddi!
+A, Salut/salut!
+
+8.3 D’Dageszäiten an d’Wochendeeg
+Bei Ausdréck mat gëschter oder virgëschter plus Dageszäit gëtt d’Dageszäit
+groussgeschriwwen:
+gëschter Mëtten, gëschter Mueren, virgëschter Owend
+
+8
+
+Bei Kombinatioune mat haut, muer an iwwermuer ass et kloer, well en Artikel virun der Dageszäit steet:
+haut de Mëtteg, muer de Mëtteg, haut de Mueren, iwwermuer den Owend
+D’Wochendeeg gi groussgeschriwwen, och an Zesummesetzungen:
+de Méindeg, de Méinden, e Méindeg de Moien, um Méindegmoien
+Adverbial Forme mat -s um Enn ginn ëmmer klenggeschriwwen:
+Mir waren owes nach een huelen. Mir gi sonndes moies spadséieren. Ech
+si méindes ëmmer midd. Ech ginn donneschdes mëttes ëmmer lafen.
+Äre Rendez-vous ass dënschdes, de véierten Abrëll.
+D’Adverbe gëschter, haut, hënt, iwwermuer, muer, virgëschter ginn ëmmer
+klenggeschriwwen:
+Dat geet net vun haut op muer. D’Solden hu gëschter ugefaangen. Wat
+freeën ech mech op muer! Ech hunn hënt gutt geschlof.
+
+D’Grouss- a Klengschreiwung
+
+67
+
+8.4 Eenzel Buschtawen a Buschtawegruppen
+Ob den eenzele Buschtaf oder eng Buschtawegrupp grouss- oder kleng­
+geschriwwe gëtt, hänkt dovun of:
+V ob en als Substantiv gebraucht gëtt oder net:
+Maach mer keen X fir en U vir! Wien A seet, muss och B soen.
+D’ABC als Alphabet.
+No a, b an c kënnt d.
+V ob de Sënn eng Kleng- oder Groussschreiwung verlaangt:
+de Punkt um i (e groussen I huet am Lëtzebuergesche kee Punkt)
+de schife Stréch am Rondel vum Q
+Meeschtens kënnt eng en-Endung am Pluriel.
+Wa Buschtawen an de Pluriel gesat ginn, da kënnt e Bindestréch virun der
+Plurielsendung:
+Am Lëtzebuergesche gëtt et Wierder mat véier oder fënnef e-en
+hannereneen.
+„Laang“ gëtt mat zwee a-e geschriwwen.
+
+8.5 Ofkierzungen
+8.5.1 Wat ass eng Ofkierzung?
+Als Ofkierzung gëtt d’Duerstellungsform vun engem oder méi Wierder verstanen, déi méi kuerz ass wéi déi ausgeschriwwe Form. Et gëtt verschidden
+Zorte vun Ofkierzungen:
+V D’Ofkierzung besteet aus dem Ufanksbuschtaf vum Wuert a gëtt beim
+Liesen ausgeschwat. Se kritt e Punkt:
+m. (männlech), w. (weiblech), d. (divers), r. (riets), S. (Säit)
+V D’Ofkierzung besteet aus e puer Buschtawen a beim Liese ginn
+d’Wierder ausgeschwat:
+Art. (Artikel – Gesetz), ca. (zirka), d. h. (dat heescht),
+Jh. (Joerhonnert), wgl. (wannechgelift), z. B. (zum Beispill)
+a. d. R. (an der Reegel), allg. (allgemeng), Dr. (Dokter), ë. a. (ënner
+anerem), evtl. (eventuell), Nr. (Nummer), Tel. (Telefonsnummer)
+Dës Ofkierzunge kréien e Punkt. Bei Ofkierzungen aus méi Deeler steet
+hanner all Element e Punkt. Hei kënnt e Sputt hannert dem Punkt, esou
+wéi wann een déi eenzel Deeler géif ausschreiwen.
+Ausnamen: asw. (a sou weider / an esou weider), etc. (et cetera)
+
+8
+
+68
+
+D’Grouss- a Klengschreiwung
+
+V Ausgeschwat ginn och d’Moosseenheeten, d’Himmelsrichtungen an
+d’cheemesch Elementer, mee si kréie kee Punkt:
+g (Gramm), kg (Kilo oder Kilogramm), t (Tonn), l (Liter)
+m (Meter), cm (Zentimeter), km (Kilometer), qm oder m²
+(Quadratmeter, Meterkaree)
+MHz (Megahertz), V (Volt), W (Watt)
+Cl (Chlor), O (Sauerstoff), S (Schwiefel)
+N (Norden), SO (Südosten)
+min (Minutt), s (Sekonn), h (Stonn),
+awer och: Min. (Minutt), Sek. (Sekonn), St. (Stonn)
+Hannert Zuele gëtt d’Moosseenheet, d’Prozentzeechen asw. net direkt un
+d’Zuel ugehaangen, mee et kënnt e Sputt dertëschent:
+3 cm, 5 EUR, 5 €, 10 %
+Ausnamen:
+5' (Minutten)
+5" (Sekonnen, Zoll)
+5° fir e Wénkel, Breeten- oder Längegrad, mee: 5 °C, 5 °F
+D’Ofkierzung besteet aus engem Deel vun engem méi laange Wuert
+(Kuerzwierder):
+Akku, Auto, Bus (Autobus), Cello, Deo, Disko, Foto (Fotografie),
+Krimi, Proff (Professer), Uni
+
+8
+
+V D’Ofkierzung besteet aus den Ufanksbuschtawe vu méi Wierder an ergëtt
+e Kuerzwuert (also en Akronym), dat ewéi e Wuert ausgeschwat gëtt. Dës
+Ofkierzunge gi gelies a groussgeschriwwen ewéi en eegestännegt Wuert a
+kréie kee Punkt:
+Aids, Laser, Nato, Pin, Ufo, Unesco, Uno
+V D’Ofkierzung besteet aus den Ufanksbuschtawe vu méi Wierder oder
+engem zesummegesate Wuert. Et gëtt all eenzele Buschtaf vun der
+Ofkierzung fir sech gelies a groussgeschriwwen, „Wee-Emm“ fir WM,
+„Dee-Vau-Dee“ oder „Dee-Wee-Dee“ fir DVD:
+ASBL, DVD, EU, EZB, PS, UKW, UN, WM
+Am Pluriel gëtt d’Endung -en ugehaangen (hei gëllt dann d’n-Reegel):
+ASBLen, CDen, DVDen, PDFen, WMen
+vill CDe kafen
+Vill Firmennimm oder Nimm vun Organisatioune ginn och esou
+gebraucht:
+CFL, EU, INL, RTL
+Et gëtt och Mëschformen:
+JPEG (Joint photographic experts group) gëtt „Ji-Peg“ gelies.
+
+D’Grouss- a Klengschreiwung
+
+69
+
+Bemierkung:
+An Eenzelfäll kann eng international Schreifweis als Niewevariant geholl
+ginn:
+Covid-19 / COVID-19, Nato / NATO, Unesco / UNESCO
+
+8.5.2 Grouss a kleng Buschtawe bei Ofkierzungen
+Bei Ofkierzungen, déi een ewéi e Wuert ausschwätze kann, gëtt just den
+Ufanksbuschtaf groussgeschriwwen:
+D’Uno huet eng aussergewéinlech Versammlung festgeluecht. Déi nächst
+Nato-Manövere sinn am August. Et gi gutt Medikamenter géint Aids.
+Handelt et sech ëm eng Ofkierzung, déi fir d’Aussprooch buschtawéiert gëtt,
+ginn déi eenzel Buschtawe groussgeschriwwen. Eng Plurielsendung gëtt a
+klenge Buschtawen ugehaangen:
+Déi nächst WM ass an zwee Joer. Si haten e Koup DVDen do leien.
+Am Wanter gëtt den ACL dacks geruff. Ech hunn eng ganz Rei PDFe
+geläscht. Si hunn SARLe gegrënnt, et si keng SAen a keng ASBLen
+derbäi.
+Bei Ofkierzungen aus eenzele Buschtawe ginn déi eenzel Buschtawen esou
+geschriwwen, wéi wann d’Wuert ausgeschriwwe wier: Den éischte Buschtaf
+fir e Substantiv gëtt groussgeschriwwen, déi aner Buschtawe kleng.
+Dat steet op S. 11. Mir hunn z. B. all Mount en Ausfluch mat hinne
+gemaach.
+D’Reunioun fänkt um 7 Auer c. t. un.
+
+8.6 D’Zuelen an d’Zueladjektiven
+Grondzuelen, déi als Ziffer gebraucht ginn, gi groussgeschriwwen:
+Hien huet eng Eent an der Prüfung. Hatt huet eng Dräi op der Zensur.
+Dat Klengt huet dräimol (oder: dräi Mol) hannereneen eng Sechs
+gewierfelt.
+Bréch an Ordinalzuelen, déi als Substantiv gebraucht ginn, schreift ee
+grouss:
+Dee Fënnefte krut näischt méi. Dat Éischt war bal eng Sekonn méi séier.
+Jidderee krut e Véierel vum Kuch.
+Kardinalzuelen ënner enger Millioun gi klenggeschriwwen:
+Si waren alle sechs komm. Hien ass schonn iwwer achtzeg, si ass iwwer
+uechtzéng. E Schaltjoer huet dräihonnertsechsasechzeg Deeg.
+Déi siwe Weltwonner, d’Zuele vun eent bis eelef, mir sinn zu aacht, bis
+honnert zielen. Hien ass mat Tempo honnert duerch d’Duerf gerannt.
+Hie wollt dofir honnert Euro hunn.
+
+8
+
+70
+
+D’Grouss- a Klengschreiwung
+
+Zueladjektiven, déi keng genee Quantitéit uginn, gi groussgeschriwwen:
+Et mussen Honnerte vu Stroossen an Dosende vu Brécke gefléckt ginn.
+An der Reegel klenggeschriwwe ginn d’Zueladjektive vill, wéineg an all hire
+Formen:
+Dat hunn der scho vill gesot. Déi wéineg, déi dat net soen, hunn ech net
+begéint.
+Déi meescht sinn domat averstanen.
+
+8.7 D’Nimm an d’Titelen
+8.7.1
+
+Einfach Nimm
+Einfach Nimm gi groussgeschriwwen:
+Carine, Christiane Muller, Max Hoffman, Pit
+Esch, Ierpeldeng, Musel, Napoleonsgaart, Niklosbierg, Sauer, Veianen
+
+8.7.2 D’Nimm mat méi Deeler
+Wann en Adjektiv, e Partizip, eng Zuel oder e Pronomen zu engem Numm
+gehéiert, da gëtt deen och groussgeschriwwen:
+
+8
+
+Éischt Hëllef, de Grousse Won, den Internationalen Olympesche Comité
+(oder: Kommitee), den Noen Osten, d’Olympesch Spiller, de Schifen
+Tuerm vu Pisa, d’Schwaarzt Mier
+Wann aus enger geografescher Bezeechnung e Wuert mat -er ofgeleet gëtt,
+gëtt dat ëmmer groussgeschriwwen:
+d’Lallenger Kierch, d’Lëtzebuerger Strooss, de Schwäizer Kéis
+Dat éischt Wuert vun engem Stroossennumm gëtt groussgeschriwwen an
+och Adjektiven, déi zu deem Numm gehéieren:
+ech wunnen Op Tomm, du wunns An der Hiel, hie wunnt Op der
+Muerbels, si wunnen Um Leschte Steiwer
+Historesch Epochen, Kalennerdeeg, Titelen asw. ginn och groussgeschriwwen:
+den Éischte Weltkrich, d’Franséisch Revolutioun, den Hellege Rack (zu
+Tréier), den Hellege Stull
+Dat gëllt och fir Bezeechnunge vu Planzen an Déieren:
+Rout Kréischelen, Schwaarz Kréischelen, Déck Kréischelen
+de Bengaleschen Tiger, den Indeschen Elefant, e Wëllt Schwäin (oder: e
+Wëllschwäin), eng Wëll Kaz (oder: eng Wëllkaz)
+Bei enger Rei Bezeechnungen, déi eng speziell Bedeitung hunn, gëtt
+d’Adjektiv groussgeschriwwen (et muss ee klengschreiwen, wann dës
+Bedeitung net gemengt ass):
+
+D’Grouss- a Klengschreiwung
+
+71
+
+um Schwaarze Briet (wou d’Informatiounen hänken)
+de Schwaarze Mann (deen d’Kanner fäerte sollen oder deen am
+Mëllerdall)
+e Schwaarzt Lach (Astronomie)
+déi Rout Kaart (am Fussball)
+d’Gro Kaart (vum Auto)
+
+8.7.3 D’Titelen
+Dat éischt Wuert vun engem Titel (Buch, Film, Artikel) gëtt
+groussgeschriwwen:
+De Film Eng nei Zäit war e groussen Erfolleg. An der Schoul hu mer
+missen en Aufsatz schreiwen: Fir oder géint d’Boxen. Kenns de dem Pol
+Greisch säi Buch Mäi Frënd Benn?
+
+8.7.4 D’Urieden
+Déi vertraulech Urieden du, de, dech, dir am Singulier an dir, der, iech am
+Pluriel gi klenggeschriwwen:
+Hues du eppes fonnt fir dech? Maacht der iech fäerdeg!
+D’Héiflechkeetspronomen Dir, Der, Är, Iech ginn ëmmer groussgeschriwwen.
+Hutt Dir Iech mat Ären Noperen arrangéiert?
+Wann Dir eng Ufro maacht, kënnt Der deen heite Service kontaktéieren.
+Kéint Dir Ärersäits kontrolléieren, ob se Iech et geschéckt hunn?
+
+8.7.5 De Sazufank
+Hannert engem Doppelpunkt fänke just ganz Sätz mat engem grousse
+Buschtaf un. Wann awer deen Deel, deen hannert dem Doppelpunkt kënnt, als
+vollstänneg Eenheet kann ugesi ginn, däerf och hei groussgeschriwwe ginn:
+Wéi seet d’Spréchwuert: Deen nëmmen eng Klack héiert, kennt nëmmen
+ee Schall.
+Natierlech kënne mir Iech en Dësch reservéieren: kee Problem! / Kee
+Problem!
+
+8
+
+72
+
+D’Grouss- a Klengschreiwung
+
+No der Uried am Bréif steet e Komma an dono, wann et kee Substantiv ass,
+e klenge Buschtaf:
+Här Muller,
+mir si frou ...
+Steet en Apostroph un éischter Plaz an engem Saz, dann zielt den Apostroph als éischte Buschtaf. Do hannendru gëtt klenggeschriwwen:
+’t ass kal.
+
+8
+
+D’Getrennt- an Zesummeschreiwung
+
+73
+
+9. D’Getrennt- an
+Zesummeschreiwung
+9.1
+
+D’Substantiven
+
+9.1.1
+
+Zesummegeschriwwen
+Zwee oder méi Substantive ginn zesummegeschriwwen:
+Aarbechtsgrupp, Entwécklungshëllef, Foussgängerwee, Grondschoul,
+Liewenslaf, Regierungsprogramm, Zëmmerdier
+E Substantiv kann och mat engem Verb oder engem Adjektiv oder mat net
+zesummegeschriwwe ginn. Zesummesetzunge mat net kënnen och mat
+Bindestréch geschriwwe ginn:
+Bakform, Blosaier, Héichhaus, Lafschong, Schreifdësch,
+e Schwéierblesséierten, e Liichtverletzten
+Lëtzebuerger an Netlëtzebuerger (oder: Net-Lëtzebuerger)
+Bemierkungen:
+V En eventuelle Fouen-s gëtt tëscht d’Wierder agefüügt:
+Kathedralstuerm, Schofspelz
+V Wann dräimol en a oder en o beieneekënnt, da kann ee fir d’Liesbarkeet
+e Bindestréch setzen:
+Mega-Aarbecht oder Megaaarbecht
+Staccato-Ootmung oder Staccatoootmung
+Zoo-Orchester oder Zooorchester
+V Bei Substantivéierunge vun enger Expressioun mat engem Infinitiv gëtt
+zesummegeschriwwen:
+d’Autofueren, d’Geschichteliesen, d’Spadséieregoen
+
+9
+
+74
+
+D’Getrennt- an Zesummeschreiwung
+
+V En eenzelen Numm gëtt mam Substantiv hannendrun
+zesummegeschriwwen:
+Achillesseen, Muselwéngchen, Nobelpräis, Röntgenstralen,
+Suezkanal
+Citroënscamionnetten, Ikeasregal
+V Ginn zesummegesate Substantiven awer laang oder oniwwersiichtlech,
+oder sinn Akronymmen dran, schreift ee mat Bindestréch:
+en CD-Lafwierk, eng Koffer-Zénk-Legéierung, eng Mozart-Symphonie,
+en Nato-Staat, eis n-Reegel, de pH-Wäert, d’SES-Satellitten,
+en USB-Stick, den US-Staat Ohio, en Net-EU-Bierger
+Beckiusstrooss, mee: Jean-Pierre-Beckius-Strooss
+V Bei verschiddene Wierder huet een d’Wiel:
+Dictionnaires-Artikel, Lëtzebuergesch-Enseignant, Schëppen-Äss
+oder: Dictionnairesartikel, Lëtzebuergeschenseignant, Schëppenäss
+
+9.1.2 Auserneegeschriwwen
+Bei Ofleedunge vu geografeschen Nimm op -er gëtt auserneegeschriwwen:
+Genfer Séi, Lëtzebuerger Strooss, Wiener Schnitzel
+Ausnam: Heischtergronn, Bierengerbierg
+(cf. déi offiziell Lëscht vun de Lëtzebuerger Uertsnimm op www.cpll.lu an
+am LOD)
+
+9.2 De Brochdeel vun enger Mooss
+9
+
+E Brochdeel vun enger Moosseenheet gëtt ewéi e Substantiv behandelt:
+e Véierelsliter, e Véierelspond Botter, zwou Honnertstelsekonnen
+Ausnam: hallef, hallwer gëtt wéi en Adjektiv behandelt:
+an enger hallwer Stonn, nach eng hallef Stonn, en hallwe Liter
+zwou Véierelstonne sinn eng hallef Stonn
+
+9.3 D’Adjektiven
+9.3.1 Zesummegeschriwwen
+Gläichrangeg Adjektive ginn am Prinzip zesummegeschriwwen:
+dafstomm, groblo, naasskal, séisssauer
+Si gläichrangeg Adjektiven awer méi laang a ginn se oniwwersiichtlech,
+schreift ee mat Bindestréch:
+
+D’Getrennt- an Zesummeschreiwung
+
+75
+
+déi lëtzebuergesch-belsch Grenz
+de wëssenschaftlech-techneschen Assistent
+Wann dat éischt Element d’Adjektiv­hannendrun an der Bedeitung verstäerkt­
+oder ofschwächt, gëtt et zesumme­geschriwwen:
+extradënn, héichgëfteg, hyperaktiv, mannerbemëttelt, superschlau,
+ultrakonservativ, waarmhäerzeg
+Heizou gehéieren och Prefixe wéi psycho-:
+psychoanalytesch, psychosozial
+Adjektiven a Partizipe ginn a Verbindung mat Substantiven
+zesummegeschriwwen:
+äiskal, altersbedéngt, benotzerfrëndlech, computergesteiert,
+doudonglécklech, liewensgeféierlech, steenhaart, waasserdicht,
+meterhéich, mee: e puer Meter héich
+Et gëtt och zesummegeschriwwen, wann eent vun den Elementer net eleng
+virkënnt:
+angloamerikanesch, eendeiteg, méideiteg, villfach, zweefach
+
+9.3.2 Zesummen- oder auserneegeschriwwen
+Et huet een d’Wiel bei allgemeng plus en Adjektiv:
+Dat ass en allgemenggültegen Zousaz.
+Dat ass en allgemeng gültegen Zousaz.
+Et huet een d’Wiel bei Verbindunge mat engem Partizip, déi adjektivesch
+benotzt ginn:
+e selwergestréckte Schal oder e selwer gestréckte Schal
+déi sougenannte Panama-Pabeieren
+oder déi sou genannte Panama-Pabeieren
+elengerzéiend Mammen a Pappen
+oder eleng erzéiend Mammen a Pappen
+Et huet een d’Wiel bei net plus Adjektiv:
+net ëffentlech oder netëffentlech (oder: net-ëffentlech)
+
+9.3.3 Auserneegeschriwwen
+Auserneegeschriwwe gëtt:
+V wann den éischten Deel en Adjektiv ass, deen e Grad festleet, dee ka
+gesteigert ginn:
+enk vertraut, liicht verdaulech, méi liicht verdaulech, liicht verletzt,
+schwéier krank, schwéier blesséiert, schlecht gelaunt,
+immens schlecht gelaunt
+hallef eidel, hallef erfruer, e wäit verbreeten Iertum
+
+9
+
+76
+
+D’Getrennt- an Zesummeschreiwung
+
+V bei kachen, rosen, fléissen:
+kache waarm, kache gliddeg, mat kache Waasser, rose wéineg, fléisse
+Waasser
+
+9.4 D’Verben
+9.4.1 Zesummegeschriwwen
+Am Prinzip gi Verben a Verbindung mat Partikelen zesummegeschriwwen.
+Dat gëllt am Infinitiv (mat oder ouni ze), beim Partizip oder wann d’Verb um
+Enn vum Niewesaz steet.
+opmaachen: Et ass schwéier, dës Këscht opzemaachen.
+virstellen: Ech hat mer dat anescht virgestallt.
+heemgoen: Et gëtt Zäit, datt mer heemginn.
+Soss gëtt getrennt:
+opmaachen: Ech maachen op. Maach op!
+virstellen: Ech stelle vir. Hie stellt eis vir.
+heemgoen: Ech ginn heem, géi och heem!
+Partikele sinn:
+V Prepositiounen: an-, op-, mat-, virunV Adverben: erëm-, ewech-, zeréck-, zesummenV Bestanddeeler a Verbindung mat engem Verb, déi net méi enger
+bestëmmter Kategorie kënnen zougeuerdent ginn:
+heem-, präis-, wäis-, wett-
+
+9
+
+Läit am Infinitiv oder am Partizip d’Haaptbetounung op der Partikel (egal ob
+éischt oder zweet Silb), gëtt zesummegeschriwwen:
+aneneeknuppen, auslafen, beieneebleiwen, derbäihunn,
+derhannertstiechen, dernieftleien, dobleiwen, erausgoen, erëmgesinn,
+ewechginn, géintiwwerleien, heemgoen, matdeelen, mathuelen,
+matrappen, opfalen, opgoen, opmaachen, präisginn, virkommen,
+virstellen, wäismaachen, wettmaachen, zeréckfannen, zesummenhalen,
+zesummeschreiwen, zesummestrécken
+si sinn nach eemol dervukomm; du bass erausgaangen;
+ech hunn et erageholl
+Bei enger iwwerdroener Bedeitung oder wann den éischten Deel vum Verb e
+verblatztent Substantiv ass, gëtt och zesummegeschriwwen:
+deelhuelen, fräispriechen, groussschreiwen, klengschreiwen, leeddoen,
+schifgoen
+Läit am Infinitiv oder am Partizip d’Betounung um Verb, dann ass d'Bedeitung meeschtens eng aner an et gëtt auserneegeschriwwen:
+
+D’Getrennt- an Zesummeschreiwung
+
+77
+
+Mir hu si erëmgesinn. No senger Operatioun konnt hien erëm gesinn.
+Wëlls de dobäibleiwen? Wëlls de dobäi bleiwen?
+Och wann s de d'Reegel net verstees, muss de dech drun halen. Hal op,
+muss de dech dann esou drunhalen?!
+Et huet alles geännert, mir hunn eis ëmgestallt. Ech hunn d’Miwwelen
+an der Stuff ëmgestallt. D’Polizisten hunn sech ëm hie gestallt.
+
+9.4.2 Auserneegeschriwwen
+Auserneegeschriwwe gëtt:
+V all Verbindung mam Verb sinn:
+aus sinn, derbäi sinn, eriwwer sinn, do sinn, op sinn, u sinn
+V d’Verbindung Verb + Verb (Partizip oder Infinitiv):
+akafe goen, gefaangen huelen, getrennt schreiwen, schreiwe léieren,
+spadséiere goen, stoe bleiwen, verluer goen, waarde loossen
+V wann den éischten Deel en Adjektiv ass, dat mam Verb keng iwwerdroe
+Bedeitung ergëtt:
+futti maachen, kleng schneiden, propper maachen, waarm maachen
+V wann den éischten Deel e Substantiv ass, deem seng Bedeitung net
+verblatzt ass (gëllt och bei der Kombinatioun Prepositioun + Substantiv):
+Angscht hunn, Piano spillen, Schi fueren, sech an Uecht huelen, ech
+hunn Uecht gedoen, hie ka gutt Vëlo fueren a schlecht Auto fueren
+a Fro stellen, a Stand halen, mee: amstand sinn
+Bei Zesummesetzunge mat der Prepositioun zu, déi zu ze kann ofgeschwächt ginn, gëtt den Deel virum Verb uneneegeschriwwen:
+zugronn (zegronn) goen, zumutt (zemutt) sinn, zurieds (zerieds) stellen,
+zuschan (zeschan) maachen, zuscholde (zescholde) komme loossen,
+zustan (zestan) kommen/bréngen, zuwee (zewee) bréngen,
+zuleeds (zeleeds) doen
+Bemierkungen:
+V Et gëllt optional Zesummeschreiwung bei am Gaang(en) sinn oder
+amgaang(en) sinn.
+V Wann d’Kombinatioun Adjektiv + Verb oder Verb + Verb eng nei
+Bedeitung kritt (eng iwwerdroe Bedeitung), déi net der Bedeitung vun
+den eenzelen Deeler entsprécht, gëtt zesummegeschriwwen, am Infinitiv,
+am Partizip an am ze-Infinitiv:
+een hellegspriechen, ee krankschreiwen, eppes richtegstellen,
+routgesinn, eppes sathunn, schwéierfalen (mee: hien ass gëschter
+schwéier gefall ), sech futtilaachen, sech schwéierdoen, sëtzebleiwen
+den Dokter huet si krankgeschriwwen; mir hu routgesinn
+
+9
+
+78
+
+D’Getrennt- an Zesummeschreiwung
+
+Si hu sech goegelooss. No där Affär gouf hie falegelooss.
+Si sinn allen zwee sëtzebliwwen, d. h., si hunn alle béid d’Schouljoer
+missen dubléieren.
+Mee: Hien ass sëtze bliwwen, op senger Plaz, op sengem Stull.
+
+9.5 Adverben, Konjunktiounen, Prepositiounen
+a Pronomen
+9.5.1 Zesummegeschriwwen
+Et ginn zesummegeschriwwen:
+V wannechgelift, watgelift
+Bemierkung: wannechgelift gëtt mat wgl. ofgekierzt
+V Zesummesetzunge mat iergend-:
+iergendeen, iergendeppes, iergendwou, iergendwéi
+iergendeng Fra, iergende Mann, iergendee Kand, op iergendeng
+Manéier
+Ausnam: iergend esou een, iergend esou eppes
+V Konjunktiounen:
+amplaz, andeems, (e)soubal, (e)soulaang (dat esou ass), (e)souwuel,
+nodeems, obschonns, soufären, wougéint, zemools, zënterhier
+Äppel amplaz Orangen. Maach virun, amplaz ze träntelen!
+Ausnam: (e)sou datt/dass oder (e)soudatt/(e)soudass, ausser datt/dass,
+ouni datt/dass, fir datt/dass
+
+9
+
+V Adverben, Konjunktiounen, Prepositiounen a Pronomen ewéi:
+allkéiers, anerersäits, biergop, daagsiwwer, därmoossen, eemol
+(oder: ee Mol ), ëmsou, géintiwwer, genausou, gradesou, iergendeen,
+jidderzäit, kengesfalls, mathëllef (oder: mat Hëllef ), mengersäits,
+munchmol/muenchmol, opgrond (oder: op Grond ), e puermol (oder: e
+puer Mol), sengerzäit, sengesgläichen, souwisou/souwéisou, unhand,
+zemol, zemools, zudéifst, zurzäit, zweemol (oder: zwee Mol)
+
+D’Getrennt- an Zesummeschreiwung
+
+79
+
+9.5.2 Auserneegeschriwwen
+Auserneegeschriwwe ginn:
+V Kombinatioune mat selwecht an nämmlecht:
+dee selwechten, dat selwecht, déi selwecht, d’selwecht
+deen nämmlechten, dat nämmlecht, déi nämmlecht
+Hie fiert zanter Jore mat dem selwechten Auto. Hie fiert mat deem
+selwechten Auto ewéi ech. Ech hunn dat nämmlecht geduecht.
+V Kombinatioune vun Adjektiven, Adverben oder Pronome mat (e)sou, ze
+an (e)wéi:
+(e)sou vill, (e)sou wéineg, (e)sou wäit, et ass (e)sou wäit,
+(e)sou vill Zäit, (e)sou vill s de wëlls, ze vill, ze mann,
+ze wéineg, (e)wéi vill, (e)wéi laang
+Bemierkungen:
+Bei dëse Wierder ass d’Auserneeschreiwung fakultativ:
+(e)soudass / (e)sou dass, (e)soudatt / (e)sou datt
+(e)sougenannt / (e)sou genannt
+Beim Gebrauch als Konjunktioun ginn (e)souvill an (e)souwäit
+uneneegeschriwwen:
+(e)souvill ech weess, hat si sech ofgemellt
+Ausnam: Dës Wierder ginn ëmmer zesummegeschriwwen:
+souzesoen
+wéivillten (als Adjektiv gebraucht: Däi wéivillte Béier war dat elo?)
+V erweidert Pronomen:
+guer keen, soss keen
+V aner Kombinatiounen, bei deenen déi eenzel Deeler als selbstänneg
+Wierder ze erkenne sinn:
+dës Kéier, dës Säit, doriwwer eraus, guer net, keng Kéier,
+virun allem, vun Haus aus, zu Enn (bréngen), zu Fouss (goen),
+zu Hänn, zu Schued (kommen), zur Zäit vun
+
+9.6 Verbindunge mat eenzele Buschtawen, Zuelen,
+Ofkierzungen, Opzielungen
+9.6.1 Zesummesetzunge mat eenzele Buschtawen
+Si gi mat Bindestréch gekoppelt:
+E-Learning, E-Mail, Fouen-s, i-Punkt, T-Shirt, x-belibeg, x-mol,
+fir d’x-te Kéier
+
+9
+
+80
+
+D’Getrennt- an Zesummeschreiwung
+
+9.6.2 Zesummesetzunge mat Zuelen
+Si gi mat Bindestréch gekoppelt:
+5-mol (och: 5 Mol), 100-prozenteg, e 70-Järegen, e 50-järege Mann,
+eng 2/3-Majoritéit, en 30-Tonner, eng 3:5-Néierlag, eng 40-StonneWoch, den 100-Meter-Laf, d’90er-Joren
+1res-Diplom, 13es-Diplom, 7es-Schüler
+Steet awer e Suffix ewéi -eg oder -stel hannert der Zuel, kënnt kee
+Bindestréch:
+100%eg, eng 100stel Sekonn
+
+9.6.3 Zesummesetzunge mat Ofkierzungen
+Si gi mat Bindestréch gekoppelt:
+de pH-Wäert, en SES-Satellit, d’Uno-Vollversammlung, UV-Stralen
+
+9.6.4 Opzielungen
+Bei Opzielunge kann e Bindestréch eng Widderhuelung ersetzen. Nom
+Binde­stréch gëtt da klenggeschriwwen:
+Schoulgebaier, -kanner a -bussen
+amplaz: Schoulgebaier, Schoulkanner a Schoulbussen
+Chrëscht-, Ouschter- a Päischtvakanz
+amplaz: Chrëschtvakanz, Ouschtervakanz a Päischtvakanz
+
+9
+
+Schoul- an ëffentlechen Transport
+amplaz: Schoultransport an ëffentlechen Transport
+Opzielunge kënnen och mat schifem Stréch getrennt ginn:
+de Bus-/Tram-/Zuchtrajet
+amplaz: de Bustrajet, den Tramtrajet an/oder den Zuchtrajet
+Bei optionalen Zesummesetzunge kënnen och Klamere geholl ginn. De
+Bindestréch steet an der Klamer. Bei engem Substantiv gëtt no der Klamer
+groussgeschriwwen:
+(auto-)biografesch, (Welt-)Literatur
+
+D’Interpunktioun
+
+81
+
+10. D’Interpunktioun
+10.1 Iwwerbléck
+Sazzeeche sinn dofir do, e geschriwwenen Text méi iwwersiichtlech ze
+­maachen, andeems se Sätz a Sazdeeler vuneneen ofgrenzen.
+Zu de Sazzeechen, déi Sätz vuneneen ofgrenzen, gehéieren:
+Punkt, Froenzeechen, Ausruffzeechen.
+Zu de Sazzeechen, déi Sazdeeler vuneneen ofgrenzen, gehéieren:
+Komma, Stréchpunkt (Semikolon), Doppelpunkt, Gedankestréch,
+Klameren.
+Fir verschidde Sazdeeler ervirzehiewen oder déi direkt Ried ze markéieren,
+gi Gänseféisercher benotzt.
+Dernieft gëtt et déi dräi Pinktelcher, déi eppes markéieren, wat am Saz oder
+am Wuert ausgelooss gouf.
+Stinn déi dräi Pinktelcher fir ee Wuert oder méi Wierder, kënnt e Sputt viran hannendrun. Sti se fir en Deel vun engem Wuert, kënnt kee Sputt:
+Ech weess net, wéi et virugeet … Mee dat gesi mer.
+„Sch…!“, sot hien an huet sech duerch d’Bascht gemaach.
+E Sazzeeche gëtt direkt ugeschloss, mee et dierf kee véierte Punkt hannendrugesat ginn.
+De Punkt fënnt een och bei Ofkierzungen an Ordinalzuelen:
+hie war de 26. an der Course, 1. Hëllef, déi 100. Kéier
+
+10.2 Markéierung vum Enn vum Saz
+De Schluss vun engem Saz gëtt duerch e Punkt, e Froenzeechen oder en
+Ausruffzeeche markéiert:
+Ech gi muer akafen. Kënns de mat? Fro nach!
+
+10
+
+82
+
+D’Interpunktioun
+
+10.2.1 De Punkt
+De Punkt steet um Schluss vun engem ganzen (deklarativen) Saz:
+Mir gi muer an de Kino. De Film leeft nach just dës Woch.
+Mir gi scho muer an de Kino, well de Film net méi laang leeft.
+Ech kucken dat no. Ech kucken no, fir wéini mer dat agedroen haten.
+Bei Opfuerderungen, déi net besonnesch betount sinn, kënnt e Punkt a
+keen Ausruffzeechen:
+Komm einfach mat.
+Mee: Komm elo direkt heihinner!
+Kee Punkt kënnt:
+V bei Iwwerschrëften, Titelen (Buchtitel, Artikeliwwerschrëft, Iwwerschrëfte
+bei alle méiglechen Dokumenter …) an Ënnerschrëften:
+D’Maus Ketty
+Gesetz iwwer d’Lëtzebuerger Nationalitéit
+6 km Stau no Accident op der A6
+Bescht Gréiss
+Jos Jeeminee
+V bei Opzielungen a Form vu Kolonnen:
+Wien ass heivu betraff?
+Jonk Leit bis 20 Joer
+Jonk Leit iwwer 20 Joer, déi nach an d’Schoul ginn
+Leit, déi hiren Ofschloss um 2. Bildungswee nohuelen
+V hannert den dräi Pinktelcher:
+Wa si dat esou mengen …
+V wann de Punkt vun enger Ofkierzung oder enger Ordinalzuel mam
+Schlusspunkt zesummefält:
+
+10
+
+Dozou gehéieren Timberen, Mënzen, Béierglieser asw.
+De beschte Lëtzebuerger gouf 12.
+V bei Adressen:
+Jänni Männi
+23, Lëtzebuerger Strooss
+L–1234 Wemperhaart
+
+10.2.2 D’Ausruffzeechen
+En Ausruffzeeche markéiert en Ausruff. Dat kann eng Opfuerderung, e
+Befeel, e Wonsch sinn, awer och eng Begréissung oder eng Behaaptung, där
+ee méi Gewiicht wëllt ginn:
+
+D’Interpunktioun
+
+83
+
+Häls de wuel op! Géi direkt an deng Kummer! Du muss dat zu Enn
+bréngen! Wann ech dat do nach eemol gesinn, kanns de eppes erliewen!
+Wär dach nëmme geschwë Fréijoer! Kuck hei, wéi flott dat ginn ass!
+Wat eng Chance! Moien alleguer! Aua! Aua, du dees mer wéi!
+An de Bréiwer gëllt d’Ausruffzeeche bei der Uried als vereelzt. Hei kënnt e
+Komma amplaz:
+Här Direkter,
+wéi gëschter an der Sitzung …
+D’Ausruffzeeche steet direkt hannert deem leschte Buschtaf vum Saz; et
+kënnt kee Sputt virdrun.
+
+10.2.3 D’Froenzeechen
+E Froenzeeche markéiert eng Fro:
+Waars de schonn do?
+Soll ech der eppes matbréngen, wann ech an d’Stad fueren?
+Waart dir gëschter an de Kino? A wéi ee Film?
+Wëlls de léiwer Téi oder Kaffi? Firwat?
+D’Froenzeeche steet direkt hannert deem leschte Buschtaf vum Saz; et
+kënnt kee Sputt virdrun.
+Bemierkung: D’Kombinatioun ?! kann eng Fro markéieren, déi mat
+­Erstaunen oder an der Roserei gestallt gëtt.
+Du gees bei deem Wieder aus dem Haus?! So, hues du se nach all?!
+
+10.3 Markéierung vu Sazdeeler
+Zu de Sazzeechen, déi Sazdeeler vuneneen ofgrenzen, gehéieren:
+Komma, Stréchpunkt (Semikolon), Doppelpunkt, Gedankestréch,
+Klameren (ëmmer an der Koppel).
+An engem Saz kënne méi Kommae virkommen, Klamere ginn ëmmer op an
+zou, Doppelpunkt a Stréchpunkt solle just eemol virkommen, de Gedankestréch kann een- oder zweemol virkommen.
+
+10
+
+84
+
+D’Interpunktioun
+
+10.3.1 De Komma
+10.3.1.1 De Komma tëschent gläichrangege Sazdeeler
+Gläichrangeg Sazdeeler (also zum Beispill zwee oder méi gläichrangeg Haaptoder Niewesätz, Wuertgruppen an Opzielungen asw.) gi mat Komma getrennt:
+D’Liz koum ze spéit an d’Schoul, de Schoulmeeschter huet sech geiergert.
+Bei Kannerschong ass et wichteg, datt se net ze grouss sinn, datt se
+vir net drécken, datt d’Stréckelen net ze laang sinn, datt d’Form bei de
+Fouss passt.
+Hie reegt sech iwwer alles op, seng Kolleegen op der Schaff, d’Noperen,
+d’Membere vum Handballveräin, d’Personal am Restaurant.
+Gromperen, Äppel a Biere louchen am Kuerf.
+Si hu gesongen, gepaff, gejaut.
+Si hu séier, effikass, kompetent geschafft.
+Et kann sech net jidderee grouss, déck, deier Autoe leeschten.
+Ginn dës gläichrangeg Sazdeeler oder Deelsätz duerch d’Konjunktioune
+mee, awer oder d. h. (dat heescht) ageleet, muss e Komma gesat ginn:
+Mir wollte mam Auto fueren, mee et war ze glat.
+Et war lëschteg, awer och heiansdo traureg.
+Efforte ginn net just an der Grondschoul gemaach, mee och am Lycée.
+Si froen och no de Pabeieren, d. h. nom Fürerschäin an der Groer Kaart.
+Ginn dës gläichrangeg Sazdeeler oder Deelsätz duerch d’Konjunktiounen an,
+(entweeder …) oder, respektiv, (souwuel …) wéi (och) oder weeder … nach
+verbonnen, kënnt kee Komma:
+D’Liz koum ze spéit an d’Schoul an de Proff huet sech geiergert.
+Si hu gesongen a gepaff a gejaut. Mir komme muer oder iwwermuer.
+Entweeder mir leeschten eis en neien Auto oder eng Vakanz.
+
+10
+
+Mir mussen dat nach ausfëlle respektiv nei schreiwen.
+Hie ka weeder sangen nach danzen.
+Gëtt e Sazdeel nach erweidert oder eng Informatioun um Enn vum Saz
+ergänzt, steet e Komma, fir de Saz méi däitlech ofzegrenzen:
+D’Liz koum ze spéit an d’Schoul, an de Proff huet sech geiergert, well
+dat den Unterrecht stéiert.
+An du bass esou an d’Virstellungsgespréich gaangen, mat der futtisser
+Jeans an am T-Shirt?!
+Hie muss nach säin Text verbesseren, respektiv ganz Abschnitter nei
+formuléieren.
+
+D’Interpunktioun
+
+85
+
+10.3.1.2 Ofhängeg Haapt- an Niewesätz
+Sätz, déi vuneneen ofhänken, gi mat Komma vunenee getrennt. Dat betrëfft
+V zwee (net gläichrangeg) Haaptsätz:
+Si soten, dat wier nach ëmmer esou gemaach ginn.
+V en Haaptsaz an en Niewesaz:
+Hie géing sech freeën, wa mer kommen.
+V zwee (net gläichrangeg) Niewesätz:
+Hatt freet, ob ech de Kuch wëll schmaachen, deen hatt gebak huet.
+En Niewesaz ass en Deel vun engem Saz, dee vun engem Haaptsaz (oder
+och vun engem aneren Niewesaz) ofhänkt.
+Zu den Niewesätz gehéieren:
+V Finitsätz: Si hunn e finit Verb, also e Verb, dat net am Infinitiv oder
+Partizip steet,
+V Infinitivsätz: Si hunn en ze plus Infinitiv,
+V Partizipsätz: Si hunn e Partizip.
+
+10.3.1.3 Niewesätz mat enger finiter Verbform
+Si ginn dacks ageleet duerch
+V eng Konjunktioun ewéi awer/ma/mee, datt/dass, amplaz datt, bis datt,
+éier/ier, iwwerdeems, obschonns, wann, och wann, wéi, well.
+De Komma gëtt virun de respektiven Niewesaz gesat:
+Ech hu gelaacht, wéi hien am Clownskostüm erakoum.
+Et ass schéin, datt si komm sinn, obwuel se net vill Zäit haten.
+Mir hunn den Dësch gedeckt, iwwerdeems si d’Zalot preparéiert
+hunn.
+Si koum eréischt, nodeems hie scho fort war.
+Mir fueren, éier et däischter gëtt.
+Wann de Saz kéint mëssverstane ginn, musse Kommae fir déi korrekt
+Interpretatioun suergen:
+Ech freeë mech och, wann s de näischt matbréngs.
+Ech freeë mech, och wann s de näischt matbréngs.
+
+10
+
+86
+
+D’Interpunktioun
+
+Komplex Konjunktiounen ewéi egal ob, egal wéi, ëmmer wann, jee
+nodeem ob, jee nodeem wéi oder Kombinatioune mat Zäitangaben ewéi
+dräi Deeg ier, fënnef Minutten nodeems ginn net duerch e Komma
+ënnerbrach:
+Hie kënnt, egal ob et reent oder net.
+Ech kann den Text haut nach schécken, jee nodeem wéi gutt ech
+virukommen.
+Zéng Minutten nodeems ech aus dem Haus war, koum de Bréifdréier.
+V e Relativ- oder Interrogativpronomen ewéi deen, dat, déi, deem, deen,
+där, wéini, wiem, wou, firwat:
+Dat ass e Restaurant, dee mer iech wierklech recommandéiere
+kënnen!
+Du behëls dech wéi e Kand, deem d’Lutsch ewechgeholl gouf.
+Ech weess net, wéini ech dat nach soll maachen.
+Si wëssen net, wou hien drun ass.
+Hei kann eng Prepositioun virdrustoen:
+Et ass eng Vakanz, un déi mer nach laang wäerten denken.
+Hien huet sech iwwerluecht, mat wat hien si kéint iwwerraschen.
+Weess du, fir wéini de Chef dee Rapport brauch?
+Steet den Interrogativpronomen eleng am Deelsaz, ass de Komma
+fakultativ:
+Ech weess bis haut nach net firwat. Ech weess bis haut nach net,
+firwat.
+Mee: Ech weess nach haut net, firwat en dat gesot huet.
+Bemierkungen:
+V Wann de ganze Saz mam Niewesaz ufänkt, gëtt en hannendrunner mat
+engem Komma ofgegrenzt:
+
+10
+
+Wa mer éischter do sinn, hale mer iech eng Plaz fräi.
+Datt hien elo auswandert, kann ech mer bal net virstellen.
+Wou si de Moment an der Vakanz sinn, ass e schlëmme Stuerm.
+Firwat e mech an net dech gefrot huet, kann ech der net soen.
+V Wann den Niewesaz vum Haaptsaz ëmklamert gëtt, ginn zwee Kommae
+gesat:
+E Buch, dat mer gutt gefall huet, schenken ech gär weider.
+De Mueren, wéi ech wollt opstoen, war et immens kal.
+Ech kucken, ob den Dossier richteg gespäichert ass, an da ginn ech
+heem.
+
+D’Interpunktioun
+
+87
+
+10.3.1.4 Sätz mat engem ze-Infinitiv
+Bei Sätz mat engem ze-Infinitiv si verschidde Fäll ze ënnerscheeden.
+V Bei engem net erweiderten Infinitiv mat ze oder fir ze (plus Verb) kënnt
+kee Komma. Dat gëllt och, wann dësen Infinitiv vun engem Substantiv
+oder vu Wierder wéi eppes, näischt, vill, wéineg asw. ofhänkt:
+Dat Klengt probéiert ze lafen. Hien huet ugefaangen ze jäizen.
+Dat ass fir ze kräischen. Dat ass jo fir ze laachen.
+Dat ass just fir ze kucken, awer net fir z’iessen.
+Dat ass en Timber fir ze sammelen.
+Hues du eppes fir ze drénken derbäi?
+Hien huet vill ze schaffen.
+Se hunn näischt ze räissen an näischt ze bäissen.
+V Wann den einfachen ze- oder fir-ze-Infinitiv duerch e Korrelat/
+Verweiswuert ugekënnegt gëtt, kënnt kee Komma:
+Ech sinn dofir ofzestëmmen.
+Ech denken net dru fir opzehalen.
+V Wann den ze-Infinitiv vun engem Hëllefsverb (hunn, sinn) oder vun de
+Verbe brauchen oder schéngen ageleet gëtt, gëtt kee Komma gesat:
+Hien huet dat net ze maachen.
+Du hues hei näischt ze radetten.
+Dozou ass näischt ze soen.
+Mir brauchen net op hien ze waarden.
+Dat schéngt nach net bei jidderengem ukomm ze sinn.
+V E Komma muss gesat ginn, wann de fir-ze-Infinitiv erweidert ass. Zu
+dësen Erweiderungen zielen Objeten oder aner Sazelementer, e weideren
+ze-Saz an och Niewesätz, déi vun dësem Infinitiv ofhängeg sinn:
+Hien ass do, fir eis ze hëllefen. (Erweiderung: eis) Mee: Hien ass do
+fir ze hëllefen. (keng Erweiderung)
+Ech muss bis an d’Nopeschduerf fueren, fir Bréidercher ze kréien.
+(Erweiderung: Bréidercher)
+Wou ass de Formulaire, fir sech anzeschreiwen? (Erweiderung: sech)
+Si si komm, fir mat hinnen ze schwätzen. (Erweiderung: mat hinnen)
+Dat ass, fir geckeg ze ginn. (Erweiderung: geckeg)
+Hues du eppes derbäi, fir den Owend z’iessen, oder solle mer eng
+Pizza bestellen? (Erweiderung: den Owend)
+Si maache super Musek, fir ze lauschteren an ze genéissen.
+(Erweiderung: an ze genéissen)
+Dat ass, fir ze wëssen, wéi et geet. (Erweiderung: wéi et geet)
+
+10
+
+88
+
+D’Interpunktioun
+
+Dat ass eng Testmail, fir ze kucken, ob et klappt. (Erweiderung: ob et
+klappt)
+V E Komma muss gesat ginn, wann den Infinitiv (erweidert oder net
+erweidert) duerch eng Konjunktioun ageleet gëtt wéi:
+V amplaz … ze:
+Si sollten sech d’Hand reechen, amplaz d’Fauscht an der Täsch
+ze maachen.
+Sot frëndlech Bonjour, amplaz ze motzen.
+V ouni … ze:
+Laf net iwwer d’Strooss, ouni riets a lénks ze kucken.
+Maach, wat si seet, ouni ze maulen.
+V wéi … ze (däitsch als):
+Si hätt besser gehat, hiert Kand ze stéieren, wéi mat der Nopesch
+ze streiden.
+Et ass him näischt anescht iwweregbliwwen, wéi matzegoen.
+V ausser ... ze:
+Mir kënnen am Fong net vill maachen, ausser ze sensibiliséieren.
+V E Komma muss gesat ginn, wann eng erweidert Infinitivgrupp:
+V vun engem Substantiv ofhänkt:
+Et ass d’Fuerderung un d’Gewerkschaften, e Sozialplang
+auszeschaffen.
+Et ass d’Fuerderung un d’Dokteren, de Patienten nozelauschteren.
+Säi Wonsch huet sech net erfëllt, alles mat Zäit fäerdeg ze hunn.
+De Gedanke war ze schéin, alles falen a leien ze loossen.
+Si hunn sech fir d’Course ugemellt mam Zil, se héich ze
+gewannen.
+
+10
+
+V ugekënnegt gëtt oder erëm opgeholl gëtt, mat engem Verweiswuert
+ewéi et, dat, dëst, domat, dorop, duerfir:
+Et ass besser, direkt ze goen. Mee: Et ass besser ze goen.
+Mat Leit ze dinn ze hunn, dat huet hir am meeschte Spaass
+gemaach.
+An hiren Aen ass et wichteg, d’Patienten direkt ze behandelen.
+Elo kënnt et drop un, alles no Plang ze maachen.
+Als Éischten iwwer d’Zillinn ze lafen, domat hat hien net gerechent.
+Ech hunn hien dozou opgefuerdert, dat alles leien ze loossen.
+V An deenen anere Fäll ka bei engem erweiderten ze-Infinitiv e Komma
+gesat ginn, fir de Saz méi däitlech ze maachen:
+Ech hu wéi laang probéiert(,) him unzeruffen.
+
+D’Interpunktioun
+
+89
+
+En huet vergiess(,) sech ofzemellen.
+Hei ze wunnen(,) ass net grad bëlleg.
+Déi nei Programmer probéieren(,) engem d’Liewe méi einfach ze
+maachen.
+V E Komma muss gesat ginn, fir Mëssverständnisser auszeschléissen:
+Si beschléissen zesummen, ze hëllefen.
+Si beschléissen, zesummen ze hëllefen.
+Mir verspriechen him, eppes Klenges bäizeleeën.
+Mir verspriechen, him eppes Klenges bäizeleeën.
+
+10.3.1.5 Sätz mat enger Partizipgrupp
+Eng Partizipgrupp besteet aus engem Partizip plus eppes, wat dëse Partizip
+charakteriséiert:
+V Adverben: fatzeg geplot, gutt verpaakt, waarm ugedoen ...
+V Verbkomplementer: vum Liewen enttäuscht, wéi virdrunner scho
+beschwat …
+Meeschtens ass de Komma hei fakultativ:
+Vun dësem Standpunkt aus gekuckt(,) gesäit dat ganz anescht aus.
+Op d’Zuel vun de Mataarbechter bezunn(,) ass dat nëmmen e klengen
+Deel.
+En ass(,) déif beleidegt(,) senger Wee gaangen.
+Wéi scho gesot(,) ass dat do eréischt d’nächst Woch fäerdeg.
+Esou gesinn(,) huet e Recht.
+Streng geholl(,) kënne mer dat maachen.
+Ech hunn(,) éierlech gesot(,) keng Zäit dofir.
+Gëtt de Partizip nogestallt, gëtt e vum Saz mat engem Komma ofgetrennt:
+En ass senger Wee gaangen, déif beleidegt.
+De Partizip kann de Sujet vum Saz sinn. Da kënnt kee Komma:
+Gutt geknat ass hallef verdaut.
+
+10.3.2 Appositiounen, Zousätz, Urieden asw.
+Si gi mat Komma ofgetrennt:
+De Pit, dee beschte Spiller vum Veräin, hält d’nächst Saison op.
+Den Nico Helminger an de Guy Helminger, zwee Lëtzebuerger Auteuren,
+hunn och scho Präisser am Ausland kritt.
+O jee, wat hues de dann do gestiicht?
+Här Séngels, kënnt Dir eis wgl. eng Hand upaken?
+
+10
+
+90
+
+D’Interpunktioun
+
+10.3.3 De Stréchpunkt (Semikolon)
+De Stréchpunkt gëtt da gesat, wann e Punkt ze staark an e Komma ze
+schwaach trennt. Et kënnt kee Sputt virdrun.
+Agesat gëtt de Stréchpunkt:
+V bei Opzielungen, fir eenzel Gruppe besser vuneneen ze trennen:
+Mir hu gebak: Äppeltaarten, Eclairen a Rubbarbstäertercher;
+Karbrout, Bottermëllechbréidercher a Spelztrëtzen.
+V tëscht gläichrangege Sätz, déi enk matenee verbonne sinn:
+Dat Buch ass wierklech interessant; et si vill flott Iddien dran.
+
+10.3.4 Den Doppelpunkt
+Den Doppelpunkt markéiert en Iwwergank oder kënnegt eppes un; dat kann
+och eng Opzielung sinn oder eng direkt Ried. Et kënnt kee Sputt virdrun.
+Nom Doppelpunkt schreift ee grouss:
+V wann eng direkt Ried hannendrukënnt:
+No der Stonn huet si op eemol gefrot: „Hues du eigentlech alles
+verstanen haut?“
+V wann e selbstännege Saz hannendrukënnt:
+Et ass esou: Wann s du et haut net méchs, da muss de dech muer
+drëm këmmeren.
+D’Fro ass: Wat geschitt elo? Iwwerhaapt: Häss du dat da geduecht?
+Wann dat, wat hannert dem Doppelpunkt kënnt, grammatikalesch zwar kee
+ganze Saz, ma awer als geschlossen Eenheet ka betruecht ginn, däerf een
+och groussschreiwen:
+Ech hu seng Blénkzeeche gesinn: Alles an der Rei! (oder: alles an der
+Rei!).
+
+10
+
+Mir wossten nëmmen eppes: Séier fort! (oder: séier fort!)
+Soss gëtt klenggeschriwwen:
+Si haten alles agepaakt: déck Pulloveren, wëlle Strëmp, Händschen a
+Mutzen.
+Nodeems ech alles iwwerduecht hat, hat ech mer et scho bal erwaart:
+datt hien net géif kommen.
+Den Doppelpunkt gëtt och gebraucht, fir Zäiten, Auerzäiten oder e Verhältnis
+tëscht Zuelen unzeginn:
+Et ass elo 10:30 Auer.
+Mir sinn do vun 8:00 bis 12:00.
+Dee Leefer ass mat 3:03:35,58 seng perséinlech Beschtzäit gelaf.
+
+D’Interpunktioun
+
+91
+
+Den F91 huet 4:3 géint de Progrès gewonnen.
+D’Kaart ass am Moossstaf 1:25000.
+D’Chancë sti 50:50.
+Et war eng kloer 1:5-Néierlag.
+De Mulles gewënnt mat 6:3, 6:3 a 7:5.
+Gelies gëtt den Doppelpunkt als zu (bei de Resultater vun engem Sportsmatch wéi am leschte Beispill ginn och dacks just d’Zuele gelies); virun an
+hannert dem Doppelpunkt kann een och e Sputt setzen.
+
+10.3.5 De Gedankestréch
+De Gedankestréch kann eenzel am Saz gebraucht ginn oder awer an der
+Koppel.
+Eenzel steet de Gedankestréch tëscht Wierder oder Wuertgruppen a
+markéiert eng Paus, en Iwwergank oder eng besonnesch Betounung:
+Flott ze kucken – einfach ze maachen (Titel)
+Madrid – Roum – London
+Einfach – séier – gutt (Reklamm)
+D’Eeër derbäiginn – réieren – nach eemol waarm gi loossen – fäerdeg!
+Ech koum an de Raum, hu ronderëm mech gekuckt an – do stoung et!
+An Dialoge markéiert den einfache Gedankestréch de Spriecherwiessel:
+„Komm emol kucken.“ – „Ech sinn direkt do.“
+Gedankestrécher grenzen Zousätz, déi an de Saz geréckelt goufen, vun
+dësem Saz of. D’Trennung ass méi staark wéi beim Komma:
+Enges Daags – et war am Dezember – koum en dunn erëm.
+Enges Daags, et war am Dezember, koum en dunn erëm.
+Wuertgruppen, déi duerch Gedankestrécher ofgesat sinn, kënnen en Ausruffzeechen oder Froenzeechen um Enn hunn:
+An dunn huet hien – du gleefs et net! – eng fantastesch Ried gehalen.
+An dunn huet hien – weess de dat nach? – eng fantastesch Ried
+gehalen.
+Am Saz selwer stinn d’Sazzeechen esou, wéi wann dat Ageréckelt net do
+wier. Tëscht dem zweete Gedankestréch an dem Sazzeeche gëtt kee Sputt
+gelooss:
+Si hunn decidéiert – an dat huet eis net iwwerrascht –, dass si ouni hien
+d’Geschäfter ofwéckelen.
+An du sot hien him – en huet sech dobäi net emol ëmgedréit –: „Wann s
+du dat gleefs, brauchs de net méi erëmzekommen.“
+
+10
+
+92
+
+D’Interpunktioun
+
+10.4 D’Zeeche fir d’direkt Ried
+Si trieden ëmmer an der Koppel op: um Ufank an um Enn vum jeeweilegen
+Text.
+
+10.4.1 Gänseféisercher
+Mat Gänseféisercher kann een eenzel Wierder, Ausdréck, Titelen asw.
+ofgrenzen. Alternativ kann een eng aner Schrëftaart benotzen.
+De Roman „Hannert dem Atlantik“ gëtt als „neie Lëtzebuerger Roman“
+gefeiert.
+„Am Pëtz do sëtzt de Kropemann“ ass den Ufank vun engem Gedicht
+vum Willy Goergen.
+Nenn mer e puer Substantive mat der Endung „-heet“!
+Wéi seet ee „merci“ op Suaheeli?
+Hues de scho „Kenns du dat Land?“ gelies?
+Direkt Ried, Gedanken, Zitater stinn och tëscht Gänseféisercher:
+„Wéi ech heemkoum“, sot si, „waren d’Rolllueden all erof.“
+„Dat war et da wuel“, duecht hien.
+Ass en Zitat méi laang, kann een en Doppelpunkt setzen:
+Aus wéi engem Gedicht sinn dës Zeilen: „Muss een da fir all Maufel
+Brout – an dausend Ängschte schwiewen“?
+D’Gänseféisercher bestinn am Normalfall aus duebele Stréchelcher ënnen
+an uewen. Wann een awer en Zitat an engem Zitat huet, gëtt dat mat engem
+einfache Stréchelchen ënnen an uewe verschrëftlecht:
+„Wéi seet ee ,Kammerjäger‘ op Lëtzebuergesch?“
+
+10
+
+10.4.2 Gänseféisercher an aner Sazzeechen
+Sazzeechen, déi zur Ried gehéieren, bleiwe bannent de Gänseféisercher.
+Hie sot: „Ech kommen um 10 Auer.“
+Bei direkter Ried, déi duerch e Begleetsaz ënnerbrach gëtt, gëtt all Deel vun
+der direkter Ried a Gänseféisercher gesat:
+„Ech kommen um 10 Auer“, sot hien, „a bréngen alles mat.“
+De Begleetsaz ka sech opdeelen:
+Hie sot: „Ech kommen um 10 Auer“, an huet agehaangen.
+Kënnt de Begleetsaz hannert der direkter Ried, gëtt mat Komma ofgetrennt,
+och dann, wann d’direkt Ried mat engem Ausruffzeechen oder Froen­
+zeechen ofschléisst:
+
+D’Interpunktioun
+
+93
+
+„Ech komme muer um 10 Auer“, huet hie versprach.
+„Um wéi vill Auer kënns de?“, huet hie gefrot.
+„Muer de Mueren“, sot hien, „gi mer zesumme Kaffi drénken.“
+Ass déi direkt Ried net mat engem Begleetsaz verbonnen, steet d’Sazzeeche
+bannent de Gänseféisercher:
+„Muer de Muere kommen ech um 10 Auer an da gi mer Kaffi drénken.“
+Esou sot hien nach, ier en agehaangen huet.
+Wann de Begleetsaz en Ausruffzeechen oder Froenzeeche verlaangt, kënnt
+dat hannert der direkter Ried:
+So him et riichteraus: „Hal op!“! Firwat hues de net gesot: „Géi elo
+direkt!“?
+
+10.5 Weider Zeechen
+10.5.1 Den Apostroph
+Den Apostroph gëtt gesat fir ze markéieren, datt bei bestëmmte Wierder
+eppes ewechgelooss gouf. Dat gëllt virun allem fir schwaach Artikelen a
+kuerz Funktiounswierder mat e (cf. 2.3.3):
+d’Haus, d’Këscht, d’Schosselen
+eppes z’iessen, ’t ass kal
+Wa geschwate Sprooch verschrëftlecht gëtt, markéiert den Apostroph ewechgeloosse Wuertdeeler:
+Da’s (Dat ass) domm gaang!
+Hues de s’all gesinn? Hues d’et gesinn? oder: Hues de ’t gesinn?
+A Gedichter steet muenchmol den Apostroph fir ewechgeloosse Buschtawen
+oder Wuertdeeler, fir op déi richteg Silbenzuel ze kommen:
+Se sangen d’Biergerjongen
+se maache Paangechsdeeg,
+se heesche Bier’n a Bounen:
+Speck, Är mä keng Streech.
+(Michel Rodange. Renert. IX. Gesank. 345-352
+aus: 190 Joer Michel Rodange. Gemeng Waldbëlleg, 2017. S. 70)
+
+Bemierkungen:
+V Wa Pronomen (de/d’, se/s’), Artikelen (déi/d’) oder aner Funktiouns­
+wierder (ze/z’) hanne gekierzt ginn, kënnt kee Sputt hannert dem
+Apostroph:
+Has d’n e gesinn?
+D’Kanner hate vill z’entdecken.
+
+10
+
+94
+
+D’Interpunktioun
+
+V Wa Pronomen (et/’t, hien/’n) vir gekierzt ginn, gëtt e Sputt virun den
+Apostroph gesat:
+Huet hien ’t scho gefrot? Ass ’n och do?
+V Wann eenzel Wierder vun anere Wuertaarte gekierzt ginn, gëtt virun dem
+respektiv hannert dem Apostroph e Sputt gesat:
+Salut an ’n Owend alleguer! Bass du na’ bliwwen?
+
+10.5.2 Zuelen
+Bei Zuelen deelt de Komma den Dezimaldeel of vun der ganzer Zuel:
+3,25
+100,7
+Fir d’Dausendertrennung gëtt fir eng besser Liesbarkeet e Sputt oder e
+Punkt geholl; dës Trennung ass fakultativ:
+100 000 oder 100.000 oder 100000
+123 890,45 oder 123.890,45 oder 123890,45
+Bemierkung: An England an an Amerika huet de Punkt bei den Zuelen
+d’Funktioun, den Dezimaldeel ofzegrenzen, an de Komma deelt
+Dausendergruppen:
+10,843.25 amplaz 10 843,25
+
+10
+
+D’Interpunktioun
+
+95
+
+D’Buschtawen an d’Lauter
+Dës Iwwersiicht orientéiert sech un de Prinzippie vun der Internationaler
+Phoneetescher Associatioun (IPA) an ass fir d’Lëtzebuergescht ausgeschafft
+gi vun:
+Gilles, Peter & Trouvain, Jürgen (2013): [Illustrations of the IPA]
+Luxembourgish. Journal of the International Phonetic Association 43:
+67-74.
+Méi Informatioune fënnt een och um Fuerschungsportal Infolux vum Institut
+fir lëtzebuergesch Sprooch- a Literaturwëssenschaft op der Universitéit
+Lëtzebuerg:
+https://infolux.uni.lu/phonetik/lautstruktur-des-luxemburgischen/
+
+96
+
+Wéi eng Buschtawe sti fir wéi eng Lauter?
+
+I. Wéi eng Buschtawe sti fir
+wéi eng Lauter?
+Dat phoneetescht Zeeche steet tëscht eckege Klameren, déi concernéiert
+Buschtawe si fett.
+D’Buschtawe mat Accent oder Ëmlaut ä, ë, é, ö, ü sti respektiv bei a, e, o, u.
+
+I
+
+a
+
+[a:]
+
+Kap
+
+a
+
+[ɑ]
+
+Mann
+
+ä
+
+[æ]
+
+Männer
+
+aa
+
+[a:]
+
+aacht
+
+ai
+
+[ɑɪ]
+
+Lais
+
+äi
+
+[æ:ɪ]
+
+Zäit
+
+är
+
+[εɐ]
+
+Kär
+
+au
+
+[æ:ʊ]
+
+Laus
+
+au
+
+[ɑʊ]
+
+Auto
+
+b
+
+[b]
+
+Ball
+
+b
+
+[p]
+
+ob
+
+bb
+
+[b]
+
+labber
+
+bb
+
+[p]
+
+Robb
+
+c
+
+[k]
+
+Locatioun
+
+c
+
+[s]
+
+merci
+
+ch
+
+[ɕ]
+
+Liicht
+
+ch
+
+[k]
+
+sechs
+
+ch
+
+[x]
+
+Kuch
+
+ch
+
+[ʃ]
+
+Chef
+
+ck
+
+[k]
+
+kucken
+
+d
+
+[d]
+
+déi
+
+d
+
+[t]
+
+Geld
+
+dd
+
+[d]
+
+Äddi
+
+dd
+
+[t]
+
+Lidd
+
+e
+
+[e:]
+
+mega
+
+e
+
+[e]
+
+Musek
+
+e
+
+[ə]
+
+net
+
+e
+
+[æ]
+
+hell
+
+é
+
+[e]
+
+Méck
+
+ë
+
+[ə]
+
+dënn
+
+ee
+
+[e:]
+
+Eemer
+
+Wéi eng Buschtawe sti fir wéi eng Lauter?
+
+ei
+
+[ɑɪ]
+
+Steieren
+
+éi
+
+[ɜɪ]
+
+véier
+
+er
+
+[ɐ]
+
+Eemer
+
+f
+
+[f]
+
+Faarf
+
+ff
+
+[f]
+
+Peffer
+
+g
+
+[g]
+
+Geess
+
+g
+
+[k]
+
+Drog
+
+g
+
+[ʒ]
+
+Regierung
+
+g
+
+[ɕ]
+
+richteg
+
+g
+
+[ɣ]
+
+Kugel
+
+g
+
+[x]
+
+Dag
+
+gg
+
+[g]
+
+Bagger
+
+gg
+
+[k]
+
+Dogg
+
+h
+
+[h]
+
+hei
+
+i
+
+[i:]
+
+riseg
+
+i
+
+[i]
+
+midd
+
+ie
+
+[iə]
+
+hien
+
+ie
+
+[i:]
+
+Fantasie
+
+ii
+
+[i:]
+
+Biischt
+
+j
+
+[j]
+
+Joer
+
+j
+
+[ʑ]
+
+jéimeren
+
+j
+
+[ʒ]
+
+Jackett
+
+j
+
+[ʤ]
+
+Jeans
+
+k
+
+[k]
+
+Keess
+
+l
+
+[l]
+
+Leit
+
+ll
+
+[l]
+
+Abrëll
+
+m
+
+[m]
+
+Mann
+
+mm
+
+[m]
+
+ëmmer
+
+n
+
+[n]
+
+Nues
+
+ng
+
+[ŋ]
+
+brong
+
+nk
+
+[ŋk]
+
+jonk
+
+nn
+
+[n]
+
+kënnen
+
+o
+
+[o:]
+
+Schof
+
+o
+
+[o]
+
+Loft
+
+ö
+
+[ø:]
+
+blöd
+
+oo
+
+[o:]
+
+Sprooch
+
+ou
+
+[əʊ]
+
+Schoul
+
+ou
+
+[u:]
+
+Routine
+
+p
+
+[p]
+
+paken
+
+pp
+
+[p]
+
+Kapp
+
+97
+
+I
+
+98
+
+I
+
+Wéi eng Buschtawe sti fir wéi eng Lauter?
+
+qu
+
+[kw]
+
+Quell
+
+qu
+
+[k]
+
+Casque
+
+r
+
+[ʀ]
+
+Rou
+
+rr
+
+[ʀ]
+
+Terrain
+
+s
+
+[s]
+
+lues
+
+s
+
+[z]
+
+Tasen
+
+sch
+
+[ʃ]
+
+Schoul
+
+sp
+
+[ʃp]
+
+Spuet
+
+ss
+
+[s]
+
+Taass
+
+st
+
+[ʃt]
+
+Steen
+
+t
+
+[t]
+
+Téi
+
+tt
+
+[t]
+
+Fett
+
+u
+
+[u:]
+
+Tut
+
+u
+
+[u]
+
+gutt
+
+ü
+
+[y:]
+
+Süden
+
+ü
+
+[y]
+
+Küst
+
+ue
+
+[uə]
+
+huet
+
+uu
+
+[u:]
+
+Duuscht
+
+v
+
+[f]
+
+véier
+
+v
+
+[v]
+
+Vëlo
+
+w
+
+[v]
+
+wëschen
+
+w
+
+[f]
+
+Léiw
+
+w
+
+[w]
+
+schwaarz
+
+ww
+
+[v]
+
+Hiwwel
+
+x
+
+[ks]
+
+Box
+
+y
+
+[i]
+
+Typ
+
+y
+
+[i:]
+
+Analys
+
+y
+
+[y:]
+
+Python
+
+z
+
+[ts]
+
+Zuch
+
+Iwwerbléck vun de Konsonanten am Lëtzebuergeschen
+
+99
+
+II. Iwwerbléck vun de
+Konsonanten am
+Lëtzebuergeschen
+bilabial labio-­ alveolar post-­ alveolo-­ palatal velar uvular glottal
+dental
+alveolar palatal
+Plosivlauter
+
+pb
+
+Reiflauter
+
+td
+fv
+
+Affrikaten
+Nasalen
+
+m
+
+kg
+
+sz
+
+ʃʒ
+
+ts
+
+ʧ
+
+ɕʑ
+
+n
+
+Gleitlauter
+
+h
+
+x ɣ1
+ŋ
+
+l
+
+j
+
+w2
+
+Schwénglauter
+
+ʀ3
+
+Fir déi zwee Lauter gëtt et och uvular Varianten: [χ] an [ʁ].
+[w] kann och labio-velar geschwat ginn.
+3
+Fir [ʀ] gëtt et och d’Reiflautvariant [ʁ].
+1
+2
+
+II.1
+
+Obstruenten
+
+[p]
+
+paken
+
+Kapp
+
+ob
+
+[b]
+
+baken
+
+bléien
+
+labber
+
+[t]
+
+Téi
+
+fett
+
+Geld
+
+[d]
+
+déi
+
+Dauf
+
+Äddi
+
+[k]
+
+Keess
+
+kucken
+
+Locatioun
+
+[g]
+
+Geess
+
+goen
+
+Bagger
+
+[f]
+
+fëschen
+
+Peffer
+
+véier
+
+[v]
+
+wëschen
+
+Hiwwel
+
+Vakanz
+
+[s]
+
+Taass
+
+lues
+
+Merci
+
+[z]
+
+Tasen
+
+Summer
+
+Salz
+
+[ʃ]
+
+Biischt
+
+Steen
+
+Chef
+
+[ʒ]
+
+Jackett
+
+just
+
+Regierung
+
+[ɕ]
+
+Liicht
+
+sécher
+
+richteg
+
+[ʑ]
+
+Spigel
+
+héijen
+
+eegen
+
+[x]
+
+Kuch
+
+aacht
+
+Dag
+
+[ɣ]
+
+Kugel
+
+Jugend
+
+verlugen
+
+[h]
+
+hei
+
+haut
+
+unhalen
+
+[ts]
+
+Zuch
+
+schwätzen
+
+nuets
+
+[ʧ]
+
+Rutsch
+
+Kutsch
+
+däitsch
+
+II
+
+100
+
+Iwwerbléck vun de Konsonanten am Lëtzebuergeschen
+
+II.2 Sonoranten
+[m]
+
+Mamm
+
+Mann
+
+ëmmer
+
+[l]
+
+kill
+
+Leit
+
+Abrëll
+
+[n]
+
+Mann
+
+Nues
+
+kënnen
+
+[j]
+
+jo
+
+Jeeër
+
+Joer
+
+[ŋ]
+
+keng
+
+sangen
+
+jonk
+
+[ʀ]
+
+Rou
+
+Reen
+
+Terrain
+
+[w]
+
+schwaarz
+
+Workshop
+
+Quell
+
+Bemierkungen:
+V [ʤ] kënnt nëmmen a Friemwierder aus dem Englesche vir ewéi Jeans,
+[pf] nëmmen a Friemwierder aus dem Däitschen ewéi Kampf.
+V [dz] ewéi a spadséieren ass seelen.
+V [x] an [ɕ] wéi och [ɣ] an [ʑ] sinn allkéiers Allophone vun deem selwechte
+Phoneem, woubäi [ɣ] seele virkënnt.
+V Et gëtt och eng staark Tendenz, datt [ʑ] an [ʒ] alle béid ewéi [ʑ]
+geschwat ginn. Dat ass och esou bei [ʃ] an [ɕ], déi ewéi [ɕ] geschwat
+ginn.
+
+II
+
+Iwwerbléck vun de Vokaler am Lëtzebuergeschen
+
+101
+
+III. Iwwerbléck vun de Vokaler
+am Lëtzebuergeschen
+All einfache Vokal (Monophthong) an all Duebellaut (Diphthong) steet hei
+drënner am Vokalvéiereck, deen d’Positioun vun der Zong ongeféier erëmgëtt. Fir all Vokal ass dat phoneetescht Zeechen uginn, an et stinn och zwee
+Wierder als Beispill derbäi.
+
+III.1 Monophthongen
+i: i
+
+u: u
+e:
+
+o:
+e
+
+o
+
+ə
+
+ɛ:
+
+ɐ
+
+ɑ
+
+a:
+
+æ
+
+Bemierkung: ɐ kënnt just onbetount vir.
+
+Laang Vokaler
+
+Kuerz Vokaler
+
+[i:]
+
+Liicht
+
+riseg
+
+[i]
+
+midd
+
+Hiwwel
+
+[e:]
+
+Keess
+
+Meter
+
+[e]
+
+Méck
+
+kéng
+
+[ɛ:]
+
+Stären
+
+Päerd
+
+[ə]
+
+dënn
+
+net
+
+[æ]
+
+hell
+
+Männer
+
+[a:]
+
+aacht
+
+Kap
+
+[ɑ]
+
+Kapp
+
+blann
+
+[o:]
+
+Sprooch
+
+Schof
+
+[o]
+
+Loft
+
+Post
+
+[u:]
+
+Duuscht
+
+Tut
+
+[u]
+
+gutt
+
+Pull
+
+Fir geléinte Wierder aus dem Franséische sinn zousätzlech nach déi dräi
+Nasalvokaler [ɛ̃ ] (Timber), [ɑ̃] (Arrangement) an [ɔ̃] (Bonbon) unzehuelen.
+Donieft kënnen heiansdo och weider phoneetesch Eegenschafte vum
+
+III
+
+102
+
+Iwwerbléck vun de Vokaler am Lëtzebuergeschen
+
+Franséischen an d’Lëtzebuergescht iwwerholl ginn, z. B. den [wɑ] an
+Toilette. D’Aussprooch an d’Schreifweis riichte sech an deene Fäll nom
+Franséischen.
+
+III.2 Diphthongen
+iə
+
+uə
+əʊ
+
+ɜɪ
+æ:ɪ
+
+æ:ʊ
+
+ɑɪ
+
+ɑʊ
+
+[iə]
+
+hien
+
+Wieder
+
+[uə]
+
+Hues
+
+gruewen
+
+[ɜɪ]
+
+fréi
+
+schéin
+
+[əʊ]
+
+Schoul
+
+Kou
+
+[æ:ɪ]
+
+Zäit
+
+wäiss
+
+[æ:ʊ]
+
+Raum
+
+Haut
+
+[ɑɪ]
+
+Leit
+
+Weis
+
+[ɑʊ]
+
+raumen
+
+haut
+
+A geléinte Wierder kënnt doriwwer eraus nach den Diphthong [ɔɪ] vir,
+geschriwwen dann als eu, äu oder oi (Europa, enttäuscht, Boiler). Dee Laut
+an de Wierder Moien, moies ass keen Diphthong, well e sech op zwou Silbe
+verdeelt [mɔ-jən].
+
+III
+
+﻿
+
+103
+
+Dat geschriwwent Lëtzebuergescht
+vum Ufank bis haut
+
+III
+
+﻿
+
+D’Geschicht vun der Lëtzebuerger Sprooch
+
+105
+
+D’Geschicht vun der
+Lëtzebuerger Sprooch
+Lëtzebuergesch gëtt scho laang Zäit an der Géigend ëm den haitege Grand-Duché
+geschwat. Mee eréischt wéi sech déi international Positioun vu Lëtzebuerg am
+19. Joerhonnert consolidéiert hat, gouf ugefaangen, sech méi konkreet mat der
+Sproochesituatioun zu Lëtzebuerg ausernanerzesetzen.
+Éischt Versich, fir eng Schreifweis festzeleeën an eng Bestandsopnam vun der
+Alldags­sprooch ze maachen, gouf et an der Mëtt vum 19. Joerhonnert am Kontext vun
+der Literatur. Et ware Schrëftsteller, déi gezwonge waren, sech Gedanken iwwer eng
+Schreifweis ze maachen, wann se op Lëtzebuergesch wollte schreiwen. Dofir hunn
+d’Auteuren dacks am Vir- oder am Nowuert vun hirem Wierk hir eege Schreifweis
+erkläert, fir dem Lieser d’Texter esou méi einfach zougänglech ze maachen.
+Déi eenzel Auteuren haten dobäi allerdéngs ganz verschidden Usätz, déi nach laang
+fir Diskussioune gesuergt hunn. Se waren sech alleguerten eleng doriwwer eens, datt
+Lëtzebuergesch en däitschen Dialekt wier. Den Antoine Meyer, deen am Virwuert vu
+sengem 1829 publizéierte Wierk E’ Schrek ob de’ Lezeburger Parnassus e puer vu
+sengen orthografesche Reegelen erkläert, schwätzt vun onzem Dialekt. Säin Haaptgrondsaz steet am 4. Artikel:
+„Ech hu’ mech, iverhaabt, a’ menger Manéer ze orthographiéeren, noh dese’
+Grondsaetz geriicht:
+1. Ech schreive’ mat den Zeeche’ vun den Toenn dé mein Oher fillt;
+2. Ech haale’ mech sò vill als meglech oien der Orthographie vun den
+hòhdeitschen Mondaarten;
+3. An den transforméerte’ Wiirder sichen ech, wo meglech d’Zeeche’ vu’m
+Grondtòn beizebehaalen; sò schreiven ech Toenn, well et vun Ton koemt;
+4. Ech hoielen doiebel oder eenzeg Bustaave’ fir d’Laengt oder d’Kiirzt vun
+den Toenn ze bezeechnen;
+5. De Gebrauch vum Apostrof tret als Zeechen vun de’ Bustaaven an dé, fir
+d’Oher ze befriedegen, musse’ wegfaalen. Den n, z. B., am Enn vun de
+Wiirder, faellt bei enger Konsonant, dé drob folgt, aus; de’ Konsonant
+muss over keen d, t oder z sen.“
+
+106
+
+D’Geschicht vun der Lëtzebuerger Sprooch
+
+1854 huet den Antoine Meyer seng Iwwerleeungen zu der Lëtzebuerger Orthografie
+am Wierk Règelbüchelchen vum Lezeburger Orthoegraf erausbruecht.
+Den Edmond de la Fontaine, Dicks genannt, schwätzt am Nowuert vum éischten Theaterstéck op Lëtzebuergesch, De Scholtscheîn, vun onst Deitsch a publizéiert 1855 e
+Buch mam Titel Versuch über die Orthographie der luxemburger deutschen Mundart,
+an deem en deen heiten Haaptgrondsaz virschreift:
+„Die Schriftsprache gibt überhaupt nur das Wort, nicht aber seine Bedeutung wieder, d. h., mittels der Schrift werden vor allem Laute, nicht Begriffe unterschieden. Hieraus fließt nun das oberste Gesetz der Orthographie:
+Das Wort soll geschrieben werden wie es ausgesprochen wird.“
+Am nämmlechte Joer koum mam Peter Klein senger Etüd Die Sprache der Luxemburger den éischte Versuch vun enger sproochhistorescher Anuerdnung vum Lëtzebuergeschen eraus, an där hien enger lëtzebuergescher Schrëftsprooch allerdéngs
+keng grouss Zukunft prophezeit. Och dësen Auteur verankert d’Lëtzebuergescht ganz
+däitlech am däitschen Dialektspektrum.
+E puer Joer virdru war 1848 mam Jean-François Gangler sengem Lexicon der Luxemburger Umgangssprache deen éischten Dictionnaire vum Lëtzebuergeschen erauskomm. Dora waren d’Wierder op Däitsch an op Franséisch iwwersat. Dëst huet op déi
+méisproocheg Situatioun zu Lëtzebuerg higewisen, déi sech doduerch charakteriséiert
+huet, datt wirtschaftlech gesinn d’Bezéiunge mat Däitschland a mam Däitschen am
+wichtegste waren, d’Bildungselitten sech dem Franséischen an der franséischer Kultur zougewannt hunn an am Alldag Lëtzebuergesch geschwat gouf. Dës enk Relatioune mat den Nopeschlänner haten natierlech en Afloss op d’Sproochentwécklung an
+et däerf een dobäi net vergiessen, datt d’Lëtzebuergescht net nëmme vun Däitschland
+a vu Frankräich beaflosst gouf, mee och vun der Belsch. No der belscher Revolutioun
+vun 1830, där Lëtzebuerg sech ugeschloss hat, stoung Lëtzebuerg eng Rei Joren
+ënner belscher Verwaltung, éier 1839 d’Land an zwee gedeelt gouf: déi belsch Province de Luxembourg an den haitege Grand-Duché, dee viru bis 1890 dem hollännesche Kinnek ënnerstoung. Eng ganz Partie Wierder vun der Lëtzebuerger Sprooch
+sinn net, oder wéinstens net an där Bedeitung, déi eis geleefeg ass, aus Frankräich
+oder aus Däitschland, mee aus der Belsch: bëselen, blénken, Klensch, Tapis plain,
+Tirett, Torschong.
+Wann d’Lëtzebuergescht am 19. Joerhonnert an der Literatur lues a lues seng Nisch
+fonnt huet, sou huet den offizielle Gebrauch vum Lëtzebuergeschen awer op sech
+waarde gelooss. Un e schrëftleche Gebrauch war guer net ze denken, an an allen offiziellen Instanzen ass Franséisch geschwat ginn. Wann emol eng Kéier een et anescht
+gemaach huet, war fir vill Opmierksamkeet an der Bevëlkerung gesuergt. Schonn
+1848 hat den Deputéierte Karl-Mathias André an der Ständeversammlung zu Ettelbréck op Luxemburger Deutsch geschwat, wourop den Deputéierten Norbert Metz him
+och esou geäntwert huet. D’Zeitungen hunn dëst Evenement mat groussem Interessi
+
+D’Geschicht vun der Lëtzebuerger Sprooch
+
+107
+
+opgeholl an driwwer geschriwwen, wéi am Luxemburger Wort am Extrablatt1 zur Nummer 12 vum 1. Mee 1848:
+„N. Metz nahm das Wort; er begann: ‚Ich werde mich auch des Luxemburgischen
+bedienen, denn ich bin auch der Ansicht, dass die Stände sowohl als auch das
+Publikum alles genau verstehen sollen.‘ Daraus ergibt sich, dass man nicht
+alles versteht, wenn französisch gesprochen wird. Warum bannt man also die
+französische Sprache nicht?“
+Dës Interventioun blouf awer ouni Suitten a gewéinlech gëtt dem Caspar (oder Gaspar) Matthias Spoo seng bekannten Interventioun an der Chamber vum 9. Dezember
+1896 ernimmt, wann d’Gespréich op d’Originne vum offizielle Gebrauch vum Lëtzebuergesche kënnt.
+Dës Ried ass vu muencherengem als Lueflidd op d’Lëtzebuergescht duergestallt
+ginn, woubäi den C. M. Spoo selwer dat net esou gesinn huet: „Ons Sprooch ass déi
+däitsch!”, sot en an der Chamber. Hien huet insistéiert, en hätt Däitsch geschwat,
+also Lëtzebuerger Däitsch, an dat och als Protest géint d’Franséischt an der Chamber,
+op dat d’Deputéiert gehalen hunn, mee dat an der Bevëlkerung déi wéinegst konnte
+verstoen. D’Deputéiert ware bis nom Éischte Weltkrich just Männer, déi am sougenannten Zensus-Walrecht konnte genuch Sue bezuelen, fir däerfe wielen ze goen.
+De Spoo war dergéint, datt d’Chamber an enger Sprooch diskutéiert a legiferéiert
+huet, déi vun engem groussen Deel vun de Leit net verstane gouf. Hien huet sech
+och dorop beruff, datt Franséisch an Däitsch zënter 1848 als Sprooche vum Land an
+der Constitutioun definéiert waren an datt hien dofir kee Feeler géif maachen, wann
+e Luxemburger Deutsch, also Däitsch géif schwätzen. Nawell krut de Spoo an der
+Chamber verbueden, „de se servir de l’idiome du pays dans nos débats publics“. Dat
+war eng interessant Decisioun vun der Chamber, well heimat gouf eng éischte Kéier
+festgehalen, datt een net Däitsch géif schwätzen, wann ee Lëtzebuer­gesch gebraucht,
+an datt also Lëtzebuergesch KEEN Däitsch ass.
+D’Reflexioun iwwer d’Dräisproochegkeet an d’Zesummefléisse vu verschiddene Kulturen zu Lëtzebuerg hu bewierkt, datt de lëtzebuergesche Journalist an Auteur Batty
+Weber an der Dageszeitung Münchener Neueste Nachrichten am Joer 1909 an engem
+Artikel de Begrëff vun der Mischkultur geschafen huet. Hie postuléiert, datt Lëtzebuerg duerch déi historesch Verbindunge mat den
+Nopeschlänner esouwuel däitsch wéi franséisch Kul- 1 Zitéiert aus: Germaine Goetzinger.
+tur- a Sproochelementer iwwerholl an zu engem lët- Luxemburgisch als Literatursprache.
+Katalog zur Ausstellung: Lëtzebuergesch,
+zebuergeschen Unikum vermëscht huet. Lëtzebuerg „eng Ried, déi vun allen am meeschten
+wier weeder Däitschland nach Frankräich, mee vu ëm ons kléngt“. Centre national de
+béiden e bëssen. De Batty Weber huet ëmmer erëm littérature 2000.
+den eegestännege Charakter vun der Lëtzebuerger Aus deem Artikel kënnt och d’InformaSprooch ënnerstrach, déi d’Verbonnenheet mam tioun, datt de Spoo verbuede krut, „de
+se servir de l’idiome du pays dans nos
+Land an der Bevëlkerung illustréiert.
+débats publics“
+
+108
+
+D’Geschicht vun der Lëtzebuerger Sprooch
+
+Schonn de Michel Rodange hat déi verschidde Manéiere vum Lëtzebuergeschschwätze
+literaresch valoriséiert. Am Géigesaz zu Michel Lentz an Dicks war hien net stieds2,
+kee Stater, hien hat op ville Plazen am Land geschafft a gewunnt an en hat d’Land
+an d’Leit mat hire Sproochgewunnechte kenne geléiert. Am Reenert krut all Déierefigur hir eege Fassong ze schwätzen an de Mond geluecht. De René Engelmann vu
+Veianen, Schrëftsteller, Sproochwëssenschaftler a Professer, huet 1910 de Constat
+gemaach, datt et an der Bevëlkerung Lokalmundarten gëtt. Hie féiert de wichtege
+Begrëff vun der sougenannter lëtzebuergescher Koinè an, d. h. vun der allgemein
+luxemburgischen Umgangssprache, déi senger Meenung no an der Mëtt vum Land a
+soziodemografesch vun enger breeder Mëttelschicht geschwat gouf.
+1912 gouf Lëtzebuergesch als Fach an der Schoul ageféiert. Den Unterrechtsminister
+Pierre Braun – Directeur général de l’Intérieur ass en deemools genannt ginn – gouf
+dem Nicolas Welter, deen 1918 selwer sollt Unterrechtsminister ginn, den Optrag, e
+lëtzebuergescht Schoulbuch auszeschaffen, dat 1914 ënner dem Titel Das Luxemburgische und sein Schrifttum erauskoum. D’Orthografiesreegelen, op deenen d’Buch
+baséiert an déi hannen am Buch op dräi an enger hallwer Säit beschriwwe sinn, waren
+duerch d’Zesummenaarbecht vum Nic Welter mam René Engelmann entstanen. Méi
+genee gëtt déi lëtzebuergesch Schreifweis am Artikel Vorschläge zur Regelung der
+luxemburgischen Rechtschreibung vum René Engelmann behandelt. D’Basis fir dës
+Orthografie beschreift den Engelmann esou:
+„Was wir brauchen, ist eine Reihe von allgemeinen Direktiven, [...] ohne für jeden
+einzelnen Fall eine Regel aufzustellen: ein klares, einfaches System, das der
+Dialektschriftsteller sich leicht einprägen und ohne beständiges Nachschlagen
+und Konsultieren ausführen kann, das aber auch dem Leser ein übersichtliches
+und dabei dem Auge gefälliges Schreibbild bietet.“
+Duerch d’Publizéiere vu Schoulbicher an och anere Wierker gouf dës standardiséiert
+Rechtschreiwung verbreet, och wann d’Beherrsche vun der Orthografie keen direkt
+Léierzil war. D’Welter-Engelmann-Schreifweis gouf ni offizialiséiert, mee se war
+d’Norm bis zum Enn vum Zweete Weltkrich.
+2 „De Michel Rodange wor den éischte
+Lëtzebuerger, an deem sech Fillen an Denke
+vum Duerf zu Poesie verkléiert huet. All
+Dichter virun him wore stieds, de Meyer, den
+Diedenhoven, de Gangler, de Lentz, nuren den
+Dicks hat Land a Leit dobausse jorelaang
+erlieft, an deen och nuren esou, dass en a
+senger Plaz iwwer, net mëtten am Vollek
+stung.“ Dat sot de Batty Weber a senger Ried
+sonndes, den 29. August 1926 zu Waldbëlleg.
+Fir de 50. Doudesdag vum Rodange, deen de
+27. August 1876 gestuerwe war, gouf eng
+Plack u säi Gebuertshaus gehaangen. Aus:
+190 Joer Michel Rodange. Marc Barthelemy,
+Marcel Ewers a Jean-Luc Schleich. Gemeng
+Waldbëlleg 2017.
+
+1924 koum et zur Grënnung vun der Société luxembourgeoise d’études linguistiques et dialectologiques, déi 1935 zur Section de linguistique,
+de folklore et de toponymie vum Institut GrandDucal gouf. Och wann d’Virleefer vun der Section
+historique vum Institut Grand-Ducal sech am 19.
+Joerhonnert ëmmer erëm e bëssche mam Lëtzebuergeschen ausernanergesat haten, war déi nei
+Section de linguistique déi éischt Gesellschaft, déi
+sech systematesch op engem wëssenschaftlechen
+Niveau mat der Lëtzebuerger Sprooch beschäftegt
+huet. Déi Viraarbecht konnt awer eréischt nom
+Zweete Weltkrich zu Enn bruecht ginn.
+
+D’Geschicht vun der Lëtzebuerger Sprooch
+
+109
+
+Wa bis den Zweete Weltkrich den offizielle Statut vum Lëtzebuergesche kee groussen
+Theema war, sou huet dat sech wéinst dem nazidäitschen Okkupant grondsätzlech
+geännert. Bei enger Vollekszielung, der sougenannter Personenstandsaufnahme, sollten d’Leit am Oktober 1941 hir Staatsangehörigkeit, Muttersprache a Volkszugehörigkeit uginn. Um Froebou stoung, datt Lëtzebuergesch als Äntwert net erlaabt wier,
+well et jo als däitschen Dialekt an net als Sprooch gegollt huet:
+„In der Regel besitzt jeder Mensch nur eine Muttersprache, in welcher er denkt
+und deren er sich in seiner Familie und im häuslichen Verkehr am liebsten bedient,
+z. B. deutsch, italienisch, französisch, polnisch. [...] Dialekte (Mundarten), z. B.
+luxemburgisch, plattdeutsch, gelten nicht als Muttersprache.“
+Obwuel jo net nëmme Lëtzebuergesch eleng ausgeschloss gouf, war d’Zil ganz kloer:
+Et sollt mat däitsch geäntwert an domat d’Annexioun an d’Däitscht Räich motivéiert
+ginn. Bei Stéchprouwen hunn d’Lëtzebuerger an hirer grousser Majoritéit mat lëtzebuergesch geäntwert, wouropshin den nazidäitschen Okkupant den Zensus ofgeblosen huet.
+D’Okkupatioun hat e bleiwenden Androck hannerlooss an nom Zweete Weltkrich gouf
+probéiert, fir däitsch lexikalesch Elementer aus der Lëtzebuerger Sprooch erauszehuelen. Per Arrêté ministériel gouf de 5. Juni 1946 déi Ofizièl lezebuurjer ortografi
+ageféiert, déi sougenannt Margue-Feltes-Orthografie, déi éischt offiziell Orthografie
+vum Lëtzebuergeschen. Am Géigesaz zu de viregte Schreifweise war d’lezebuurjer
+ortografi vun hirem Konzept hier konsequent phoneetesch ausgeluecht a Substantive
+goufen net méi wéi am Däitsche groussgeschriwwen: „Et get net derno gekukt, vou
+e vuurt hiirkennt, ooder vei et an ènger aanerer shprooch geshrive get. Et get nemen
+derno gekukt, vei et am lezebuurjeshe geshvaat get.“ Déi Schreifweis hat awer keng
+Chance, fir sech duerchzesetzen, well se ze vill mat de Gewunnechte vun de Lëtzebuerger gebrach huet, déi se als net liesbar empfonnt hunn.
+Lëtzebuergesch hat sech deemools nach net genuch als Schrëftsprooch etabléiert,
+fir d’Funktioune vun enger Amtssprooch ze iwwerhuelen. Well nom Krich Däitsch
+als administrativ Sprooch Lingua non grata war, sinn de Gebrauch an de Prestige
+vum Franséischen nach emol staark gewuess. Koumen d’Gesetzer virum Krich op
+Franséisch zesumme mat enger däitscher Iwwersetzung am Memorial eraus, goufen
+se elo just nach op Franséisch publizéiert. Dat huet net derzou bäigedroen, datt déi
+Texter gutt vun de Leit verstane goufen.
+Nom Zweete Weltkrich huet et net laang gedauert, bis d’Efforte ronderëm d’Lëtzebuergescht sech nees geheeft hunn. 1947 huet d’Section de linguistique vum Institut
+Grand-Ducal hir Fonctiounen erëm opgeholl; se huet déi nei gegrënnte Wörterbuchkommission ënnerstëtzt, déi en Dictionnaire vum Lëtzebuergesche sollt ausschaffen. 1950 koum den éischte Fascicule vum Luxemburger Wörterbuch eraus, mee et
+sollt bis 1977 daueren, éier den Dictionnaire ganz a véier Bänn plus e Bäisazband
+publizéiert war. Dësen Dictionnaire gouf am Joer 1996 vun der Regierung zeréckgezunn, well d’Kritik opkomm ass, datt Wierder an Ausdréck opgeholl gi waren, déi
+
+110
+
+D’Geschicht vun der Lëtzebuerger Sprooch
+
+antisemittesch, xenophob oder misogyn sinn. D’Luxemburger Wörterbuch ass mëttlerweil um Internet-Site vun der Universitéit publizéiert a kann do consultéiert ginn:
+dico.uni.lu.
+1975 gouf mat engem ministeriellen Arrêté eng nei offiziell Orthografie festgeluecht.
+Den Alain Atten hat déi geschriwwen a scho virun 1975 an engem Bichelche fir
+d’Schoulen erausginn. Se war vun där inspiréiert, déi de Robert Bruch zesumme
+mat anere fir d’Luxemburger Wörterbuch entwéckelt hat. 1999 koum et mat engem
+Règlement grand-ducal zu klengen Ännerunge vun deene Reegelen, déi vun der Commission de l’orthographe vum CPLL virbereet a redigéiert goufen, ënnert der Regie
+vum Georges Wirtgen, mam Josy Braun, René Faber, Jérôme Lulling, Pierre Reding,
+Joseph Reisdoerfer, Ernest Wagner an Nico Weber.
+Den Interessi um Lëtzebuergesche beim breede Public ass nom Zweete Weltkrich
+allerdéngs erofgaangen. 1952 forméiert sech de Veräin Eis Sprooch, fir deem entgéintzewierken. Mee et ass méi schwiereg gewiescht ewéi gemengt. Nach ugangs de
+70er-Jore gouf et praktesch keng Annoncen an den Zeitungen op Lëtzebuergesch,
+praktesch kee Club huet eng Affiche op Lëtzebuergesch gemaach, et gouf net vill
+Publikatiounen an eiser Sprooch an et si keng Sproochecoursë gehale ginn. Dat sollt
+an de 70er-Joren anescht ginn. 1971 fanne sech fréier Membere vun Eis Sprooch
+zesummen, fir d’Actioun Lëtzebuergesch ze grënnen. Duerch hiren Impuls huet d’Situatioun sech lues a lues geännert. D’Actioun Lëtzebuergesch huet Publikatiounen
+iwwer eng gutt a richteg mëndlech a schrëftlech Ausdrocksweis am Lëtzebuergesche
+realiséiert. Se hat domadder e groussen Undeel um Verdéngscht, datt d’Lëtzebuergescht als Nationalsprooch an als administrativ Sprooch vum Land am Sproochegesetz
+vun 1984 definéiert gouf.
+Mam Gesetz vum 24. Februar 1984 ass Lëtzebuergesch offiziell als Sprooch unerkannt a gläichzäiteg déi geliefte Méisproochegkeet gesetzlech verankert ginn. D’Formuléierung vum Gesetz weist d’Limitt vum deemolege Konsens: Et gëtt net vun
+offizielle Sprooche geschwat, mee d’Lëtzebuergescht gëllt als langue nationale des
+Luxembourgeois an um Franséische gëtt als eenzeg Gesetzessprooch festgehalen. Mee
+Lëtzebuergesch ass als Sprooch bezeechent ginn, gradesou wéi Däitsch a Franséisch.
+Lëtzebuergesch ass zanterhier als Kommunikatiounssprooch ëmmer méi wichteg ginn
+an engem Land mat enger Populatioun, déi en héijen Undeel vun Auslänner mat de
+verschiddensten Originnen huet.
+Vun 1945 un hu Riedner an der Chamber op Lëtzebuergesch geschwat, fir d’éischt
+vereenzelt, dunn ëmmer méi dacks. Laang Zäit an och nach bis an d’1980er-­Joren
+era waren offiziell Rieden ewéi den État de la nation oder d’Deklaratioun iwwer
+d’Aussepolitik op Franséisch. D’Debatten doriwwer sinn deelweis och op Franséisch
+geféiert ginn. Laang huet de Chamberpresident seng Interventiounen a franséischer
+Sprooch gemaach; 1999 eréischt gouf op Lëtzebuergesch gewiesselt. D’Debatten an
+der Chamber ginn haut quasi ouni Ausnam op Lëtzebuergesch geféiert a publizéiert.
+
+D’Geschicht vun der Lëtzebuerger Sprooch
+
+111
+
+An der kathoulescher Kierch sinn déi liturgesch a bibelesch Texter op Lëtzebuergesch
+iwwersat ginn. Och an anere Reliounsgemeinschafte gëtt déi Lëtzebuerger Sprooch
+gebraucht.
+Zanter der Mëtt vum 19. Joerhonnert gëtt et eng Literatur op Lëtzebuergesch. Et dauert awer bis an d’1980er-Joren, bis déi literaresch Produktioun an alle Genren esou
+richteg unzitt: Kannerbicher, Theaterstécker, Gedichter, Romaner asw. hunn zanterhier vill Succès bei de Lieser.
+Initiativen ewéi de Lëtzebuerger Buchpräis, de Prix Servais pour la littérature oder de
+Prix national de littérature Batty Weber ënnerstëtzen a begleeden déi literaresch Produktioun an all de Sproochen, an natierlech och d’Literatur a Lëtzebuerger Sprooch.
+De Centre national de littérature zu Miersch organiséiert reegelméisseg Konferenzen, Liesungen, Ausstellungen asw., déi dacks déi lëtzebuergesch Literatursprooch
+betreffen.
+An enger Abberzuel Publikatiounen, Radios- an Tëleesemissiounen hu virun allem de
+Lex Roth an den Alain Atten hire Lieser an Nolauschterer d’Eegenaarten an d’Schreifweis vum Lëtzebuergeschen explizéiert. Mat Eis Sprooch richteg schreiwen huet de
+Josy Braun ville Lëtzebuerger d’Schreifweis méi no bruecht, éier an de leschte Jore
+wéinst der grousser Demande vill Léierbicher op de Maart komm sinn.
+Ëmmer méi Leit wëllen déi Lëtzebuerger Nationalitéit unhuelen. Zanter 2008 brauchen se net méi hir al Nationalitéit opzeginn, mee se musse Lëtzebuergesch kënnen;
+dofir léieren ëmmer méi Leit eis Sprooch. Am Hierscht 2017 ware knapps 7500
+erwue­sse Schüler an de Coursë vum Educatiounsministère, deene vun der Formation
+des Adultes an deene vum INL, dem Institut national des langues, ageschriwwen; do
+dernieft gëtt et och nach Coursë vu privaten Instituter an Associatiounen.
+Deemno gëtt Lëtzebuergesch als Unterrechtsfach ëmmer méi wichteg an d’Nofro fir
+Enseignantë fir Lëtzebuergesch als Friemsprooch (LaF) klëmmt.
+Zanter 2006 gëtt am Institut de langue et de littératures luxembourgeoises vun der
+Universitéit Lëtzebuerg intensiv an der Luxemburgistik gefuerscht an d’Lëtzebuerger
+Sprooch an all hiren Aspekter analyséiert.
+Bis Juli 2018 gouf et zu Lëtzebuerg zwou Instanzen, déi sech geziilt mat der Lëtzebuerger Sprooch beschäftegt hunn.
+De Conseil permanent de la langue luxembourgeoise (Conseil fir d’Lëtzebuerger
+Sprooch, CPLL) gouf 1998 duerch e ministeriellt Reglement gegrënnt. De CPLL huet
+déi sougenannt Dictionnaireskommissioun vun 1992 (Commission du Dictionnaire
+et de l’Orthographe de la langue luxembourgeoise) ersat. 1999 gouf déi gesetzlech
+Basis vum CPLL an engem groussherzogleche Reglement an 2004 am Gesetz iwwer
+d’Kulturinstituter festgehalen.
+
+112
+
+D’Geschicht vun der Lëtzebuerger Sprooch
+
+De CPLL krut den Optrag, d’Lëtzebuerger Sprooch ze erfuerschen, ze beschreiwen an
+ze verbreeden. De Conseil besteet aus maximal eelef Memberen, déi berufflech mat
+der Lëtzebuerger Sprooch ze dinn hunn an duerch en Arrêté grand-ducal fir e Mandat
+vun dräi Joer genannt ginn. Hiert Mandat ass erneierbar.
+De Lëtzebuerger Online Dictionnaire (LOD) huet seng Originne beim Dictionnaire pratique de la langue luxembourgeoise, un deem zanter dem Joer 2000 geschriwwe gëtt.
+2003 koumen déi éischt Dictionnaires-Artikelen. Den zoustännege Grupp huet ënner
+der Tutelle vum Kulturministère geschafft, ënnerstëtzt vum Educatiounsministère.
+2007 krut en den Numm Lëtzebuerger Online Dictionnaire (LOD) an déi ausgeschafften Artikele koumen op den Internetsite www.lod.lu.
+No an no huet de Grupp LOD nach aner Servicer ugebueden, wéi z. B. Korrekturen an
+Iwwersetzunge fir d’Administratiounen, Äntwerten op Froe vu Benotzer per Mail, per
+SMS an och um Telefon. 2013 sinn d’Reegele vun der Lëtzebuerger Schreifweis op
+ortho.lod.lu vereinfacht a mat Exercicen online gesat ginn. Zanter 2017 bitt de Site
+­med.lod.lu medezinesch Fachausdréck un, op Lëtzebuergesch, Däitsch, Franséisch,
+Englesch a Portugisesch.
+Parallel zum LOD huet sech wikipedia.lu a Lëtzebuerger Sprooch entwéckelt, ënner
+der Initiativ vum Edson Souza Morais a vum René Beideler, respektiv President a
+Sekretär vu Wikimedia Lëtzebuerg.
+Zanter 2006 ass de Spellchecker (www.spellchecker.lu) online, duerch deen
+d’Schreifweis vum Lëtzebuergesche kann iwwerpréift ginn – e Projet, dee vum Michel
+­Weimerskirch bis haut virugedriwwe gëtt.
+An de leschte Joerzéngten ass d’Lëtzebuerger Sprooch an der lëtzebuergescher Gesellschaft ëmmer méi diskutéiert ginn, wat schonn 2009 derzou gefouert huet, datt
+eng Partie Parteien d’Roll an d’Léiere vum Lëtzebuergeschen an hire Wal­programmer
+stoen haten.
+Beim Referendum 2015 war d’Lëtzebuerger Sprooch een Aspekt vun den Diskussiounen iwwert d’Fro nom Zougang vun auslänneschen Awunner zu den nationale Walen.
+Am Joer 2016 war d’Chamber mat zwou Petitioune befaasst, déi allen zwou ronderëm
+d’Lëtzebuerger Sprooch gedréit hunn.
+Déi eng Petitioun mat bal 15.000 Ënnerschrëfte wollt Lëtzebuergesch als éischt
+Amtssprooch zu Lëtzebuerg. Déi aner mat ronn 5.000 Ënnerschrëften huet de
+Contraire verlaangt. Déi zwou Petitiounen hate séier den néidege Quorum a sinn an
+der Chamber debattéiert ginn.
+De groussen Interessi un der Lëtzebuerger Sprooch war däitlech. D’Regierung huet
+2017 reagéiert mat enger Strategie fir d’Promotioun vun der Lëtzebuerger Sprooch.
+
+D’Geschicht vun der Lëtzebuerger Sprooch
+
+113
+
+D’Preambel dovunner huet souwuel d’Wichtegkeet vum Lëtzebuergeschen ewéi déi
+vun der Méisproochegkeet fir d’Identitéit vu Lëtzebuerg ënnerstrach:
+„D’Regierung erkennt d’Wichtegkeet vun der Lëtzebuerger Sprooch als Kommunikatiouns-, Integratiouns- a literaresch Sprooch un. Och wann et scho vill Moossname gëtt, fir d’Lëtzebuerger Sprooch ze fërderen, wëllt d’Regierung hiert Engagement fir d’Sprooch nach eng Kéier verstäerken.
+Mee och d’Méisproochegkeet ass eng Charakteristik vu Lëtzebuerg. Nieft dem
+Lëtzebuergeschen, dem Däitschen an dem Franséische sinn am Alldag nach aner
+Sproochen am Gebrauch. Zesumme präge si d’Identitéit vun eisem Land an droen
+e weesentlechen Deel zur sozialer Kohäsioun bäi. Dofir engagéiert sech d’Regierung mat der Promotioun vum Lëtzebuergeschen och gläichzäiteg fir d’Promotioun
+vun der Méisproochegkeet.“
+D’Regierung huet sech engagéiert, fir de Stellewäert vun der Lëtzebuerger Sprooch ze
+stäerken, d’Norméierung, de Gebrauch an d’Etüd dovunner virunzedreiwen, d’Léiere
+vun der Lëtzebuerger Sprooch a Kultur ze fërderen an d’lëtzebuergesch-sproocheg
+Kultur ze promouvéieren. D’Strategie huet virgesinn, déi néideg Institutiounen dofir
+iwwert e Gesetz ze schafen, dat 2018 an der Chamber gestëmmt gouf.
+Mam Gesetz iwwert d’Promotioun vun der Lëtzebuerger Sprooch (loi du 20 juillet
+2018 relative à la promotion de la langue luxembourgeoise) gouf de Poste vum Commissaire fir d’Lëtzebuerger Sprooch geschaf. Hie soll der Regierung en Aktiounsplang
+fir d’Lëtzebuergescht proposéieren an duerno och d’Ëmsetzen dervu superviséieren
+a koordinéieren. Dobäi huet en d’Hëllef vun engem Comité interministériel. Éischte
+Commissaire fir d’Lëtzebuerger Sprooch gouf am Oktober 2018 de Marc Barthelemy.
+Mam selwechte Gesetz gouf och den Zenter fir d’Lëtzebuerger Sprooch (ZLS) geschaf.
+Dësen Zenter soll eng Kontakt- an Informatiounsplaz fir d’Lëtzebuergescht sinn an
+ass och fir den LOD zoustänneg. Zu de Missioune vum Zenter gehéieren d’Norméierung vun der Sprooch, d’Ausschaffe vu linguisteschen Outilen an Iwwersetzungen.
+Donieft soll den Zenter op Froen iwwer d’Schreifweis, d’Grammaire, d’Phoneetik an
+de gudde Gebrauch vun der Lëtzebuerger Sprooch äntweren. Am Juli 2019 gouf de
+Luc Marteling éischten Direkter vum Zenter genannt. De CPLL krut duerch d’Sproochegesetz d’Missioun, der Regierung bei Froen iwwer d’Norméierung vum Lëtzebuergeschen en Avis ze ginn, grad ewéi bei Gesetzprojeten a -proposen iwwer d’Lëtzebuerger Sprooch an iwwer d’Sproochesituatioun zu Lëtzebuerg. Ufanks 2019 huet
+d’Myriam Welschbillig d’Presidentschaft vum CPLL iwwerholl.
+
+114
+
+D’Geschicht vun der Lëtzebuerger Sprooch
+
+Wéi ass dësen Text entstanen?
+D’Reegelen iwwer d’Orthografie vun der Lëtzebuerger Sprooch hu bis 2019 op zwee
+offiziellen Texter baséiert:
+V Arrêté ministériel du 10 octobre 1975 portant réforme du système officiel
+d’orthographe luxembourgeoise
+V Règlement grand-ducal du 30 juillet 1999 portant réforme du système officiel
+d’orthographe luxembourgeoise
+1999 huet déi deemoleg Kulturministesch Erna Hennicot-Schoepges dem François
+Schanen an dem Jérôme Lulling, allen zwee vun der Université Paul Valéry vu Montpellier, den Optrag ginn, aus deenen zwee Reglementer een Texte coordonné ze
+maachen. Déi Häre Schanen a Lulling hunn dem CPLL hiren Text 2001 virgestallt:
+Introduction à l’orthographe luxembourgeoise. Description systématisée de l’orthographe officielle luxembourgeoise telle qu’exposée en annexe de l’arrêté ministériel du
+10/10/1975 et modifiée par les révisions proposées en annexe du règlement grandducal du 30/07/1999. Deen Text ass ni offizialiséiert ginn, gouf awer vum CPLL a vu
+sengem President Georges Wirtgen um Internetsite www.cpll.lu publizéiert a gehéiert
+nieft den zwee Reglementer zu de Quelle vum aktuelle Reegelwierk.
+2016 huet den Educatiounsminister Claude Meisch den Optrag un en Expert ginn,
+fir am Kader vum Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques (SCRIPT) en Texte coordonné vun deenen zwee offiziellen
+Texter auszeschaffen an eventuell Inkohärenzen a Widderspréch ze identifizéieren.
+Deen Text coordonné gouf dem CPLL am Fréijoer 2017 virgeluecht.
+Parallel dozou huet en Aarbechtsgrupp, deen op Initiativ vum LOD entstane war, zu
+enger Partie Kapitele Proposen ausgeschafft, fir Lächer am Reegelwierk ze stoppen.
+Déi Propose goufen dem CPLL virgeluecht, déi lescht am Summer 2017. Si hunn e
+Wee gewisen, wéi een déi Fäll kéint reegelen, déi net an den zwee offiziellen Texter
+behandelt waren. D’Theemeberäicher waren déi heiten:
+V
+V
+V
+V
+V
+V
+V
+V
+
+De stommen h
+De laangen e
+De stommen e
+Affixen, Diminutiven, Zesummesetzungen
+‹g›, ‹j›, ‹ch›, ‹sch›: D’Verschrëftlechung vun de Frikativlauter
+Getrennt- an Zesummeschreiwung
+Grouss- a Klengschreiwung
+Friemwierder
+
+De CPLL huet aus dem Texte coordonné an de Proposen iwwer déi aacht Theeme­
+beräi­cher eng Synthees gemaach an déi u véier Experte fir hiren Avis ginn.
+Am November 2018 huet de CPLL e koordinéierten a completéierten Text vum
+Reegelwierk proposéiert an op www.cpll.lu publizéiert. De Public gouf invitéiert, ze
+
+D’Geschicht vun der Lëtzebuerger Sprooch
+
+115
+
+reagéieren an Avisen eranzeginn. Mat deenen Avise gouf eng zweet Versioun ausgeschafft, déi den 20. Mäerz 2019 vum CPLL ugeholl an online publizéiert gouf.
+Den Usproch war et, e kohärent Reegelwierk ze schafen, mat deem vill méi orthografesch Fäll wéi virdru gekläert ginn. Wéi schonn am Schanen/Lulling-Text vun
+2001 goufen déi Kapitele behandelt, déi bis dohin am offizielle Reegelwierk gefeelt
+hunn, mat de Reegelen iwwer d’Getrennt- an Zesummeschreiwung, iwwer d’Grouss- a
+Klengschreiwung an iwwer d’Interpunktioun am Lëtzebuergeschen. Déi aner Kapitele
+sinn zum Deel gehéiereg completéiert ginn; dobäi sinn d’Reegele vun de Reglementer
+vun 1975 an 1999 iwwerholl ginn, mat Ausnam vun der r-Reegel (beim i a beim u).
+Dës Propos fir en neit Reegelwierk war ausgeschafft gi vum zoustännegen Aarbechtsgrupp mat deenen heite Membere vum CPLL, opgrond vun enger éischter Propos fir
+e koordinéierten Text, déi de Luc Belling am Optrag vum SCRIPT ausgeschafft hat:
+V
+V
+V
+V
+V
+V
+
+Marc Barthelemy, President vum Grupp an deemolege President vum CPLL
+Caroline Döhmer, LOD
+Angie Gaasch, INL
+Peter Gilles, Universitéit Lëtzebuerg
+Helmuth Sperl, LOD
+Myriam Welschbillig, Iwwersetzerin
+
+Offiziell Avise goufe verfaasst vun:
+V
+V
+V
+V
+
+Luc Marteling, RTL
+Jackie Messerich, Enseignante
+Claudine Moulin, Universität Trier
+Shari Schenten, Enseignante, Presidentin vun der Programmkommissioun fir
+Lëtzebuergesch am Secondaire
+
+Den Text war och an engem Aarbechtsgrupp iwwer d’Orthografie beim LOD diskutéiert ginn. An deem Grupp waren, nieft de scho genannte Caroline Döhmer, Jackie
+Messerich, Helmuth Sperl a Myriam Welschbillig:
+V
+V
+V
+V
+V
+V
+V
+
+Claire Garçon, Service du Compte rendu, Chambre des Députés
+Alexandre Ecker, LOD
+Christiane Ehlinger, Schrëftstellerin
+Gabrielle Fischbach, Service du Compte rendu, Chambre des Députés
+Marthy Gloesener, LOD
+Denise Heiderscheid, Enseignante
+Sonia Thewes, Enseignante
+
+Am CPLL hunn sech nieft de genannte Marc Barthelemy, Angie Gaasch, Peter Gilles,
+Helmuth Sperl a Myriam Welschbillig déi aner Memberen och un den Diskussioune
+bedeelegt:
+
+116
+
+﻿
+
+V
+V
+V
+V
+V
+V
+
+Alain Atten
+Claude Bache
+Claude Kremer
+Pierre Reding
+Lex Roth
+Nora Si Abderrahmane
+
+Weider schrëftlech Avisen hunn eraginn:
+Andreas David Adler, Steve Becker, René Beideler an Edson Souza Morais (Wikimedia
+Lëtzebuerg), Josy Christen, Carole Goedert, Irène Hoffmann-Felten, Adrienne
+Humbert, Erny Klares, Marie-Claude Koders, Yann Logelin, Romain Modert, Pia
+Moris, Pierre Paulus, François Schanen, Lotty Schmit, Annette Schütz, Pascal Thiel,
+Antoinette Welter, Pascal Zotto.
+Op deenen Aarbechten an Avise baséiert dës Orthografie, déi mat Hëllef vum Zenter
+fir d’Lëtzebuerger Sprooch finaliséiert gouf. Nodeems de CPLL se positiv aviséiert
+hat, huet d’Regierung se am November 2019 ugeholl. Am November 2019 gouf
+se och offiziell virgestallt a war vun deem Ament un direkt a Kraaft. Bis zu der
+Rentrée 2020 blouf déi viregt Orthografie och nach gëlteg; vum September 2020
+un ass d’Lëtzebuerger Orthografie vum ZLS déi eenzeg offiziell Referenz, wann et ëm
+d’Schreifweis vun der Lëtzebuerger Sprooch geet.
+Am Reegelwierk gëtt drop verzicht, komplett Lëschten unzegi vu Wierder mat hirer
+aktueller Schreifweis; et gëtt dofir op den offizielle Lëtzebuerger Dictionnaire (LD)
+verwisen, deem seng ablécklech Form de Lëtzebuerger Online Dictionnaire (LOD) ass.
+D’Reegelwierk ass mat ganz wéinege Fachbegrëffer geschriwwen, esou datt de Laien
+et versteet. An der Annex hannendrun ass d’Aussprooch vun de Buschtawen am
+Lëtzebuergesche mat phoneeteschen Zeechen explizéiert.
+Am Reegelwierk ginn op en ettlech Plaze Varianteschreiwunge festgehalen. Natierlech
+sinn all dës Schreifweise richteg, an offiziellen Dokumenter soll wa méiglech
+d'Haaptvariant geholl ginn.
+A ville Beräicher, virun allem bei der Abiergerung vu Wierder aus anere Sproochen, ass
+d’Lëtzebuerger Sprooch a permanenter Entwécklung. Den Zenter fir d’Lëtzebuerger
+Sprooch an de CPLL schaffe virun drun, fir d’Reegele vum Lëtzebuergeschen ze
+aktualiséieren an nei Wierder a Schreifweisen an de Lëtzebuerger Dictionnaire
+opzehuelen. Déi Aktualiséierunge gi vum Zenter publizéiert.
+
+Um Internetsite vum
+Zenter fir d’Lëtzebuerger Sprooch (ZLS)
+fannt Dir d’Lëtzebuerger Orthografie
+och fir erofzelueden:
+www.zls.lu
+Weider Informatiounen iwwer d’Schreifweis,
+e sëllege Beispillssätz an Iwwersetzungen
+op Däitsch, Franséisch, Englesch a Portugisesch
+gëtt et am Lëtzebuerger Online Dictionnaire (LOD):
+www.lod.lu
+Den Iwwerbléck iwwer d’Lëtzebuerger Verben
+an hir Konjugatioun ass ze fannen um Verbesite
+vum ZLS:
+www.verben.lu
+Zesumme mam SCRIPT huet den ZLS 30 Videoclippen
+ausgeschafft, an deenen déi wichtegst Orthografies­reegelen
+erkläert ginn:
+www.vimeo.com/showcase/
+letzebuergesch-richteg-schreiwen
+
+Dat offiziellt Reegelwierk vun
+der Lëtzebuerger Sprooch
+V aktualiséiert a completéiert
+V an zéng Kapitelen ënnerdeelt
+V liicht a verständlech geschriwwen
+V mat ville Beispiller illustréiert
+V inklusiv Iwwerbléck iwwer d’Geschicht
+vun der Lëtzebuerger Sprooch
+
+
