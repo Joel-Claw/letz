@@ -628,7 +628,7 @@ COMMON_WORDS: set[str] = {
     "Scouten", "Explorer", "Rover", "Cheffen", "Scoutstrupp", "Scoutswäerter",
     "Aventur", "Frëndschaft", "Reuniounen", "Summercampen", "Wisefest",
     "Wandering", "Randonnée", "Randonnées", "Expeditiounen",
-    "perséinlech", "Entwécklung", "Gemengschaft", "Biergerschaft",
+    "perséinlech", "Entwécklung", "Gemeinschaft", "Communautéit", "Biergerschaft",
     "Aweiung", "Leedung", "echtlech", "méiglech",
     "Erfarung", "Erfarungen", "Verantwortung", "Verantwortungen",
     "Ënnerstëtzung", "Formatioun", "Formatiounen", "Organisatioun",
@@ -738,4 +738,7 @@ COMMON_MISSPELLINGS: dict[str, str] = {
     "Lëtzebuurg": "Lëtzebuerg",
     # ee vs e
     "ebben": "eeben",
+    # False Luxembourgish (German-influenced spellings that don't exist)
+    "Gemengenschaft": "Gemeinschaft",  # not Gemeng+schaft, Gemeinschaft is the real word
+    "Eiseecher": "eenen aneren",  # "each other" is eenen aneren, not a word
 }
