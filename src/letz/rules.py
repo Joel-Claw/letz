@@ -550,7 +550,7 @@ COMMON_WORDS: set[str] = {
     "Buch", "Zäitung", "Dier", "Tasch", "Geld",
     "Schlësselen", "Telefoun", "Computer",
     # Common nouns - abstract
-    "Liewen", "Léift", "Frëndschaft", "Gléck", "Freed", "Leed",
+    "Liewen", "Léift", "Frëndschaft", "Gléck", "Freed", "Spaass", "Leed",
     "Gesondheet", "Aarbecht", "Fräizäit", "Kultur", "Politik",
     "Sprooch", "Land", "Welt", "Gesellschaft", "Geschicht",
     # Common nouns - Luxembourg specific
@@ -779,7 +779,8 @@ COMMON_MISSPELLINGS: dict[str, str] = {
     "Erwuessenerteam": "Erwuessenerleedungsteam",  # wrong compound
     "Gemeinschaft": "Gemeinschaft",  # Gemeinschaft is the real word (not Gemengschaft)
     "Aventur": "Abenteuer",  # Aventur is not a word; use Abenteuer or Aventure
-    "Spillsin": "Spass",  # not a word; Spass = fun (German loanword used in Luxembourgish)
+    "Spillsin": "Spaass",  # not a word; Spaass = fun in Luxembourgish
+    "Spass": "Spaass",  # Spass is German; Luxembourgish is Spaass
     "Spuet": "Spuet",  # WARNING: Spuet = shovel, NOT fun! Don't use for 'sense of fun'
     "Wanderstackschauen": "Biergschong",  # Biergschong = hiking boots (from Scoutsbichelchen)
     "Wanderschoen": "Biergschong",  # Wanderschoen is German/Dutch, not Luxembourgish
