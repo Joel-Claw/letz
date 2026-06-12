@@ -524,6 +524,37 @@ COMMON_WORDS: set[str] = {
     # Common places
     "Lampertsbierg", "Bouneweg", "Esch", "Diddeleng", "Esch-Sauer",
     "Kleng", "Grouss", "Bierg", "Dall", "Feld", "Bësch",
+    # Scouting / Fiiss specific
+    # Scouting / Fiiss specific
+    "Scouten", "Explorer", "Rover", "Cheffen", "Scoutstrupp", "Scoutswäerter",
+    "Aventur", "Frëndschaft", "Reuniounen", "Summercampen", "Wisefest",
+    "Wandering", "Randonnée", "Randonnées", "Expeditiounen",
+    "perséinlech", "Entwécklung", "Gemengschaft", "Biergerschaft",
+    "Aweiung", "Leedung", "echtlech", "méiglech",
+    "Erfarung", "Erfarungen", "Verantwortung", "Verantwortungen",
+    "Ënnerstëtzung", "Formatioun", "Formatiounen", "Organisatioun",
+    "Virbereedung", "Erwuessener", "Erwuessenerleedung",
+    "onofhängeg", "ofhängeg", "Wéchentlech", "wéchentlech",
+    "Gemeinschaftsservice", "Federalsaktivitéiten", "Projeten",
+    "Scoutserfahrung", "Scoutserfarung", "Scoutstufen", "Badger",
+    "Jugendscouting", "Encadréieren", "encadréieren", "reservéiert",
+    "bäitrieden", "kontaktéieren", "kontaktéiert",
+    "decidéiert", "Volontairen", "Fräiwëlleger", "Volontaire",
+    "ännerstëtzen", "Naturkompetenzen", "Teamwork",
+    "Komitéen", "Komitee", "identitéit", "Identitéit",
+    "Aktivitéiten", "Aktivitéit", "Erausfuerderungen",
+    "Fäegkeeten", "Fäegkeet", "Selbstvertrauen", "Prescht",
+    "Wisefest", "järlecht", "Campen", "Camp",
+    # German loanwords used in Luxembourgish
+    "Zeitung", "Verfügung", "Grënnung", "Fusioun", "Konstruktioun",
+    "Konditioun", "Professioun", "Sëtz", "Chalet", "Terrain",
+    "Foulard", "Uniform", "Federatioun", "Federatiounen",
+    # Camp/scouting terms
+    "Deglech", "Éischte", "Orientéierung", "onvergässlech",
+    "Reenkleedung", "Umellung", "Ganzdaagswanderung", "Reemkleedung",
+    "Summercamp", "Lager", "Wisefest", "Fest",
+
+
     # Common adjectives
     "gutt", "schléi", "schéin", "grouss", "kleng", "nei", "al",
     "wäiss", "schwaarz", "rout", "blo", "gréng", "giel",
