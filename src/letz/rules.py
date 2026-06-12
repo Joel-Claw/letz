@@ -627,7 +627,7 @@ COMMON_WORDS: set[str] = {
     # Scouting / Fiiss specific — FNEL terminology (Scoutsbichelchen 2022)
     "Scouten", "Scout", "Explorer", "Rover", "Tembo",  # age branches
     "Wëllefcher", "Wëllefchen", "Beaver",  # youngest branches
-    "Cheffen", "Cheff", "Chef", "Truppechef", "Kommissär",  # leaders
+    "Cheffen", "Cheff", "Chef", "Truppechef", "Branchechef", "Kommissär",  # leaders
     "Scoutstrupp", "Scoutswäerter", "Scoutsgesetz", "Scoutsgrouss",
     "Scoutsverspriechen", "Scoutismus", "Scoutsmouvement",
     "Scoutsbranche", "Scoutscarrière", "Scoutswee",
@@ -784,5 +784,6 @@ COMMON_MISSPELLINGS: dict[str, str] = {
     "Wanderstackschauen": "Biergschong",  # Biergschong = hiking boots (from Scoutsbichelchen)
     "Wanderschoen": "Biergschong",  # Wanderschoen is German/Dutch, not Luxembourgish
     "Wanderschong": "Biergschong",  # variant misspelling
-    "Branchleader": "Branch-Leeder",  # FNEL uses Leedung/Leeder, not English Leader
+    "Branchleader": "Branchechef",  # FNEL term for branch leader
+    "Branch-Leeder": "Branchechef",  # not a real term; use Branchechef
 }
