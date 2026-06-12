@@ -288,28 +288,23 @@ class Spellchecker:
 
     # Common German words that are NOT Luxembourgish
     GERMAN_ONLY_WORDS: set[str] = {
-        # Pronouns
-        "ich", "mich", "dich", "sich", "wir", "euch", "ihnen", "ihr",
-        # Articles
-        "der", "die", "das", "den", "dem", "des", "ein", "eine", "einem", "einer", "eines",
-        # Conjunctions
-        "dass", "oder", "wenn", "als", "doch", "noch", "aber", "sondern",
-        # Prepositions
-        "von", "zur", "zum", "bei", "nach", "seit", "außer",
-        # Common nouns (German-only spellings)
-        "Straße", "Schule", "Arbeit", "Hausfrau", "Krankenhaus",
-        "Rechtschreibung", "Fremdwort",
-        # Verbs (German forms)
-        "ist", "sind", "war", "waren", "hat", "haben", "wird", "werden",
-        "kann", "können", "muss", "müssen", "soll", "sollen",
+        # Pronouns (Luxembourgish uses different forms)
+        "ich", "mich", "dich", "sich", "euch", "ihnen", "ihr",
+        # Conjunctions that differ
+        "dass",  # Luxembourgish: datt
+        "sondern",  # Luxembourgish: mä
+        "außer",  # Luxembourgish: baussen / ausser
+        # German spellings that don't exist in Luxembourgish
+        "Straße", "Rechtschreibung", "Fremdwort",
     }
 
     # German → Luxembourgish mapping for common confusions
     GERMAN_TO_LUX: dict[str, str] = {
         "ich": "ech", "mich": "mech", "dich": "dech", "sich": "sech",
-        "dass": "datt", "ist": "ass", "Straße": "Strooss",
+        "dass": "datt", "Straße": "Strooss",
         "Schule": "Schoul", "Arbeit": "Aarbecht",
-        "Hausfrau": "Hausfra", "Fremdwort": "Friemwuert",
+        "Fremdwort": "Friemwuert", "sondern": "mä",
+        "außer": "baussen",
     }
 
     def _identify_unknown_word(self, word: str) -> list[str]:

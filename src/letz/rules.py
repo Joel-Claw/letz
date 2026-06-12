@@ -495,6 +495,11 @@ COMMON_WORDS: set[str] = {
     "de", "den", "d'", "e", "en", "eng", "dat", "wat", "dee", "déi",
     "ech", "du", "hien", "hatt", "si", "mir", "dir", "sech",
     "meng", "deng", "seng", "eist", "är", "hir",
+    # Overlapping with German (valid in Luxembourgish too)
+    "war", "hat", "der", "dem", "den", "die", "das",
+    "ist", "sind", "wird", "werden", "kann", "noch",
+    "oder", "wenn", "als", "aber", "wir", "ein", "eine",
+    "bei", "nach", "seit", "von", "zur", "zum", "das",
     # Prepositions
     "an", "am", "op", "vum", "mat", "fir", "zu", "bei", "no", "virun",
     "hanner", "iwwer", "ënner", "tëschent", "duerch", "ouni", "bis",
@@ -522,6 +527,7 @@ COMMON_WORDS: set[str] = {
     # Common adjectives
     "gutt", "schléi", "schéin", "grouss", "kleng", "nei", "al",
     "wäiss", "schwaarz", "rout", "blo", "gréng", "giel",
+    "gewéinlech", "speziell", "kleng", "alen", "roued",
     # Common verbs
     "sinn", "hunn", "goen", "kommen", "maachen", "sinn", "wëllen",
     "kënnen", "mussen", "daten", "gesinn", "huelen", "fannen",
