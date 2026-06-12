@@ -636,7 +636,7 @@ COMMON_WORDS: set[str] = {
     "Abenteuer", "Frëndschaft", "Reuniounen", "Reunioun",  # activities
     "Summercampen", "Summercamp", "Wisefest", "Federalscamp",
     "Wandering", "Randonnée", "Randonnées", "Expeditiounen",
-    "Camp", "Campen", "Sortie", "Weekend",
+    "Camp", "Campen", "Survival", "Hike", "Sortie", "Weekend",
     "Jamboree", "PowWow", "Explo",  # events
     "Patrull", "Patrullen", "Patrullensystem", "Patrullekreesch",
     "Patrullennumm", "Patrulleklasseur", "Patrullefändel", "Patrulleblog",
@@ -789,4 +789,7 @@ COMMON_MISSPELLINGS: dict[str, str] = {
     "Serviceprojeten an der Gemeinschaft": "Benevolat-Projeten",  # not a Luxembourgish phrase
     "Gemeinschaftsservice": "Benevolat",  # not a real compound; use Benevolat (FNEL term)
     "Matmaacher": "Participant",  # Matmaacher is not the word for participant; use Participant
+    "Lageren": "Campen",  # FNEL uses Camp/Campen (French loanword), not Lageren
+    "Iwwerliewensherausfuerderungen": "Survival-Herausfuerderungen",  # ridiculous compound; Bichelchen uses Survival
+    "Planifikatioun": "Plangen",  # Bichelchen uses Plangen, not Planifikatioun
 }
