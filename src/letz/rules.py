@@ -458,6 +458,8 @@ def load_spelling_variants() -> dict[str, list[str]]:
         # Place name n-variants
         "Lëntgen": ["Lëntge"],
         "München": ["Münche"],
+        # n-rule variants
+        "schonn": ["schonns"],
         # Compound variants
         "Moolzecht": ["Molzecht"],
         "Flughafen": ["Fluchhafen"],
@@ -561,6 +563,7 @@ COMMON_WORDS: set[str] = {
     "gewéinlech", "speziell", "kleng", "alen", "roued",
     # Common verbs
     "sinn", "hunn", "goen", "kommen", "maachen", "sinn", "wëllen",
+    "schonn", "schonns",
     "kënnen", "mussen", "daten", "gesinn", "huelen", "fannen",
     "schreiwen", "liesen", "schwätzen", "molen", "faulen",
     # Numbers
@@ -575,6 +578,7 @@ COMMON_WORDS: set[str] = {
     "Moien", "Äddi", "Merci", "Wannechgelift", "Entschëllegt",
     "keng", "weeder", "nach", "awer", "och", "duerch", "well",
     "wéi", "dat", "dës", "dësen", "hier", "eis", "är",
+    "genannt", "mam",
 }
 
 # Common misspellings mapped to corrections
