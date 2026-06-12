@@ -633,7 +633,7 @@ COMMON_WORDS: set[str] = {
     "Scoutsbranche", "Scoutscarrière", "Scoutswee",
     "Scoutsbridder", "Scoutefrënn", "Scoutschalet", "Scoutscentren",
     "Scoutsprogramm", "Scoutsaktivitéit", "Scoutserfarung",
-    "Aventur", "Frëndschaft", "Reuniounen", "Reunioun",  # activities
+    "Abenteuer", "Frëndschaft", "Reuniounen", "Reunioun",  # activities
     "Summercampen", "Summercamp", "Wisefest", "Federalscamp",
     "Wandering", "Randonnée", "Randonnées", "Expeditiounen",
     "Camp", "Campen", "Sortie", "Weekend",
@@ -778,4 +778,5 @@ COMMON_MISSPELLINGS: dict[str, str] = {
     "Jonk": "Jugendlecher",  # Jonk=young(adj), Jugendlecher=youth(people, noun) - logical error
     "Erwuessenerteam": "Erwuessenerleedungsteam",  # wrong compound
     "Gemeinschaft": "Gemeinschaft",  # Gemeinschaft is the real word (not Gemengschaft)
+    "Aventur": "Abenteuer",  # Aventur is not a word; use Abenteuer or Aventure
 }
